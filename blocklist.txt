@@ -114,7 +114,6 @@
 ||cubchannel.com^
 ||customerevents.netflix.com^
 ||cxense.com^
-||cz15y20kg2.execute-api.us-east-1.amazonaws.com^
 ||d1ros97qkrwjf5.cloudfront.net^
 ||d25xi40x97liuc.cloudfront.net^
 ||d2pezc1a2cl20m.cloudfront.net^
@@ -148,6 +147,7 @@
 ||entitlements.jwplayer.com^
 ||events-collector.spot.im^
 ||evidon.com^
+||execute-api.us-east-1.amazonaws.com^
 ||eyeota.net^
 ||ezoic.net^
 ||fc.yahoo.com^
