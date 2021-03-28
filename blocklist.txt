@@ -32,6 +32,7 @@
 ||amazon-adsystem.com^
 ||amazonads*^
 ||amcs-tachyon.com^
+||amplitude.com^
 ||analytics.*^
 ||animatedbanner.xyz^
 ||anvato.net^
@@ -39,6 +40,7 @@
 ||api-2-0.spot.im^
 ||api-cf.affirm.com^
 ||api.amazonalexa.com^
+||api.apptentive.com^
 ||api.audible.com^
 ||api.github.com^
 ||api.us-east-1.aiv-delivery.net^
@@ -206,6 +208,7 @@
 ||kinesis.us-east*.amazonaws.com^
 ||kochava.com^
 ||krxd.net^
+||kundenserver.de^
 ||launchdarkly.com^
 ||lightboxcdn.com^
 ||lijit.com^
