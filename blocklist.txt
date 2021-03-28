@@ -154,6 +154,7 @@
 ||firebaseio.com^
 ||fls-na.amazon.com^
 ||flurry.com^
+||fm.cnbc.com^
 ||fonts.googleapis.com^
 ||fonts.gstatic.com^
 ||footprints-pa.googleapis.com^
@@ -164,6 +165,7 @@
 ||geo.query.yahoo.com^
 ||geo.yahoo.com^
 ||geolocation.onetrust.com^
+||glitter.services.disqus.com^
 ||go-mpulse.net^
 ||go.microsoft.com^
 ||google-analytics.com^
@@ -227,6 +229,7 @@
 ||ml314.com^
 ||moatads.com^
 ||mparticle.com^
+||mps.cnbc.com^
 ||mqtt.*.ltsapis.goog^
 ||mtalk.google.com^
 ||mzhlhrfr8z.info^
@@ -346,6 +349,7 @@
 ||vendorlist.consensu.org^
 ||viafoura.*^
 ||video-api.yql.yahoo.com^
+||videoplayerhub.com^
 ||vindicosuite.com^
 ||vortex.data.microsoft.com^
 ||watson.telemetry.*^
