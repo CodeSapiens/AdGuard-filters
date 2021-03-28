@@ -3,6 +3,7 @@
 ||3lift.com^
 ||a167avoddashs3ww-a.akamaihd.net^
 ||a60avoddashs3ww-a.akamaihd.net^
+||aax-us-iad.amazon.com^
 ||aboutads.info^
 ||account.api.here.com^
 ||activity.windows.com^
@@ -89,6 +90,7 @@
 ||clickbank.net^
 ||client-analytics.*^
 ||cloud1.linksyssmartwifi.com^
+||cloudfront-labs.amazonaws.com^
 ||cognito-identity.us-east-1.amazonaws.com^
 ||colossusssp.com^
 ||comixology.com^
