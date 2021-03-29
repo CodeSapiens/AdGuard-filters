@@ -28,7 +28,6 @@
 ||advertising.amazon.com^
 ||affilired.com^
 ||agkn.com^
-||alexa-comms-mobile-service.amazon.com^
 ||alt8-mtalk.google.com^
 ||amazon-adsystem.com^
 ||amazonads*^
