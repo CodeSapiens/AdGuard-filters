@@ -84,6 +84,7 @@
 ||cc.swiftype.com^
 ||cdn.raygun.io^
 ||cdn.registerdisney.go.com^
+||cdn-usent.kampyle.com^
 ||chartbeat.com^
 ||chartbeat.net^
 ||checkappexec.microsoft.com^
@@ -134,6 +135,7 @@
 ||direct.data.api.platform.here.com^
 ||dmd.metaservices.microsoft.com^
 ||dmqdd6hw24ucf.cloudfront.net^
+||dms-*report.wc.yahoodns.net^
 ||doh6p23r7m48u.cloudfront.net^
 ||doubleclick.net^
 ||downloads.mailchimp.com^
@@ -146,6 +148,7 @@
 ||engine.mobileapptracking.com^
 ||ensighten.com^
 ||entitlements.jwplayer.com^
+||eventbus.intuit.com^
 ||events-collector.spot.im^
 ||evidon.com^
 ||execute-api.us-east-1.amazonaws.com^
@@ -169,6 +172,7 @@
 ||geo.query.yahoo.com^
 ||geo.yahoo.com^
 ||geolocation.onetrust.com^
+||glancecdn.net^
 ||glitter.services.disqus.com^
 ||go-mpulse.net^
 ||go.microsoft.com^
@@ -185,6 +189,7 @@
 ||gvt2.com^
 ||gvt3.com^
 ||h-cdn.com^
+||hb.vntsm.com^
 ||hh2.amazon.com^
 ||hotjar.com^
 ||hs-scripts.com^
@@ -255,6 +260,7 @@
 ||optimizely.com^
 ||os4work.com^
 ||outbrain.com^
+||pages-stats.rbl.ms^
 ||perfectmarket.com^
 ||permutive.com^
 ||pharmacy.amazon.com^
@@ -273,6 +279,7 @@
 ||pti.store.microsoft.com^
 ||pub.network^
 ||pubmatic.com^
+||quantcast.mgr.consensu.org^
 ||quantserve.com^
 ||rlcdn.com^
 ||rmp.rakuten.com^
@@ -308,6 +315,7 @@
 ||slscr.update.microsoft.com^
 ||smartadserver.com^
 ||smetrics.*^
+||snap.licdn.com^
 ||sonobi.com^
 ||sp.argusleader.com^
 ||sp.usatoday.com^
@@ -318,11 +326,14 @@
 ||static-global-s-msn-com.akamaized.net^
 ||static.scroll.com^
 ||statics-marketingsites*^
+||stats.wordpress.com^
 ||stats.wp.com^
 ||suggestqueries*.google.com*^
 ||suggestqueries*.youtube.com*^
 ||t.paypal.com^
 ||taboola.com^
+||tagan.adlightning.com^
+||taglocker.target.com^
 ||tags.tiqcdn.com^
 ||tapad.com^
 ||taplytics.com^
@@ -361,6 +372,7 @@
 ||webpushs.com^
 ||webpushsr.com^
 ||widengle.com^
+||widgets.future-fie.co.uk^
 ||ws.sharethis.com^
 ||www.googleadservices.com^
 ||xg4ken.com^
