@@ -1,5 +1,6 @@
 /[a-z]\.root-servers\.net/
 /avs-alexa-(1|4|18)-na\.amazon\.com/
+||162.6.3.81.*^
 ||1trust.app^
 ||2mdn.net^
 ||3lift.com^
