@@ -54,7 +54,6 @@
 ||aptivada.com^
 ||arcus-uswest.amazon.com^
 ||atdmt.com^
-||atv-ps.amazon.com^
 ||atwola.com^
 ||audrte.com^
 ||az416426.vo.msecnd.net^
