@@ -267,7 +267,6 @@
 ||pindorama.amazon.com^
 ||ping.ui.com^
 ||pixel.wp.com^
-||play.googleapis.com^
 ||polarcdn-*.com^
 ||policies.oath.com^
 ||polyfill.io^
