@@ -1,4 +1,3 @@
-/16[0-9]\.6\.3\.81\..*/
 /[a-z]\.root-servers\.net/
 /avs-alexa-(1|4|18)-na\.amazon\.com/
 |*-dsn.algolia.net^
