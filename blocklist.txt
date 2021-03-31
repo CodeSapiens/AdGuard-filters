@@ -284,9 +284,6 @@
 ||rmp.rakuten.com^
 ||rubiconproject.com^
 ||s.youtube.com^
-||s3-dub-2.cf.trailer.row.aiv-cdn.net^
-||s3-iad-2.cf.dash.row.aiv-cdn.net^
-||s3-iad-ww.cf.videorolls.row.aiv-cdn.net^
 ||sa.bbc.co.uk^
 ||safebrowsing.googleapis.com^
 ||sail-horizon.com^
