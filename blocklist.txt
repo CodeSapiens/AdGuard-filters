@@ -66,7 +66,6 @@
 ||b.stats.paypal.com^
 ||bat.bing.com^
 ||bats.video.yahoo.com^
-||bbci.co.uk^
 ||bc.yahoo.com^
 ||beacon.samsclub.com^
 ||beacon.walmart.com^
