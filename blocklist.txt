@@ -458,7 +458,6 @@
 ||siteimproveanalytics.com^
 ||skills-store.amazon.com^
 ||skimresources.com^
-||slscr.update.microsoft.com^
 ||smartadserver.com^
 ||smetrics.*^
 ||snap.licdn.com^
