@@ -52,7 +52,6 @@
 ||anvato.net^
 ||ap.spotify.com^
 ||api-2-0.spot.im^
-||api-cf.affirm.com^
 ||api.amazonalexa.com^
 ||api.apptentive.com^
 ||api.audible.com^
