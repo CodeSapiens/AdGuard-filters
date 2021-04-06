@@ -8,6 +8,7 @@
 ||3p-geo.yahoo.com^
 ||a.et.nytimes.com^
 ||a.nytimes.com^
+||a1.api.bbc.co.uk^
 ||aax-us-iad.amazon.com^
 ||aaxads.com^
 ||abeagle-public.buzzfeed.com^
@@ -16,6 +17,7 @@
 ||activity.windows.com^
 ||ad.*^
 ||ad.com^
+||ada.support^
 ||adbrite.com^
 ||addthis.com^
 ||addtoany.com^
@@ -47,6 +49,7 @@
 ||amazonads*^
 ||amcs-tachyon.com^
 ||amplitude.com^
+||analytics-static.ugc.bazaarvoice.com^
 ||analytics.*^
 ||animatedbanner.xyz^
 ||anvato.net^
@@ -66,6 +69,7 @@
 ||app.link^
 ||app.proxsee.io^
 ||appsflyer.com^
+||appspot.com^
 ||aptivada.com^
 ||arc.msn.com^
 ||arcus-uswest.amazon.com^
@@ -104,6 +108,7 @@
 ||brightcove.com^
 ||brightcove.net^
 ||brilliantcollector.com^
+||britepool.com^
 ||browser.events.data.msn.com^
 ||browser.sentry-cdn.com^
 ||btrll.com^
@@ -121,12 +126,14 @@
 ||cdn.appdynamics.com^
 ||cdn.blueconic.net^
 ||cdn.concert.io^
+||cdn.heapanalytics.com^
 ||cdn.imhd.io^
 ||cdn.parsely.com^
 ||cdn.pendo.io^
 ||cdn.privacy-mgmt.com^
 ||cdn.raygun.io^
 ||cdn.registerdisney.go.com^
+||cdn.snigelweb.com^
 ||cf-timedtext.aux.pv-cdn.net^
 ||cf-trickplay.aux.pv-cdn.net^
 ||chartbeat.com^
@@ -186,6 +193,7 @@
 ||d2ucfwpxlh3zh3.cloudfront.net^
 ||d2v02itv0y9u9t.cloudfront.net^
 ||d2yyd1h5u9mauk.cloudfront.net^
+||d31qbv1cthcecs.cloudfront.net^
 ||d35u1vg1q28b3w.cloudfront.net^
 ||d3p8zr0ffa9t17.cloudfront.net^
 ||dash.row.aiv-cdn.net^
@@ -203,6 +211,7 @@
 ||dianomi.com^
 ||direct-events-collector.spot.im^
 ||direct.data.api.platform.here.com^
+||display.ugc.bazaarvoice.com^
 ||dmd.metaservices.microsoft.com^
 ||dmpxs.com^
 ||dmqdd6hw24ucf.cloudfront.net^
@@ -210,6 +219,7 @@
 ||dns-*.sombrero.yahoo.net^
 ||doh6p23r7m48u.cloudfront.net^
 ||doubleclick.net^
+||doubleverify.com^
 ||downloads.mailchimp.com^
 ||dp-gw-na.amazon.com^
 ||ds-aksb-a.akamaihd.net^
@@ -219,8 +229,10 @@
 ||dynatrace.com^
 ||e-planning.net^
 ||edge-mcdn-beacon.secure.yahoo.com^
+||edge-mqtt.facebook.com^$important
 ||edge.permutive.app^
 ||edgecast-vod.yahoo.net^
+||embed.ly^
 ||embed.sendtonews.com^
 ||engine.mobileapptracking.com^
 ||ensighten.com^
@@ -233,14 +245,18 @@
 ||external-*.xx.fbcdn.net^
 ||eyeota.net^
 ||ezoic.net^
+||factset.com^
+||fastly-insights.com^
 ||fc.yahoo.com^
 ||federatedml-pa.googleapis.com^
+||feedbackify.com^
 ||firebase*.googleapis.com^
 ||firebaseapp.com^
 ||firebaseio.com^
 ||flix360.com^
 ||flurry.com^
 ||fm.cnbc.com^
+||fn-pz.com^
 ||fonts.googleapis.com^
 ||fonts.gstatic.com^
 ||footprints-pa.googleapis.com^
@@ -273,6 +289,7 @@
 ||goto.algolia.com^
 ||goto.walmart.com^
 ||graph.facebook.com^
+||graph.instagram.com^
 ||gvt2.com^
 ||gvt3.com^
 ||h-cdn.com^
@@ -282,6 +299,7 @@
 ||hh2.amazon.com^
 ||hlserve.com^
 ||hotjar.com^
+||hotjar.io^
 ||hs-scripts.com^
 ||htlbid.com^
 ||i0.wp.com^
@@ -292,6 +310,7 @@
 ||id.google.com^
 ||igodigital.com^
 ||imasdk.googleapis.com^
+||impactradius-event.com^
 ||importer.hac.data.here.com^
 ||improving.duckduckgo.com^
 ||imrworldwide.com^
@@ -304,13 +323,16 @@
 ||ips1.unifi-ai.com^
 ||ipv6.msftconnecttest.com^
 ||jac.yahoosandbox.com^
+||janrain.com^
 ||jeeng.com^
 ||js-assets.aiv-cdn.net^
 ||js.driftt.com^
 ||justpremium.com^
 ||jwpltx.com^
+||kca.amazon.com^$important
 ||kdp.amazon.com^
 ||kinesis.us-east*.amazonaws.com^
+||klaviyo.com^
 ||kochava.com^
 ||krxd.net^
 ||kundenserver.de^
@@ -328,6 +350,7 @@
 ||location-services-measurements.s3-external-1.amazonaws.com^
 ||log.go.com^
 ||logging.api.intuit.com^
+||login.live.com^
 ||lytics.io^
 ||m.yap.yahoo.com^
 ||mads.amazon.com^
@@ -348,14 +371,15 @@
 ||ml314.com^
 ||moatads.com^
 ||mparticle.com^
+||mplxtms.com^
 ||mps.cnbc.com^
 ||mqtt.*.ltsapis.goog^
 ||mtalk.google.com^
 ||mybbc-analytics.*^
-||mybbc-analytics.files.bbci.co.uk^
 ||myfidevs.io^
 ||mzhlhrfr8z.info^
 ||nanorep.com^
+||narrativ.com^
 ||ncp-gw-finance.media.yahoo.com^
 ||newrelic.com^
 ||newscgp.com^
@@ -374,13 +398,16 @@
 ||onesignal.com^
 ||online-metrix.net^
 ||openx.net^
+||ophan.*^
 ||optimize-stats.voxmedia.com^
 ||optimizely.com^
 ||os4work.com^
 ||outbrain.com^
+||owneriq.net^
 ||pages-stats.rbl.ms^
 ||perfectmarket.com^
 ||permutive.com^
+||phar.gu-web.net^
 ||pharmacy.amazon.com^
 ||phonograph2.voxmedia.com^
 ||pindorama.amazon.com^
@@ -389,6 +416,7 @@
 ||pix.spot.im^
 ||pixel.wp.com^
 ||pixiedust.buzzfeed.com^
+||platform.twitter.com^
 ||player-telemetry.vimeo.com^
 ||player.megaphone.fm^
 ||player.stats.live-video.net^
@@ -400,6 +428,7 @@
 ||pr.ybp.yahoo.com^
 ||prisasd.com^
 ||privacy-center.org^
+||privy.com^
 ||prod.do.dsp.mp.microsoft.com^
 ||prod.fire-card.devices.a2z.com^
 ||prod.service.minerva.devices.a2z.com^
@@ -412,6 +441,7 @@
 ||push.prod.netflix.com^
 ||pusher.com^
 ||quantcast.mgr.consensu.org^
+||quantcount.com^
 ||quantserve.com^
 ||r.bbci.co.uk^
 ||radar.cedexis.com^
@@ -419,11 +449,14 @@
 ||recsys-api.buzzfeed.com^
 ||referrer.disqus.com^
 ||report-uri.io^
+||resources.bazaarvoice.com^
 ||rlcdn.com^
 ||rmp.rakuten.com^
 ||rollout.ada.support^
+||rpxnow.com^
 ||rubiconproject.com^
 ||s-onetag.com^
+||s.marketwatch.com^
 ||s.youtube.com^
 ||sa.bbc.co.uk^
 ||safebrowsing.googleapis.com^
@@ -437,8 +470,10 @@
 ||seal.verisign.com^
 ||search.yahoo.com^
 ||secure.cdn.fastclick.net^
+||secure.everyaction.com^
 ||secure.rating-widget.com^
 ||seedtag.com^
+||seethru.co.uk^
 ||segment-data.zqtk.net^
 ||segment.com^
 ||segment.io^
@@ -452,6 +487,7 @@
 ||settings-ssl.xboxlive.com^
 ||settings-win.data.microsoft.com^
 ||sharethrough.com^
+||shop-chat-play.com^
 ||shortpixel.ai^
 ||siteimproveanalytics.com^
 ||skills-store.amazon.com^
@@ -461,9 +497,11 @@
 ||snap.licdn.com^
 ||soflopxl.com^
 ||sonobi.com^
+||sourcepoint.theguardian.com^
 ||sp.argusleader.com^
 ||sp.usatoday.com^
 ||speedcurve.com^
+||spot.im^
 ||srtb.msn.com^
 ||ssl.ak.dynamic.tiles.*^
 ||ssl.fastly.net^
@@ -479,6 +517,7 @@
 ||suggestqueries*.youtube.com*^
 ||summerhamster.com^
 ||support.opendns.com^
+||svc.ui.com^
 ||swiftypecdn.com^
 ||syndication.twitter.com^
 ||t.paypal.com^
@@ -519,6 +558,8 @@
 ||ugdturner.com^
 ||unagi-na.amazon.com^
 ||unagi.amazon.com^
+||uplynk.com^
+||upsellit.com^
 ||urbanairship.com^
 ||usabilla.com^
 ||usageanalytics.coveo.com^
@@ -545,6 +586,8 @@
 ||webpushsr.com^
 ||widengle.com^
 ||widgets.future-fie.co.uk^
+||widgets.tree.com^
+||wildmoodswings.co.uk^
 ||ws.sharethis.com^
 ||www.dpreview.com^
 ||www.googleadservices.com^
