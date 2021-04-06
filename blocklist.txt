@@ -239,7 +239,6 @@
 ||firebaseapp.com^
 ||firebaseio.com^
 ||flix360.com^
-||fls-na.amazon.com^
 ||flurry.com^
 ||fm.cnbc.com^
 ||fonts.googleapis.com^
