@@ -43,6 +43,7 @@
 ||advertising.amazon.com^
 ||affilired.com^
 ||agkn.com^
+||alb.reddit.com^
 ||als-svc.nytimes.com^
 ||alt8-mtalk.google.com^
 ||amazon-adsystem.com^
