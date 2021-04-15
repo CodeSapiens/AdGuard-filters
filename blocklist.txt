@@ -216,7 +216,6 @@
 ||deployads.com^
 ||dev.virtualearth.net^
 ||device-metrics-us*.amazon.com^
-||device-metrics-us-*.amazon.com^
 ||diagnostics.meethue.com^
 ||dianomi.com^
 ||direct-events-collector.spot.im^
