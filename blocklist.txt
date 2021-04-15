@@ -9,6 +9,7 @@
 ||a.et.nytimes.com^
 ||a.nytimes.com^
 ||a1.api.bbc.co.uk^
+||aan.amazon.com^
 ||aax-us-iad.amazon.com^
 ||aaxads.com^
 ||abeagle-public.buzzfeed.com^
@@ -16,7 +17,6 @@
 ||account.api.here.com^
 ||activity.windows.com^
 ||ad.*^
-||ad.com^
 ||ada.support^
 ||adbrite.com^
 ||addthis.com^
@@ -97,9 +97,11 @@
 ||beap.gemini.yahoo.com^
 ||betrad.com^
 ||bh.contextweb.com^
+||bidswitch.net^
 ||bilsyndication.com^
 ||bkrtx.com^
 ||blogherads.com^
+||blueconic.net^
 ||bluekai.com^
 ||boi9osyg1uwtyafn.com^
 ||boltdns.net^
@@ -144,6 +146,7 @@
 ||chartbeat.com^
 ||chartbeat.net^
 ||checkappexec.microsoft.com^
+||chimpstatic.com^
 ||clean.gg^
 ||clickbank.net^
 ||client-analytics.*^
@@ -238,7 +241,7 @@
 ||dynatrace.com^
 ||e-planning.net^
 ||edge-mcdn-beacon.secure.yahoo.com^
-||edge-mqtt.facebook.com^$important
+||edge-mqtt.facebook.com^
 ||edge.permutive.app^
 ||edgecast-vod.yahoo.net^
 ||embed.ly^
@@ -334,6 +337,7 @@
 ||instinctiveads.com^
 ||interncache-frc.fbcdn.net^
 ||ioam.de^
+||ip.prvtx.net^
 ||ips1.unifi-ai.com^
 ||ipv6.msftconnecttest.com^
 ||jac.yahoosandbox.com^
@@ -343,7 +347,7 @@
 ||js.driftt.com^
 ||justpremium.com^
 ||jwpltx.com^
-||kca.amazon.com^$important
+||kca.amazon.com^
 ||kdp.amazon.com^
 ||kinesis.us-east*.amazonaws.com^
 ||kissmetrics.com^
@@ -369,6 +373,7 @@
 ||lytics.io^
 ||m.yap.yahoo.com^
 ||mads.amazon.com^
+||main.ebayrtm.com^
 ||marketo.com^
 ||marketo.net^
 ||mas-ext.amazon.com^
@@ -387,6 +392,7 @@
 ||moatads.com^
 ||mobile-sdk-api.intercom.io^
 ||mobile.pipe.aria.microsoft.com^
+||monorail-edge.shopifysvc.com^
 ||mparticle.com^
 ||mplxtms.com^
 ||mps.cnbc.com^
@@ -424,6 +430,7 @@
 ||outbrain.com^
 ||owneriq.net^
 ||pages-stats.rbl.ms^
+||perfdrive.com^
 ||perfectmarket.com^
 ||permutive.com^
 ||phar.gu-web.net^
@@ -459,6 +466,7 @@
 ||pubmatic.com^
 ||push.prod.netflix.com^
 ||pusher.com^
+||qualtrics.com^
 ||quantcast.mgr.consensu.org^
 ||quantcount.com^
 ||quantserve.com^
@@ -473,6 +481,7 @@
 ||rlcdn.com^
 ||rmp.rakuten.com^
 ||rmtag.com^
+||rnengage.com^
 ||rollout.ada.support^
 ||rpxnow.com^
 ||rubiconproject.com^
@@ -528,6 +537,7 @@
 ||sp.usatoday.com^
 ||speedcurve.com^
 ||spot.im^
+||src.ebay-us.com^
 ||srtb.msn.com^
 ||ssl.ak.dynamic.tiles.*^
 ||ssl.cf5.rackcdn.com^
@@ -538,6 +548,7 @@
 ||static.ads-twitter.com^
 ||static.scroll.com^
 ||statics-marketingsites*^
+||stats.lineageos.org^
 ||stats.wordpress.com^
 ||stats.wp.com^
 ||suggestqueries*.google.com*^
