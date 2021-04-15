@@ -66,6 +66,7 @@
 ||api.us-east-1.aiv-delivery.net^
 ||app-analytics*^
 ||app-measurement.com^
+||app.adjust.com^
 ||app.link^
 ||app.proxsee.io^
 ||appsflyer.com^
@@ -73,10 +74,12 @@
 ||aptivada.com^
 ||arc.msn.com^
 ||arcus-uswest.amazon.com^
+||assets.adobedtm.com^
 ||assets.revcontent.com^
 ||aswpsdkus.com^
 ||at.cbsi.com^
 ||atdmt.com^
+||atrack.avplayer.com^
 ||atv-ps.amazon.com^
 ||atwola.com^
 ||audrte.com^
@@ -117,11 +120,13 @@
 ||buysellads.net^
 ||c.bing.com^
 ||c.msn.com^
+||c00.adobe.com^
 ||c2shb.ssp.yahoo.com^
 ||candycrushsoda.king.com^
 ||carbonads.net^
 ||casalemedia.com^
 ||cc.swiftype.com^
+||cdn-akamai.mookie1.com^
 ||cdn-usent.kampyle.com^
 ||cdn.appdynamics.com^
 ||cdn.blueconic.net^
@@ -146,6 +151,7 @@
 ||cloudflareinsights.com^
 ||cloudfront-labs.amazonaws.com^
 ||cloudfront.xp-assets.aiv-cdn.net^
+||cn-geo1.uber.com^
 ||cognito-identity.us-east-1.amazonaws.com^
 ||collector-*.perimeterx.net^
 ||collector-*.px-cloud.net^
@@ -153,8 +159,10 @@
 ||collector.githubapp.com^
 ||colossusssp.com^
 ||comixology.com^
+||comm100.com^
 ||concertads-configs.vox-cdn.com^
 ||condenastdigital.com^
+||config.edge.skype.com^
 ||confirmit.com^
 ||connatix.com^
 ||connect.facebook.net^
@@ -168,6 +176,7 @@
 ||cookiehub.net^
 ||cookielaw.org^
 ||countess.twitch.tv^
+||cquotient.com^
 ||crashlytics.com^
 ||crashlyticsreports-pa.googleapis.com^
 ||crazyegg.com^
@@ -183,6 +192,7 @@
 ||customerevents.netflix.com^
 ||cxense.com^
 ||d15kdpgjg3unno.cloudfront.net^
+||d169bbxks24g2u.cloudfront.net^
 ||d1ros97qkrwjf5.cloudfront.net^
 ||d1vl8wytztdz.cloudfront.net^
 ||d1z2jf7jlzjs58.cloudfront.net^
@@ -240,6 +250,7 @@
 ||eum-appdynamics.com^
 ||eventbus.intuit.com^
 ||events-collector.spot.im^
+||events.matterport.com^
 ||evidon.com^
 ||execute-api.us-east-1.amazonaws.com^
 ||external-*.xx.fbcdn.net^
@@ -254,6 +265,7 @@
 ||firebaseapp.com^
 ||firebaseio.com^
 ||flix360.com^
+||fls-na.amazon.com^
 ||flurry.com^
 ||fm.cnbc.com^
 ||fn-pz.com^
@@ -261,6 +273,7 @@
 ||fonts.gstatic.com^
 ||footprints-pa.googleapis.com^
 ||forter.com^
+||freshmarketer.com^
 ||fundingchoicesmessages.google.com^
 ||g.live.com^
 ||gameplayapi.intel.com^
@@ -310,11 +323,13 @@
 ||id.google.com^
 ||igodigital.com^
 ||imasdk.googleapis.com^
+||img.vidible.tv^
 ||impactradius-event.com^
 ||importer.hac.data.here.com^
 ||improving.duckduckgo.com^
 ||imrworldwide.com^
 ||in.appcenter.ms^
+||incoming.telemetry.mozilla.org^
 ||indexww.com^
 ||inmobi.com^
 ||instinctiveads.com^
@@ -332,6 +347,7 @@
 ||kca.amazon.com^$important
 ||kdp.amazon.com^
 ||kinesis.us-east*.amazonaws.com^
+||kissmetrics.com^
 ||klaviyo.com^
 ||kochava.com^
 ||krxd.net^
@@ -341,6 +357,7 @@
 ||lightboxcdn.com^
 ||lightning.cnn.com^
 ||lijit.com^
+||linksynergy.com^
 ||litix.io^
 ||livefyre.com^
 ||lixarproxsee.*
@@ -369,10 +386,14 @@
 ||mktoresp.com^
 ||ml314.com^
 ||moatads.com^
+||mobile-sdk-api.intercom.io^
+||mobile.pipe.aria.microsoft.com^
 ||mparticle.com^
 ||mplxtms.com^
 ||mps.cnbc.com^
 ||mqtt.*.ltsapis.goog^
+||msedge*.delivery.mp.microsoft.com^
+||msedge.api.cdp.microsoft.com^
 ||mtalk.google.com^
 ||mybbc-analytics.*^
 ||myfidevs.io^
@@ -449,13 +470,16 @@
 ||referrer.disqus.com^
 ||report-uri.io^
 ||resources.bazaarvoice.com^
+||rewards.brave.com^
 ||rlcdn.com^
 ||rmp.rakuten.com^
+||rmtag.com^
 ||rollout.ada.support^
 ||rpxnow.com^
 ||rubiconproject.com^
 ||s-onetag.com^
 ||s.marketwatch.com^
+||s.w.org^
 ||s.youtube.com^
 ||sa.bbc.co.uk^
 ||safebrowsing.googleapis.com^
@@ -468,6 +492,7 @@
 ||sdk.qikify.com^
 ||seal.verisign.com^
 ||search.yahoo.com^
+||searchmarketing.com^
 ||secure.cdn.fastclick.net^
 ||secure.everyaction.com^
 ||secure.rating-widget.com^
@@ -483,15 +508,18 @@
 ||serverbid.com^
 ||service.amazonsilk.com^
 ||service.cmp.oath.com^
+||service.force.com^
 ||settings-ssl.xboxlive.com^
 ||settings-win.data.microsoft.com^
 ||sharethrough.com^
 ||shop-chat-play.com^
 ||shortpixel.ai^
+||signifyd.com^
 ||siteimproveanalytics.com^
 ||skills-store.amazon.com^
 ||skimresources.com^
 ||smartadserver.com^
+||smartetailing.piwik.pro^
 ||smetrics.*^
 ||snap.licdn.com^
 ||soflopxl.com^
@@ -503,6 +531,7 @@
 ||spot.im^
 ||srtb.msn.com^
 ||ssl.ak.dynamic.tiles.*^
+||ssl.cf5.rackcdn.com^
 ||ssl.fastly.net^
 ||statcounter.com^
 ||static-entertainment-wus-s-msn-com.akamaized.net^
@@ -532,6 +561,7 @@
 ||teads.com^
 ||teads.net^
 ||teads.tv^
+||tealiumiq.com^
 ||techlab-cdn.com^
 ||telemetry.^
 ||telephonyspamprotect-pa.googleapis.com^
@@ -549,8 +579,11 @@
 ||trk.ipaddress.com^
 ||tru.am^
 ||truoptik.com^
+||trustarc.com^
+||truste.com^
 ||trustx.org^
 ||turn.com^
+||turnto.com^
 ||twimg.com^
 ||typekit.net^
 ||udc.yahoo.com^
@@ -580,6 +613,7 @@
 ||vop-yahoo.secure.footprint.net^
 ||vortex.data.microsoft.com^
 ||watson.telemetry.*^
+||wcpstatic.microsoft.com^
 ||webcontentassessor.com^
 ||webpushs.com^
 ||webpushsr.com^
@@ -588,6 +622,7 @@
 ||widgets.tree.com^
 ||wildmoodswings.co.uk^
 ||ws.sharethis.com^
+||www.cdn-net.com^
 ||www.dpreview.com^
 ||www.googleadservices.com^
 ||xg4ken.com^
@@ -601,3 +636,4 @@
 ||zeustechnology.com^
 ||zopim.com^
 ||zqtk.net^
+||zwyr157wwiu6eior.com^
