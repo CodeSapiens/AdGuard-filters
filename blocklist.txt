@@ -45,6 +45,7 @@
 ||agkn.com^
 ||alb.reddit.com^
 ||als-svc.nytimes.com^
+||alt*-mtalk.google.com^
 ||alt8-mtalk.google.com^
 ||amazon-adsystem.com^
 ||amazonads*^
@@ -258,6 +259,7 @@
 ||execute-api.us-east-1.amazonaws.com^
 ||external-*.xx.fbcdn.net^
 ||eyeota.net^
+||ezodn.com^
 ||ezoic.net^
 ||factset.com^
 ||fastly-insights.com^
@@ -357,6 +359,7 @@
 ||krxd.net^
 ||kundenserver.de^
 ||launchdarkly.com^
+||libertycdn.com^
 ||licensebuttons.net^
 ||lightboxcdn.com^
 ||lightning.cnn.com^
@@ -393,7 +396,9 @@
 ||moatads.com^
 ||mobile-sdk-api.intercom.io^
 ||mobile.pipe.aria.microsoft.com^
+||monitor.ebay.com^
 ||monorail-edge.shopifysvc.com^
+||mouseflow.com^
 ||mparticle.com^
 ||mplxtms.com^
 ||mps.cnbc.com^
@@ -414,6 +419,7 @@
 ||npttech.com^
 ||nr-data.net^
 ||nrdp.prod.ftl.netflix.com^
+||ns1p.net^
 ||ntv.io^
 ||nypost-com.videoplayerhub.com^
 ||om.dowjoneson.com^
@@ -479,6 +485,7 @@
 ||report-uri.io^
 ||resources.bazaarvoice.com^
 ||rewards.brave.com^
+||richaudience.com^
 ||rlcdn.com^
 ||rmp.rakuten.com^
 ||rmtag.com^
@@ -547,11 +554,13 @@
 ||static-entertainment-wus-s-msn-com.akamaized.net^
 ||static-global-s-msn-com.akamaized.net^
 ||static.ads-twitter.com^
+||static.getclicky.com^
 ||static.scroll.com^
 ||statics-marketingsites*^
 ||stats.lineageos.org^
 ||stats.wordpress.com^
 ||stats.wp.com^
+||stun*.l.google.com^
 ||suggestqueries*.google.com*^
 ||suggestqueries*.youtube.com*^
 ||summerhamster.com^
@@ -559,7 +568,9 @@
 ||svc.ui.com^
 ||swiftypecdn.com^
 ||syndication.twitter.com^
+||syndigo.cloud^
 ||t.paypal.com^
+||t.wayfair.com^
 ||taboola.com^
 ||tagan.adlightning.com^
 ||tagger.opecloud.com^
