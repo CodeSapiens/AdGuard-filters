@@ -654,6 +654,7 @@
 ||yieldlove.com^
 ||yieldmo.com^
 ||youmaker.com^
+||zdstatic.speedtest.net^
 ||zergnet.com^
 ||zeustechnology.com^
 ||zopim.com^
