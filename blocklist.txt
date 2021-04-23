@@ -15,6 +15,7 @@
 ||abeagle-public.buzzfeed.com^
 ||aboutads.info^
 ||account.api.here.com^
+||activehosted.com^
 ||activity.windows.com^
 ||ad.*^
 ||ada.support^
@@ -143,6 +144,7 @@
 ||cdn.raygun.io^
 ||cdn.registerdisney.go.com^
 ||cdn.snigelweb.com^
+||cdn.ywxi.net^
 ||cf-timedtext.aux.pv-cdn.net^
 ||cf-trickplay.aux.pv-cdn.net^
 ||chartbeat.com^
@@ -207,6 +209,7 @@
 ||d2uap9jskdzp2.cloudfront.net^
 ||d2ucfwpxlh3zh3.cloudfront.net^
 ||d2v02itv0y9u9t.cloudfront.net^
+||d2wy8f7a9ursnm.cloudfront.net^
 ||d2yyd1h5u9mauk.cloudfront.net^
 ||d31qbv1cthcecs.cloudfront.net^
 ||d35u1vg1q28b3w.cloudfront.net^
@@ -293,8 +296,10 @@
 ||getpublica.com^
 ||glancecdn.net^
 ||glitter.services.disqus.com^
+||gn-flagpoles.api.bbci.co.uk^
 ||go-mpulse.net^
 ||go.microsoft.com^
+||goodcloud.xyz^
 ||google-analytics.com^
 ||google.navigation.opendns.com^
 ||google.ru^
@@ -482,6 +487,7 @@
 ||reconditerespect.com^
 ||recsys-api.buzzfeed.com^
 ||referrer.disqus.com^
+||reftagger.com^
 ||report-uri.io^
 ||resources.bazaarvoice.com^
 ||rewards.brave.com^
