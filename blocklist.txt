@@ -226,6 +226,7 @@
 ||device-metrics-us*.amazon.com^
 ||diagnostics.meethue.com^
 ||dianomi.com^
+||digitalassetlinks.googleapis.com^$important
 ||direct-events-collector.spot.im^
 ||direct.data.api.platform.here.com^
 ||display.ugc.bazaarvoice.com^
@@ -238,7 +239,6 @@
 ||doubleclick.net^
 ||doubleverify.com^
 ||downloads.mailchimp.com^
-||dp-gw-na.amazon.com^
 ||ds-aksb-a.akamaihd.net^
 ||duapps.com^
 ||dxz5jxhrrzigf.cloudfront.net^
@@ -282,6 +282,7 @@
 ||footprints-pa.googleapis.com^
 ||forter.com^
 ||freshmarketer.com^
+||frog.wix.com^
 ||fundingchoicesmessages.google.com^
 ||g.live.com^
 ||gameplayapi.intel.com^
@@ -386,6 +387,7 @@
 ||marketo.com^
 ||marketo.net^
 ||mas-ext.amazon.com^
+||mas-ssr-ad.amazon.com^$important
 ||matomo.cloud^
 ||media.flixcar.com^
 ||media.flixfacts.com^
@@ -660,6 +662,7 @@
 ||yieldlove.com^
 ||yieldmo.com^
 ||youmaker.com^
+||youtubei.googleapis.com^$important
 ||zdstatic.speedtest.net^
 ||zergnet.com^
 ||zeustechnology.com^
