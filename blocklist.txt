@@ -51,8 +51,6 @@
 ||agkn.com^
 ||alb.reddit.com^
 ||als-svc.nytimes.com^
-||alt*-mtalk.google.com^
-||alt8-mtalk.google.com^
 ||amazon-adsystem.com^
 ||amazonads*^
 ||amcs-tachyon.com^
