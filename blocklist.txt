@@ -2,11 +2,14 @@
 /alt[0-9]-mtalk\.google\.com/
 /avs-alexa-(1|4|18)-na\.amazon\.com/
 |*-dsn.algolia.net^
+|guce.*^
 ||1trust.app^
 ||2mdn.net^
 ||3lift.com^
 ||3p-geo.yahoo.com^
 ||a.et.nytimes.com^
+||a.mailmunch.co^
+||a.nel.cloudflare.com^
 ||a.nytimes.com^
 ||a1.api.bbc.co.uk^
 ||aan.amazon.com^
@@ -15,10 +18,12 @@
 ||abeagle-public.buzzfeed.com^
 ||aboutads.info^
 ||account.api.here.com^
+||accounts.livechatinc.com^
 ||activehosted.com^
 ||activity.windows.com^
 ||ad.*^
 ||ada.support^
+||adap.tv^
 ||adbrite.com^
 ||addthis.com^
 ||addtoany.com^
@@ -51,6 +56,7 @@
 ||amazon-adsystem.com^
 ||amazonads*^
 ||amcs-tachyon.com^
+||amp.akamaized.net^
 ||amplitude.com^
 ||analytics-static.ugc.bazaarvoice.com^
 ||analytics.*^
@@ -64,6 +70,7 @@
 ||api.company-target.com^
 ||api.github.com^
 ||api.ipdata.co^
+||api.livechatinc.com^
 ||api.retargetly.com^
 ||api.tiles.mapbox.com^
 ||api.us-east-1.aiv-delivery.net^
@@ -172,6 +179,7 @@
 ||config.edge.skype.com^
 ||confirmit.com^
 ||connatix.com^
+||connect.facebook.com^
 ||connect.facebook.net^
 ||consent.cmp.oath.com^
 ||consent.trustarc.com^
@@ -194,6 +202,7 @@
 ||crwdcntrl.net^
 ||cs.dds.microsoft.com^
 ||csi.gstatic.com^
+||csp.yahoo.com^
 ||ct.pinterest.com^
 ||cubchannel.com^
 ||customerevents.netflix.com^
@@ -219,6 +228,7 @@
 ||dc8xl0ndzn2cb.cloudfront.net^
 ||dcape-na.amazon.com^
 ||dcp.dc1.philips.com^
+||default.exp-tas.com^
 ||delidatax.net^
 ||demdex.net^
 ||deployads.com^
@@ -249,6 +259,7 @@
 ||edge-mqtt.facebook.com^
 ||edge.permutive.app^
 ||edgecast-vod.yahoo.net^
+||emb-api.com^
 ||embed.ly^
 ||embed.sendtonews.com^
 ||engine.mobileapptracking.com^
@@ -319,6 +330,7 @@
 ||h-cdn.com^
 ||hb.vntsm.com^
 ||hbx.media.net^
+||heavy.com^
 ||hello.myfonts.net^
 ||hh2.amazon.com^
 ||hlserve.com^
@@ -326,6 +338,7 @@
 ||hotjar.io^
 ||hs-scripts.com^
 ||htlbid.com^
+||humanpresence.app^
 ||i0.wp.com^
 ||iabusprivacy.pmc.com^
 ||ichnaea.netflix.com^
@@ -364,6 +377,7 @@
 ||kochava.com^
 ||krxd.net^
 ||kundenserver.de^
+||laptop-updates.brave.com^
 ||launchdarkly.com^
 ||libertycdn.com^
 ||licensebuttons.net^
@@ -387,6 +401,7 @@
 ||marketo.com^
 ||marketo.net^
 ||mas-ext.amazon.com^
+||mas-sdk.amazon.com^
 ||mas-ssr-ad.amazon.com^$important
 ||matomo.cloud^
 ||media.flixcar.com^
@@ -394,6 +409,7 @@
 ||mediaplex.com^
 ||meter-svc.nytimes.com^
 ||metric.gstatic.com^
+||metricode.com^
 ||metrics.*^
 ||micpn.com^
 ||middycdn-a.akamaihd.net^
@@ -465,10 +481,12 @@
 ||polyfill.io^
 ||portal.fb.com^
 ||powerreviews.com^
+||pr.comet.yahoo.com^
 ||pr.ybp.yahoo.com^
 ||prisasd.com^
 ||privacy-center.org^
 ||privy.com^
+||pro.ip-api.com^
 ||prod.do.dsp.mp.microsoft.com^
 ||prod.fire-card.devices.a2z.com^
 ||prod.service.minerva.devices.a2z.com^
@@ -512,6 +530,7 @@
 ||sanalytics.*^
 ||sars.amazon.com^
 ||sc-static.net^
+||scontent-sjc2-1.xx.fbcdn.net^
 ||scorecardresearch.com^
 ||sdk.qikify.com^
 ||seal.verisign.com^
@@ -564,10 +583,13 @@
 ||static.ads-twitter.com^
 ||static.getclicky.com^
 ||static.scroll.com^
+||static1.brave.com^
 ||statics-marketingsites*^
+||staticxx.facebook.com^
 ||stats.lineageos.org^
 ||stats.wordpress.com^
 ||stats.wp.com^
+||sts3.wsj.net^
 ||stun*.l.google.com^
 ||suggestqueries*.google.com*^
 ||suggestqueries*.youtube.com*^
@@ -575,6 +597,7 @@
 ||support.opendns.com^
 ||svc.ui.com^
 ||swiftypecdn.com^
+||swypeconnect.com^
 ||syndication.twitter.com^
 ||syndigo.cloud^
 ||t.paypal.com^
@@ -626,9 +649,11 @@
 ||usabilla.com^
 ||usageanalytics.coveo.com^
 ||usawildseafood.com^
+||usera.imagecave.com^
 ||userlocation.googleapis.com^
 ||v*.events.data.microsoft.com^
 ||v-*.wc.yahoodns.net^
+||variations.brave.com^
 ||vendorlist.consensu.org^
 ||via.placeholder.com^
 ||viafoura.*^
@@ -651,6 +676,7 @@
 ||widgets.future-fie.co.uk^
 ||widgets.tree.com^
 ||wildmoodswings.co.uk^
+||wow.com^
 ||ws.sharethis.com^
 ||www.cdn-net.com^
 ||www.dpreview.com^
