@@ -392,6 +392,7 @@
 ||location-services-measurements.s3-external-1.amazonaws.com^
 ||log.go.com^
 ||logging.api.intuit.com^
+||logs.datadoghq.com^
 ||logs.roku.com^
 ||lytics.io^
 ||m.yap.yahoo.com^
