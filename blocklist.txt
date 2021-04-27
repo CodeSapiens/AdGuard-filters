@@ -392,6 +392,7 @@
 ||location-services-measurements.s3-external-1.amazonaws.com^
 ||log.go.com^
 ||logging.api.intuit.com^
+||logs.roku.com^
 ||lytics.io^
 ||m.yap.yahoo.com^
 ||mads.amazon.com^
@@ -594,6 +595,7 @@
 ||summerhamster.com^
 ||support.opendns.com^
 ||svc.ui.com^
+||sw88.espn.com^
 ||swiftypecdn.com^
 ||swypeconnect.com^
 ||syndication.twitter.com^
