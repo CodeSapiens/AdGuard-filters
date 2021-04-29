@@ -62,6 +62,7 @@
 ||anvato.net^
 ||ap.spotify.com^
 ||api-2-0.spot.im^
+||api-cf.affirm.com^
 ||api.amazonalexa.com^
 ||api.apptentive.com^
 ||api.audible.com^
@@ -91,6 +92,7 @@
 ||atv-ps.amazon.com^
 ||atwola.com^
 ||audrte.com^
+||avmws.com^
 ||avodmp4s3ww-a.akamaihd.net^
 ||az*.vo.msecnd.net^
 ||b-code.liadm.com^
@@ -186,6 +188,8 @@
 ||continuum.dds.microsoft.com^
 ||contributor.google.com^
 ||conviva.com^
+||cookiebot.com-*^
+||cookiebot.com^
 ||cookiehub.net^
 ||cookielaw.org^
 ||countess.twitch.tv^
@@ -419,6 +423,7 @@
 ||moatads.com^
 ||mobile-sdk-api.intercom.io^
 ||mobile.pipe.aria.microsoft.com^
+||monetate.net^
 ||monitor.ebay.com^
 ||monorail-edge.shopifysvc.com^
 ||mouseflow.com^
@@ -459,6 +464,7 @@
 ||os4work.com^
 ||outbrain.com^
 ||owneriq.net^
+||p-n.io^
 ||pages-stats.rbl.ms^
 ||perfdrive.com^
 ||perfectmarket.com^
@@ -534,6 +540,7 @@
 ||scorecardresearch.com^
 ||sdk.qikify.com^
 ||seal.verisign.com^
+||search-api.devicebits.com^
 ||search.yahoo.com^
 ||searchmarketing.com^
 ||secure.cdn.fastclick.net^
@@ -612,6 +619,7 @@
 ||tapad.com^
 ||taplytics.com^
 ||target.chase.com^
+||tctm.co^
 ||teads.com^
 ||teads.net^
 ||teads.tv^
@@ -620,6 +628,7 @@
 ||telemetry.^
 ||telephonyspamprotect-pa.googleapis.com^
 ||ters.us-east-1.aiv-delivery.net^
+||thebrighttag.com^
 ||tinypass.com^
 ||todo-ta-g7g.amazon.com^
 ||trace.svc.ui.com^
@@ -665,6 +674,7 @@
 ||videoplayerhub.com^
 ||videorolls.row.aiv-cdn.net^
 ||vindicosuite.com^
+||visualwebsiteoptimizer.com^
 ||vop-yahoo.akamaized.net^
 ||vop-yahoo.secure.footprint.net^
 ||vortex.data.microsoft.com^
@@ -678,6 +688,7 @@
 ||widgets.tree.com^
 ||wildmoodswings.co.uk^
 ||wow.com^
+||ws.audioeye.com^
 ||ws.sharethis.com^
 ||www.cdn-net.com^
 ||www.dpreview.com^
