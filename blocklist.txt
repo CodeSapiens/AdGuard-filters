@@ -12,10 +12,16 @@
 @@||bankeasy.com^$important
 @@||cdn.walkme.com^$important
 @@||cdns.gigya.com^$important
+@@||client.wns.windows.com^$important
 @@||cliqz.com^$important
+@@||ctldl.windowsupdate.com^$important
 @@||dns.nextdns.io^$important
+@@||download.windowsupdate.com^$important
+@@||settings-win.data.microsoft.com^$important
 @@||startpage.com^$important
 @@||surveygizmo.com^$important
+@@||tlu.dl.delivery.mp.microsoft.com^$important
+@@||wdcp.microsoft.com^$important
 @@||xcelenergy.com^$important
 |*-dsn.algolia.net^
 |guce.*^
