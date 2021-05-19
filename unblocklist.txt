@@ -1,12 +1,9 @@
-@@|care80.live800.com^$important
-@@|guce.yahoo.com^$important
-@@|pdst.fm^$important
-@@|slscr.update.microsoft.com^
 @@||afternic.com^$important
 @@||amifloced.org^$important
 @@||api-cf.affirm.com^$important
 @@||arcpublishing.com^$important
 @@||bankeasy.com^$important
+@@||care80.live800.com^$important
 @@||cdn.walkme.com^$important
 @@||cdns.gigya.com^$important
 @@||client.wns.windows.com^$important
@@ -14,7 +11,10 @@
 @@||ctldl.windowsupdate.com^$important
 @@||dns.nextdns.io^$important
 @@||download.windowsupdate.com^$important
+@@||guce.yahoo.com^$important
+@@||pdst.fm^$important
 @@||settings-win.data.microsoft.com^$important
+@@||slscr.update.microsoft.com^
 @@||startpage.com^$important
 @@||surveygizmo.com^$important
 @@||tlu.dl.delivery.mp.microsoft.com^$important
