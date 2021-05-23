@@ -18,5 +18,6 @@
 @@||startpage.com^$important
 @@||surveygizmo.com^$important
 @@||tlu.dl.delivery.mp.microsoft.com^$important
+@@||tools.usps.com^$important
 @@||wdcp.microsoft.com^$important
 @@||xcelenergy.com^$important
