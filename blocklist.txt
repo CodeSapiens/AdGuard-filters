@@ -18,7 +18,6 @@
 ||abeagle-public.buzzfeed.com^
 ||aboutads.info^
 ||account.api.here.com^
-||accounts.livechatinc.com^
 ||activehosted.com^
 ||activity.windows.com^
 ||ad.*^
@@ -69,7 +68,6 @@
 ||api.company-target.com^
 ||api.github.com^
 ||api.ipdata.co^
-||api.livechatinc.com^
 ||api.retargetly.com^
 ||api.tiles.mapbox.com^
 ||api.us-east-1.aiv-delivery.net^
