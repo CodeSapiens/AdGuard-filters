@@ -12,6 +12,7 @@
 @@||dns.nextdns.io^$important
 @@||download.windowsupdate.com^$important
 @@||guce.yahoo.com^$important
+@@||livechatinc.com^$important
 @@||pdst.fm^$important
 @@||settings-win.data.microsoft.com^$important
 @@||slscr.update.microsoft.com^
