@@ -22,3 +22,63 @@
 @@||tools.usps.com^$important
 @@||wdcp.microsoft.com^$important
 @@||xcelenergy.com^$important
+#--------
+### At least one of these two should be allowed for FireTV to not give an occasional error and allow apps login.
+@@||fireoscaptiveportal.com^$important
+||firetvcaptiveportal.com^$important
+#--------
+### 1 item needed to access the FireTV UI and keep it active.
+@@||spectrum.s3.amazonaws.com^$important
+#--------
+### 3 items needed to install apps in FireTV.
+@@||arcus-uswest.amazon.com^$important
+@@||mas-ext.amazon.com^$important
+@@||amazonadsi-a.akamaihd.net^$important
+#--------
+### 1 item needed for Roku live on FireTV.
+@@||content*.uplynk.com^$important
+#--------
+### 2 items needed for watching movies & shows on FireTV. Second item is not always needed.
+@@||ktpx.amazon.com^$important
+@@||api.amazon.com^$important
+#--------
+### 1 item needed to show most sponsored thumbnails on FireTV.
+@@||m.media-amazon.com^$important
+#--------
+### 1 item needed to show most actor's thumbnails on FireTV.
+@@||ecx.images-amazon.com^$important
+#--------
+### 1 item needed to play Crackle on FireTV.
+@@||api-v1-us.crackle.com^$important
+#--------
+### 4 items needed to access Netflix on FireTV.
+@@||secure.netflix.com^$important
+@@||cdn-0.nflximg.com^$important
+@@||nrdp.nccp.netflix.com^$important
+@@||nrdp*-appboot.netflix.com^$important
+#--------
+### 1 item needed to access Pluto channel guide on FireTV.
+@@||service-channels.clusters.pluto.tv^$important
+#--------
+### 1 item needed to show Prime Video thumbnails on FireTV.
+@@||images-na.ssl-images-amazon.com^$important
+#--------
+### 2 items needed to stream 3rd party apps and to continue previously watched shows on FireTV.
+@@||na.api.amazonvideo.com^$important
+@@||a*avoddashs3ww-a.akamaihd.net^$important
+#--------
+### 1 item needed to watch certain show trailers on FireTV.
+@@||s3-iad-ww.cf.videorolls.row.aiv-cdn.net^$important
+#--------
+### 1 item. Seems to allow faster loading of Netflix shows on FireTV. Blocking it does not seem to harm.
+### Interesting article:  https://medium.com/@AaronKalair/netflix-brought-down-my-home-network-bec5dac0b7c5
+@@||api-global.netflix.com^$important
+#--------
+### 2 items needed to show certain Netflix thumbnails on FireTV. First one within Netflix. Second on FireTV home.
+@@||occ-0-*.1.nflxso.net^$important
+@@||preapp.prod.partner.netflix.net^$important
+#--------
+### 2 items needed to stream from the IMDB app on FireTV.
+@@||imdbtv-backend-na.amazon.com^$important
+@@||emt.live.ll.ww.aiv-cdn.net^$important
+#--------
