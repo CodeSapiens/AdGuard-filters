@@ -57,8 +57,8 @@
 @@||nrdp.nccp.netflix.com^$important
 @@||nrdp*-appboot.netflix.com^$important
 #--------
-### 1 item needed to access Pluto channel guide on FireTV.
-@@||service-channels.clusters.pluto.tv^$important
+### 1 item needed for PlutoTV on FireTV.
+@@||service-*.clusters.pluto.tv^$important
 #--------
 ### 1 item needed to show Prime Video thumbnails on FireTV.
 @@||images-na.ssl-images-amazon.com^$important
