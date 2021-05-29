@@ -70,7 +70,6 @@
 ||api.ipdata.co^
 ||api.retargetly.com^
 ||api.tiles.mapbox.com^
-||api.us-east-1.aiv-delivery.net^
 ||app-analytics*^
 ||app-measurement.com^
 ||app.adjust.com^
@@ -625,7 +624,6 @@
 ||techlab-cdn.com^
 ||telemetry.^
 ||telephonyspamprotect-pa.googleapis.com^
-||ters.us-east-1.aiv-delivery.net^
 ||thebrighttag.com^
 ||tinypass.com^
 ||todo-ta-g7g.amazon.com^
@@ -655,6 +653,7 @@
 ||uplynk.com^
 ||upsellit.com^
 ||urbanairship.com^
+||us-east-1.aiv-delivery.net^
 ||usabilla.com^
 ||usageanalytics.coveo.com^
 ||usawildseafood.com^
