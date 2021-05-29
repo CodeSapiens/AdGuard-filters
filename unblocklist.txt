@@ -22,3 +22,63 @@
 @@||tools.usps.com^$important
 @@||wdcp.microsoft.com^$important
 @@||xcelenergy.com^$important
+#--------
+### At least one of these two should be allowed for FireTV to not give an occasional error and allow apps login.
+@@||fireoscaptiveportal.com^$client='10.70.0.98/31'
+||firetvcaptiveportal.com^$client='10.70.0.98/31'
+#--------
+### 1 item needed to access the FireTV UI and keep it active.
+@@||spectrum.s3.amazonaws.com^$client='10.70.0.98/31'
+#--------
+### 3 items needed to install apps in FireTV.
+@@||arcus-uswest.amazon.com^$client='10.70.0.98/31'
+@@||mas-ext.amazon.com^$client='10.70.0.98/31'
+@@||amazonadsi-a.akamaihd.net^$client='10.70.0.98/31'
+#--------
+### 1 item needed for Roku live on FireTV.
+@@||content*.uplynk.com^$client='10.70.0.98/31'
+#--------
+### 2 items needed for watching movies & shows on FireTV. Second item is not always needed.
+@@||ktpx.amazon.com^$client='10.70.0.98/31'
+@@||api.amazon.com^$client='10.70.0.98/31'
+#--------
+### 1 item needed to show most sponsored thumbnails on FireTV.
+@@||m.media-amazon.com^$client='10.70.0.98/31'
+#--------
+### 1 item needed to show most actor's thumbnails on FireTV.
+@@||ecx.images-amazon.com^$client='10.70.0.98/31'
+#--------
+### 1 item needed to play Crackle on FireTV.
+@@||api-v1-us.crackle.com^$client='10.70.0.98/31'
+#--------
+### 4 items needed to access Netflix on FireTV.
+@@||secure.netflix.com^$client='10.70.0.98/31'
+@@||cdn-0.nflximg.com^$client='10.70.0.98/31'
+@@||nrdp.nccp.netflix.com^$client='10.70.0.98/31'
+@@||nrdp*-appboot.netflix.com^$client='10.70.0.98/31'
+#--------
+### 1 item needed to access Pluto channel guide on FireTV.
+@@||service-channels.clusters.pluto.tv^$client='10.70.0.98/31'
+#--------
+### 1 item needed to show Prime Video thumbnails on FireTV.
+@@||images-na.ssl-images-amazon.com^$client='10.70.0.98/31'
+#--------
+### 2 items needed to stream 3rd party apps and to continue previously watched shows on FireTV.
+@@||na.api.amazonvideo.com^$client='10.70.0.98/31'
+@@||a*avoddashs3ww-a.akamaihd.net^$client='10.70.0.98/31'
+#--------
+### 1 item needed to watch certain show trailers on FireTV.
+@@||s3-iad-ww.cf.videorolls.row.aiv-cdn.net^$client='10.70.0.98/31'
+#--------
+### 1 item. Seems to allow faster loading of Netflix shows on FireTV. Blocking it does not seem to harm.
+### Interesting article:  https://medium.com/@AaronKalair/netflix-brought-down-my-home-network-bec5dac0b7c5
+@@||api-global.netflix.com^$client='10.70.0.98/31'
+#--------
+### 2 items needed to show certain Netflix thumbnails on FireTV. First one within Netflix. Second on FireTV home.
+@@||occ-0-*.1.nflxso.net^$client='10.70.0.98/31'
+@@||preapp.prod.partner.netflix.net^$client='10.70.0.98/31'
+#--------
+### 2 items needed to stream from the IMDB app on FireTV.
+@@||imdbtv-backend-na.amazon.com^$client='10.70.0.98/31'
+@@||emt.live.ll.ww.aiv-cdn.net^$client='10.70.0.98/31'
+#--------
