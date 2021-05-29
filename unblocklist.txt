@@ -57,7 +57,7 @@
 @@||nrdp.nccp.netflix.com^$important
 @@||nrdp*-appboot.netflix.com^$important
 #--------
-### 2 items needed for PlutoTV on FireTV.
+### 4 items needed for PlutoTV on FireTV.
 @@||api.pluto.tv^$important
 @@||siloh.pluto.tv^$important
 @@||siloh-*.plutotv.net^$important
