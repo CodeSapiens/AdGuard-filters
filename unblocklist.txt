@@ -58,8 +58,10 @@
 @@||nrdp*-appboot.netflix.com^$important
 #--------
 ### 2 items needed for PlutoTV on FireTV.
-@@||service-*.clusters.pluto.tv^$important
+@@||api.pluto.tv^$important
 @@||siloh.pluto.tv^$important
+@@||siloh-*.plutotv.net^$important
+@@||service-*.clusters.pluto.tv^$important
 #--------
 ### 1 item needed to show Prime Video thumbnails on FireTV.
 @@||images-na.ssl-images-amazon.com^$important
