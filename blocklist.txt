@@ -61,8 +61,6 @@
 ||amplitude.com^
 ||analytics-static.ugc.bazaarvoice.com^
 ||analytics.*^
-||android-fire-tv-api-us.crackle.com^
-||android.prod.cloud.netflix.com^
 ||animatedbanner.xyz^
 ||anvato.net^
 ||ap.spotify.com^
