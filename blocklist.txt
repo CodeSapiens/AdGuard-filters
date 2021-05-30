@@ -52,6 +52,7 @@
 ||affilired.com^
 ||agkn.com^
 ||alb.reddit.com^
+||alive.github.com^
 ||als-svc.nytimes.com^
 ||amazon-adsystem.com^
 ||amazonads*^
@@ -173,7 +174,6 @@
 ||cloudfront-labs.amazonaws.com^
 ||cloudfront.xp-assets.aiv-cdn.net^
 ||cn-geo1.uber.com^
-||cognito-identity.us-east-1.amazonaws.com^
 ||collector-*.perimeterx.net^
 ||collector-*.px-cloud.net^
 ||collector-*.pxchk.net^
@@ -288,7 +288,6 @@
 ||events-collector.spot.im^
 ||events.matterport.com^
 ||evidon.com^
-||execute-api.us-east-1.amazonaws.com^
 ||external-*.xx.fbcdn.net^
 ||eyeota.net^
 ||ezodn.com^
@@ -314,6 +313,7 @@
 ||freshmarketer.com^
 ||frog.wix.com^
 ||fundingchoicesmessages.google.com^
+||fwmrm.net^
 ||g.live.com^
 ||gameplayapi.intel.com^
 ||geller-pa.googleapis.com^
@@ -470,7 +470,10 @@
 ||nexstardigital.net^
 ||njtzzrvg0lwj3bsn.info^
 ||npttech.com^
+||nqs.nice264.com^
 ||nr-data.net^
+||nrdp.prod.cloud.netflix.com^
+||nrdp.prod.ftl.netflix.com^
 ||ns1p.net^
 ||ntv.io^
 ||nypost-com.videoplayerhub.com^
@@ -491,6 +494,7 @@
 ||outbrain.com^
 ||owneriq.net^
 ||p-n.io^
+||package-backups-prod-us-east-1.s3.amazonaws.com^
 ||pages-stats.rbl.ms^
 ||perfdrive.com^
 ||perfectmarket.com^
@@ -695,6 +699,9 @@
 ||upsellit.com^
 ||urbanairship.com^
 ||us-east-1.aiv-delivery.net^
+||us-east-1.amazonaws.com^
+||us-east-1.event.prod.bidr.io^
+||us-east-1.prod.boltdns.net^
 ||usabilla.com^
 ||usageanalytics.coveo.com^
 ||usawildseafood.com^
