@@ -471,8 +471,6 @@
 ||njtzzrvg0lwj3bsn.info^
 ||npttech.com^
 ||nr-data.net^
-||nrdp.prod.cloud.netflix.com^
-||nrdp.prod.ftl.netflix.com^
 ||ns1p.net^
 ||ntv.io^
 ||nypost-com.videoplayerhub.com^
