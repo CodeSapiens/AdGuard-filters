@@ -56,6 +56,8 @@
 @@||cdn-0.nflximg.com^$important
 @@||nrdp.nccp.netflix.com^$important
 @@||nrdp*-appboot.netflix.com^$important
+### 1 item needed to access Netflix on PC. It is possible without this, but there is extra buffering and occasional errors.
+@@||nrdp.prod.cloud.netflix.com^$important
 #--------
 ### 4 items needed for PlutoTV on FireTV.
 @@||api.pluto.tv^$important
