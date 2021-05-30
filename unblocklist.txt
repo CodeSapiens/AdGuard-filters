@@ -56,7 +56,7 @@
 @@||cdn-0.nflximg.com^$important
 @@||nrdp.nccp.netflix.com^$important
 @@||nrdp*-appboot.netflix.com^$important
-### 1 item to access Netflix with less buffering and reduced errors on FireTV and PC.
+### 1 item to access Netflix with reduced errors on FireTV and PC.
 @@||nrdp.prod.*.netflix.com^$important
 #--------
 ### 4 items needed for PlutoTV on FireTV.
