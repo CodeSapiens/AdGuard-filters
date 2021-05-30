@@ -18,8 +18,8 @@
 @@||ftvr-na.amazon.com^$important
 @@||arcus-uswest.amazon.com^$important
 @@||amazonadsi-a.akamaihd.net^$important
-### Stream videos from apps, and continue previously watched shows.
-@@||na.api.amazonvideo.com^$important
+### Stream videos from apps, and continue previously watched shows. The first one may be used for commercials. Testing...
+#@@||na.api.amazonvideo.com^$important
 @@||a*avoddashs3ww-a.akamaihd.net^$important
 ### Watch sponsored trailers.
 @@||s3-iad-ww.cf.videorolls.row.aiv-cdn.net^$important
@@ -33,9 +33,10 @@
 #---- NETFLIX
 @@||secure.netflix.com^$important
 @@||cdn-0.nflximg.com^$important
+@@||prod.*.netflix.com^$important
 @@||nrdp.nccp.netflix.com^$important
 @@||nrdp*-appboot.netflix.com^$important
-@@||nrdp.prod.*.netflix.com^$important
+@@||android-appboot.netflix.com^$important
 ### Optional, but seems to help with buffering.
 @@||api-global.netflix.com^$important
 ### Show thumbnails.
