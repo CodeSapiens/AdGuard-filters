@@ -30,6 +30,9 @@
 ### 1 item needed to access the FireTV UI and keep it active.
 @@||spectrum.s3.amazonaws.com^$important
 #--------
+### 1 item needed to show apps in the app store in FireTV.
+@@||appstore-tv-prod-na.amazon.com^$important
+#--------
 ### 3 items needed to install apps in FireTV.
 @@||arcus-uswest.amazon.com^$important
 @@||mas-ext.amazon.com^$important
@@ -86,4 +89,9 @@
 ### 2 items needed to stream from the IMDB app on FireTV.
 @@||imdbtv-backend-na.amazon.com^$important
 @@||emt.live.ll.ww.aiv-cdn.net^$important
+#--------
+### 3 items needed for Disney+ on FireTV.
+@@||global.edge.bamgrid.com^$important
+@@||appconfigs.disney-plus.net^$important
+@@||prod-ripcut-delivery.disney-plus.net^$important
 #--------
