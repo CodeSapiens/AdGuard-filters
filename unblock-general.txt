@@ -1,3 +1,5 @@
+# Unblock hosts that sometimes get incorrectly blocked by 3rd party blocklists.
+#-----------------------------------------------------------------------------
 @@||afternic.com^$important
 @@||amifloced.org^$important
 @@||api-cf.affirm.com^$important
