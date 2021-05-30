@@ -18,8 +18,8 @@
 @@||ftvr-na.amazon.com^$important
 @@||arcus-uswest.amazon.com^$important
 @@||amazonadsi-a.akamaihd.net^$important
-### Stream videos from apps, and continue previously watched shows.
-@@||na.api.amazonvideo.com^$important
+### Stream videos from apps, and continue previously watched shows. The first one may be used for commercials. Testing...
+#@@||na.api.amazonvideo.com^$important
 @@||a*avoddashs3ww-a.akamaihd.net^$important
 ### Watch sponsored trailers.
 @@||s3-iad-ww.cf.videorolls.row.aiv-cdn.net^$important
