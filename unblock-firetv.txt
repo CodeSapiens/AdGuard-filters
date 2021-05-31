@@ -5,7 +5,7 @@
 #---- CAPTIVEPORTAL
 ### Two CaptivePortal tests are invoked by FireTV, but only the first one is needed.
 @@||fireoscaptiveportal.com^$important
-||firetvcaptiveportal.com^$important
+#||firetvcaptiveportal.com^$important
 #---- UI
 ### Needed for the FireTV UI to work smoothly.
 @@||api.amazon.com^$important
