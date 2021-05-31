@@ -3,14 +3,16 @@
 #############
 #
 #---- CAPTIVEPORTAL
-### Two CaptivePortal checks are invoked by FireTV, but only the first one is needed.
+### Two CaptivePortal tests are invoked by FireTV, but only the first one is needed.
 @@||fireoscaptiveportal.com^$important
-#||firetvcaptiveportal.com^$important
+@@||firetvcaptiveportal.com^$important
+
 #---- UI
 ### Needed for the FireTV UI to work smoothly.
 @@||api.amazon.com^$important
 @@||ktpx.amazon.com^$important
 @@||spectrum.s3.amazonaws.com^$important
+
 #---- APPS
 ### Needed to list and install apps.
 @@||appstore-tv-prod-na.amazon.com^$important
@@ -18,34 +20,45 @@
 @@||ftvr-na.amazon.com^$important
 @@||arcus-uswest.amazon.com^$important
 @@||amazonadsi-a.akamaihd.net^$important
-### Stream videos from apps, and continue previously watched shows.
+### Needed for faster server location, reducing buffering and increasing stream resolution. Netflix greatly benefits from it.
+@@||msh.amazon.com^
+### Needed to stream videos from apps and continue previously watched shows.
 @@||na.api.amazonvideo.com^$important
 @@||a*avoddashs3ww-a.akamaihd.net^$important
-### Watch sponsored trailers.
+### Needed to watch sponsored trailers.
 @@||s3-iad-ww.cf.videorolls.row.aiv-cdn.net^$important
+
 #---- THUMBNAILS
-### Show sponsored thumbnails.
+### Needed to show sponsored thumbnails.
 @@||m.media-amazon.com^$important
-### Show sponsored actor's thumbnails.
+### Needed to show sponsored actor's thumbnails.
 @@||ecx.images-amazon.com^$important
-### Show Prime Video thumbnails.
+### Needed to show Prime Video thumbnails.
 @@||images-na.ssl-images-amazon.com^$important
+
 #---- NETFLIX
+@@||prod.*.netflix.com^$important
+@@||prod.*.netflix.net^$important
+@@||occ-0-*.1.nflxso.net^$important
 
 #---- DISNEY+
 @@||global.edge.bamgrid.com^$important
 @@||appconfigs.disney-plus.net^$important
 @@||prod-ripcut-delivery.disney-plus.net^$important
+
 #---- PLUTOTV
 @@||api.pluto.tv^$important
 @@||siloh.pluto.tv^$important
 @@||siloh-*.plutotv.net^$important
 @@||service-*.clusters.pluto.tv^$important
+
 #---- IMDB
 @@||emt.live.ll.ww.aiv-cdn.net^$important
 @@||imdbtv-backend-na.amazon.com^$important
+
 #---- CRACKLE
 @@||api-v1-us.crackle.com^$important
+
 #---- ROKU
 @@||content*.uplynk.com^$important
 #----
