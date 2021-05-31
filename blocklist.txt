@@ -451,7 +451,6 @@
 ||mqtt.*.ltsapis.goog^
 ||msedge*.delivery.mp.microsoft.com^
 ||msedge.api.cdp.microsoft.com^
-||msh.amazon.com^
 ||mtalk.google.com^
 ||mybbc-analytics.*^
 ||myfidevs.io^
