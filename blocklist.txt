@@ -212,7 +212,6 @@
 ||csp.yahoo.com^
 ||ct.pinterest.com^
 ||cubchannel.com^
-||customerevents.netflix.com^
 ||cxense.com^
 ||d15kdpgjg3unno.cloudfront.net^
 ||d169bbxks24g2u.cloudfront.net^
@@ -360,7 +359,6 @@
 ||i0.wp.com^
 ||ia.media-imdb.com^
 ||iabusprivacy.pmc.com^
-||ichnaea.netflix.com^
 ||icpsuawn1zy5amys.com^
 ||icptrack.com^
 ||id.google.com^
@@ -381,7 +379,6 @@
 ||ioam.de^
 ||ip.prvtx.net^
 ||ips1.unifi-ai.com^
-||ipv4-*-ix.ftl.nflxvideo.net^
 ||ipv6.msftconnecttest.com^
 ||jac.yahoosandbox.com^
 ||janrain.com^
@@ -470,13 +467,10 @@
 ||npttech.com^
 ||nqs.nice264.com^
 ||nr-data.net^
-||nrdp.prod.cloud.netflix.com^
-||nrdp.prod.ftl.netflix.com^
 ||ns1p.net^
 ||ntv.io^
 ||nypost-com.videoplayerhub.com^
 ||oauth.reddit.com^
-||oca-api.netflix.com^
 ||om.dowjoneson.com^
 ||omniture-ssl.walmart.com^
 ||omniture.walmart.com^
@@ -522,9 +516,6 @@
 ||privacy-center.org^
 ||privy.com^
 ||pro.ip-api.com^
-||probe-ixanycast-isp.prod.ftl.netflix.com^
-||probe-ixunicast.prod.ftl.netflix.com^
-||probe.prod.ftl.netflix.com^
 ||prod.amazoncrl.com^
 ||prod.do.dsp.mp.microsoft.com^
 ||prod.fire-card.devices.a2z.com^
@@ -535,7 +526,6 @@
 ||public.cobrowse.oraclecloud.com^
 ||publir.com^
 ||pubmatic.com^
-||push.prod.netflix.com^
 ||pusher.com^
 ||qualtrics.com^
 ||quantcast.mgr.consensu.org^
@@ -668,7 +658,6 @@
 ||thebrighttag.com^
 ||tinypass.com^
 ||todo-ta-g7g.amazon.com^
-||tp-s.nflximg.net^
 ||trace.svc.ui.com^
 ||track.contently.com^
 ||tracker.*^
@@ -690,7 +679,6 @@
 ||typekit.net^
 ||udc.yahoo.com^
 ||ugdturner.com^
-||uiboot.netflix.com^
 ||unagi-na.amazon.com^
 ||unagi.amazon.com^
 ||uplynk.com^
