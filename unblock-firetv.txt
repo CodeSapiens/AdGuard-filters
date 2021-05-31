@@ -32,9 +32,6 @@
 @@||images-na.ssl-images-amazon.com^$important
 #---- NETFLIX
 
-### Show thumbnails.
-@@||occ-0-*.1.nflxso.net^$important
-@@||preapp.prod.partner.netflix.net^$important
 #---- DISNEY+
 @@||global.edge.bamgrid.com^$important
 @@||appconfigs.disney-plus.net^$important
