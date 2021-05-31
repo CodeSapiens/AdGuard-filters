@@ -31,14 +31,7 @@
 ### Show Prime Video thumbnails.
 @@||images-na.ssl-images-amazon.com^$important
 #---- NETFLIX
-@@||secure.netflix.com^$important
-@@||cdn-0.nflximg.com^$important
-@@||prod.*.netflix.com^$important
-@@||nrdp.nccp.netflix.com^$important
-@@||nrdp*-appboot.netflix.com^$important
-@@||android-appboot.netflix.com^$important
-### Optional, but seems to help with buffering.
-@@||api-global.netflix.com^$important
+
 ### Show thumbnails.
 @@||occ-0-*.1.nflxso.net^$important
 @@||preapp.prod.partner.netflix.net^$important
