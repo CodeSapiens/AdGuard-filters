@@ -298,6 +298,7 @@
 ||firebaseapp.com^
 ||firebaseio.com^
 ||firs-ta-g7g.amazon.com^
+||firetv-news-content-ingestion.amazon.com^
 ||flix360.com^
 ||fls-na.amazon.com^
 ||flurry.com^
@@ -442,6 +443,7 @@
 ||mobile.pipe.aria.microsoft.com^
 ||monetate.net^
 ||monitor.ebay.com^
+||monitoring.us-west-2.amazonaws.com^
 ||monorail-edge.shopifysvc.com^
 ||mouseflow.com^
 ||mparticle.com^
