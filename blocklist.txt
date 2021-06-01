@@ -681,7 +681,6 @@
 ||ugdturner.com^
 ||unagi-na.amazon.com^
 ||unagi.amazon.com^
-||uplynk.com^
 ||upsellit.com^
 ||urbanairship.com^
 ||us-east-1.event.prod.bidr.io^
