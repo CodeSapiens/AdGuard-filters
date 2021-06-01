@@ -365,7 +365,6 @@
 ||igodigital.com^
 ||images.pluto.tv^
 ||imasdk.googleapis.com^
-||img.vidible.tv^
 ||impactradius-event.com^
 ||importer.hac.data.here.com^
 ||improving.duckduckgo.com^
@@ -683,8 +682,6 @@
 ||uplynk.com^
 ||upsellit.com^
 ||urbanairship.com^
-||us-east-1.aiv-delivery.net^
-||us-east-1.amazonaws.com^
 ||us-east-1.event.prod.bidr.io^
 ||us-east-1.prod.boltdns.net^
 ||usabilla.com^
