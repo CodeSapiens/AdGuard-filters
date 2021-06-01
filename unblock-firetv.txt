@@ -61,4 +61,8 @@
 
 #---- ROKU
 @@||content*.uplynk.com^$important
-#----
+
+#---- NEWS
+@@||vidible.tv^$important
+@@||execute-api.us-east-1.amazonaws.com^$important
+@@||mediatailor.us-east-1.amazonaws.com^$important
