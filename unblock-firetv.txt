@@ -60,7 +60,7 @@
 @@||api-v1-us.crackle.com^$important
 
 #---- ROKU
-@@||content*.uplynk.com^$important
+@@||uplynk.com^$important
 
 #---- NEWS
 @@||vidible.tv^$important
