@@ -25,8 +25,8 @@
 ### Needed to stream videos from apps and continue previously watched shows.
 @@||na.api.amazonvideo.com^$important
 @@||a*avoddashs3ww-a.akamaihd.net^$important
-### Needed to watch sponsored trailers.
-@@||s3-iad-ww.cf.videorolls.row.aiv-cdn.net^$important
+### Needed to watch sponsored trailers, but it is also used for ads. Commented out here. Use at your discretion.
+#@@||s3-iad-ww.cf.videorolls.row.aiv-cdn.net^
 
 #---- THUMBNAILS
 ### Needed to show sponsored thumbnails.
