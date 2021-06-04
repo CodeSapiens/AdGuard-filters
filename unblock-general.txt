@@ -1,5 +1,5 @@
-# Unblock hosts that sometimes get incorrectly blocked by 3rd party blocklists.
-#-----------------------------------------------------------------------------
+#--------
+## These hosts are sometimes incorrectly blocked by public blocklists.
 @@||afternic.com^$important
 @@||amifloced.org^$important
 @@||api-cf.affirm.com^$important
@@ -24,3 +24,19 @@
 @@||tools.usps.com^$important
 @@||wdcp.microsoft.com^$important
 @@||xcelenergy.com^$important
+
+#--------
+## Needed for Nextdoor content.
+@@||d19rpgkrjeba2z.cloudfront.net^$important
+## Needed for Nextdoor media.
+@@||d3926qxcw0e1bh.cloudfront.net^$important
+
+#--------
+## Needed to compensate for cloudfront.net block.
+@@||wsj.com^$important
+@@||smile.amazon.com^$important
+@@||music.amazon.com^$important
+@@||projectveritas.com^$important
+@@||www.audible.com^$important
+@@||www.amazon.com^$important
+#--------
