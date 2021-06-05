@@ -8,22 +8,26 @@
 @@||care80.live800.com^$important
 @@||cdn.walkme.com^$important
 @@||cdns.gigya.com^$important
-@@||client.wns.windows.com^$important
 @@||cliqz.com^$important
-@@||ctldl.windowsupdate.com^$important
 @@||dns.nextdns.io^$important
-@@||download.windowsupdate.com^$important
 @@||guce.yahoo.com^$important
 @@||livechatinc.com^$important
 @@||pdst.fm^$important
-@@||settings-win.data.microsoft.com^$important
-@@||slscr.update.microsoft.com^
+@@||projectveritas.com^$important
 @@||startpage.com^$important
 @@||surveygizmo.com^$important
-@@||tlu.dl.delivery.mp.microsoft.com^$important
 @@||tools.usps.com^$important
-@@||wdcp.microsoft.com^$important
 @@||xcelenergy.com^$important
+#--------
+
+## Needed for Windows updates.
+@@||client.wns.windows.com^$important
+@@||ctldl.windowsupdate.com^$important
+@@||download.windowsupdate.com^$important
+@@||settings-win.data.microsoft.com^$important
+@@||slscr.update.microsoft.com^
+@@||tlu.dl.delivery.mp.microsoft.com^$important
+@@||wdcp.microsoft.com^$important
 
 #--------
 ## Needed for Nextdoor content.
@@ -32,11 +36,21 @@
 @@||d3926qxcw0e1bh.cloudfront.net^$important
 
 #--------
-## Needed to compensate for cloudfront.net block.
-@@||wsj.com^$important
-@@||smile.amazon.com^$important
+## Needed to compensate for blocking *.cloudfront.net.
 @@||music.amazon.com^$important
-@@||projectveritas.com^$important
-@@||www.audible.com^$important
+@@||smile.amazon.com^$important
+@@||wsj.com^$important
 @@||www.amazon.com^$important
+@@||www.audible.com^$important
 #--------
+
+## Needed to play video on certain news websites.
+@@||manifest.prod.boltdns.net^$important
+#--------
+
+## Needed to play some videos on Amazon.com.
+@@||d2y5sgsy8bbmb8.cloudfront.net^$important
+#--------
+
+## Needed for Alexa Smart Home integration.
+@@||skills-store.amazon.com^$important
