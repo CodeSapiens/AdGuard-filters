@@ -21,7 +21,7 @@
 @@||arcus-uswest.amazon.com^$important
 @@||amazonadsi-a.akamaihd.net^$important
 ### Needed for faster server location, reducing buffering and increasing stream resolution. Netflix greatly benefits from it.
-@@||msh.amazon.com^
+@@||msh.amazon.com^$important
 ### Needed to stream videos from apps and continue previously watched shows.
 @@||na.api.amazonvideo.com^$important
 @@||a*avoddashs3ww-a.akamaihd.net^$important
