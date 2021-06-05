@@ -54,3 +54,9 @@
 
 ## Needed for Alexa Smart Home integration.
 @@||skills-store.amazon.com^$important
+
+#--------
+## Needed for Audible playback.
+@@||api.audible.com^$important
+@@||avs-alexa-1-na.amazon.com^$important
+@@||dze5l2jxnquy5.cloudfront.net^$important
