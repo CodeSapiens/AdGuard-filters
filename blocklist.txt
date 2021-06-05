@@ -113,6 +113,7 @@
 ||beam.hlserve.com^
 ||beap.gemini.yahoo.com^
 ||betrad.com^
+||bfmio.com^
 ||bh.contextweb.com^
 ||bidswitch.net^
 ||bilsyndication.com^
@@ -236,6 +237,7 @@
 ||diagnostics.meethue.com^
 ||dianomi.com^
 ||digitalassetlinks.googleapis.com^
+||digitru.st^
 ||direct-events-collector.spot.im^
 ||direct.data.api.platform.here.com^
 ||directavenue.tech^
@@ -360,12 +362,14 @@
 ||incoming.telemetry.mozilla.org^
 ||indexww.com^
 ||inmobi.com^
+||innovid.com^
 ||instinctiveads.com^
 ||interncache-frc.fbcdn.net^
 ||ioam.de^
 ||ip.prvtx.net^
 ||ips1.unifi-ai.com^
 ||ipv6.msftconnecttest.com^
+||irchan.com^
 ||jac.yahoosandbox.com^
 ||janrain.com^
 ||jeeng.com^
@@ -387,6 +391,7 @@
 ||libertycdn.com^
 ||licensebuttons.net^
 ||lightboxcdn.com^
+||lightcast.com^
 ||lightning.cnn.com^
 ||lijit.com^
 ||linksynergy.com^
@@ -428,6 +433,7 @@
 ||moatads.com^
 ||mobile-sdk-api.intercom.io^
 ||mobile.pipe.aria.microsoft.com^
+||monarchads.com^
 ||monetate.net^
 ||monitor.ebay.com^
 ||monitoring.*.amazonaws.com^
@@ -597,6 +603,7 @@
 ||sp.usatoday.com^
 ||speedcurve.com^
 ||spot.im^
+||spotxchange.com^
 ||src.ebay-us.com^
 ||srtb.msn.com^
 ||ssl.ak.dynamic.tiles.*^
@@ -659,6 +666,7 @@
 ||trafficshaping.dsp.mp.microsoft.com^
 ||trailer.row.aiv-cdn.net^
 ||translate.googleapis.com^
+||tremorhub.com^
 ||trinity.platform.intuit.com^
 ||trk.ipaddress.com^
 ||tru.am^
