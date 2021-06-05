@@ -3,9 +3,9 @@
 #############
 #
 #---- CAPTIVEPORTAL
-### Two CaptivePortal tests are invoked by FireTV, but only the first one is needed.
+### Two CaptivePortal tests are invoked by FireTV, but only the first one is needed. The second one is constantly invoked, most likely to track usage.
 @@||fireoscaptiveportal.com^$important
-@@||firetvcaptiveportal.com^$important
+||firetvcaptiveportal.com^
 
 #---- UI
 ### Needed for the FireTV UI to work smoothly.
@@ -25,16 +25,16 @@
 ### Needed to stream videos from apps and continue previously watched shows.
 @@||na.api.amazonvideo.com^$important
 @@||a*avoddashs3ww-a.akamaihd.net^$important
-### Needed to watch sponsored trailers, but it is also used for ads. Commenting out.
-#@@||s3-iad-ww.cf.videorolls.row.aiv-cdn.net^
+### Needed to watch sponsored trailers, but it is also used for ads.
+@@||s3-iad-ww.cf.videorolls.row.aiv-cdn.net^
 
 #---- THUMBNAILS
 ### Needed to show sponsored thumbnails.
 @@||m.media-amazon.com^$important
 ### Needed to show sponsored actor's thumbnails.
 @@||ecx.images-amazon.com^$important
-### Needed to show Prime Video thumbnails. Unfortunately, some are used to push politically-based items. Commenting out.
-#@@||images-na.ssl-images-amazon.com^$important
+### Needed to show many thumbnails and banners. Unfortunately some push unwanted products or political issues.
+@@||images-na.ssl-images-amazon.com^
 
 #---- NETFLIX
 @@||prod.*.netflix.com^$important
@@ -66,3 +66,12 @@
 @@||vidible.tv^$important
 @@||execute-api.us-east-1.amazonaws.com^$important
 @@||mediatailor.us-east-1.amazonaws.com^$important
+
+#---- AMAZON MUSIC
+@@||d5fx445wy2wpk.cloudfront.net^$important
+
+#---- HAYSTACKTV.
+@@||api.haystack.tv^$important
+@@||d1ptdv59avwx8y.cloudfront.net^$important
+@@||d2ufudlfb4rsg4.cloudfront.net^$important
+@@||dn6q4f0q0kh23.cloudfront.net^$important
