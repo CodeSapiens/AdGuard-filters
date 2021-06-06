@@ -657,7 +657,6 @@
 ||thebrighttag.com^
 ||tinypass.com^
 ||todo-ta-g7g.amazon.com^
-||tp-s.nflximg.net^
 ||trace.svc.ui.com^
 ||track.contently.com^
 ||tracker.*^
