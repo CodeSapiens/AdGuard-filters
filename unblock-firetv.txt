@@ -40,6 +40,8 @@
 @@||prod.*.netflix.com^$important
 @@||prod.*.netflix.net^$important
 @@||occ-0-*.1.nflxso.net^$important
+## Needed to show thumbnails when rewinding/forwarding.
+@@||tp-s.nflximg.net^$important
 
 #---- DISNEY+
 @@||global.edge.bamgrid.com^$important
