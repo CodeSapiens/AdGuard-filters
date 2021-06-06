@@ -23,10 +23,10 @@
 ## Needed for Windows updates.
 @@||client.wns.windows.com^$important
 @@||ctldl.windowsupdate.com^$important
+#@@||dl.delivery.mp.microsoft.com^$important
 @@||download.windowsupdate.com^$important
 @@||settings-win.data.microsoft.com^$important
 @@||slscr.update.microsoft.com^
-@@||tlu.dl.delivery.mp.microsoft.com^$important
 @@||wdcp.microsoft.com^$important
 
 #--------
