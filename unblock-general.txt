@@ -60,3 +60,7 @@
 @@||api.audible.com^$important
 @@||avs-alexa-1-na.amazon.com^$important
 @@||dze5l2jxnquy5.cloudfront.net^$important
+
+#--------
+## Needed for downloads from Swpea.com (embroidery)
+@@||djox3levv7u3o.cloudfront.net^$important
