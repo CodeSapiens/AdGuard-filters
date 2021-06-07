@@ -21,13 +21,14 @@
 #--------
 
 ## Needed for Windows updates.
-@@||client.wns.windows.com^$important
-@@||ctldl.windowsupdate.com^$important
-#@@||dl.delivery.mp.microsoft.com^$important
-@@||download.windowsupdate.com^$important
-@@||settings-win.data.microsoft.com^$important
+@@||client.wns.windows.com^
+@@||ctldl.windowsupdate.com^
+@@||dl.delivery.mp.microsoft.com^
+@@||download.windowsupdate.com^
+@@||settings-win.data.microsoft.com^
 @@||slscr.update.microsoft.com^
-@@||wdcp.microsoft.com^$important
+@@||tsfe.trafficshaping.dsp.mp.microsoft.com^
+@@||wdcp.microsoft.com^
 
 #--------
 ## Needed for Nextdoor content.
