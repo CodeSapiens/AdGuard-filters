@@ -67,3 +67,8 @@
 #--------
 ## Needed for downloads from Swpea.com (embroidery)
 #@@||djox3levv7u3o.cloudfront.net^$important
+
+#--------
+## Needed for PlutoTV web.
+@@||boot.pluto.tv^$important
+@@||images.pluto.tv^$important
