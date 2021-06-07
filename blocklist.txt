@@ -706,7 +706,6 @@
 ||trackersimulator.org^
 ||tracking.sezzle.com^
 ||trackonomics.net^
-||trafficshaping.dsp.mp.microsoft.com^
 ||trailer.row.aiv-cdn.net^
 ||translate.googleapis.com^
 ||tremorhub.com^
