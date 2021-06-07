@@ -30,9 +30,9 @@
 
 #---- THUMBNAILS
 ### Needed to show sponsored thumbnails.
-@@||m.media-amazon.com^$important
+@@||m.media-amazon.com^
 ### Needed to show sponsored actor's thumbnails.
-@@||ecx.images-amazon.com^$important
+@@||ecx.images-amazon.com^
 ### Needed to show many thumbnails and banners. Unfortunately some push unwanted products or political issues.
 @@||images-na.ssl-images-amazon.com^
 
