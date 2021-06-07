@@ -75,5 +75,6 @@
 #---- HAYSTACKTV.
 @@||api.haystack.tv^$important
 @@||d1ptdv59avwx8y.cloudfront.net^$important
+@@||d2jzey177dgqwp.cloudfront.net^$important
 @@||d2ufudlfb4rsg4.cloudfront.net^$important
 @@||dn6q4f0q0kh23.cloudfront.net^$important
