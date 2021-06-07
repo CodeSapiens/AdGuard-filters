@@ -31,25 +31,28 @@
 
 #--------
 ## Needed for Nextdoor content.
-@@||d19rpgkrjeba2z.cloudfront.net^$important
+#@@||d19rpgkrjeba2z.cloudfront.net^$important
 ## Needed for Nextdoor media.
-@@||d3926qxcw0e1bh.cloudfront.net^$important
+#@@||d3926qxcw0e1bh.cloudfront.net^$important
 
 #--------
 ## Needed to compensate for blocking *.cloudfront.net.
-@@||music.amazon.com^$important
-@@||smile.amazon.com^$important
-@@||wsj.com^$important
-@@||www.amazon.com^$important
-@@||www.audible.com^$important
+#@@||mediadc.brightspotcdn.com^$important
+#@@||music.amazon.com^$important
+#@@||rachio.com^$important
+#@@||smile.amazon.com^$important
+#@@||washingtonexaminer.com^$important
+#@@||wsj.com^$important
+#@@||www.amazon.com^$important
+#@@||www.audible.com^$important
 #--------
 
 ## Needed to play video on certain news websites.
 @@||manifest.prod.boltdns.net^$important
 #--------
 
-## Needed to play some videos on Amazon.com.
-@@||d2y5sgsy8bbmb8.cloudfront.net^$important
+## Needed to play some product-related videos on Amazon.com.
+#@@||d2y5sgsy8bbmb8.cloudfront.net^$important
 #--------
 
 ## Needed for Alexa Smart Home integration.
@@ -59,8 +62,8 @@
 ## Needed for Audible playback.
 @@||api.audible.com^$important
 @@||avs-alexa-1-na.amazon.com^$important
-@@||dze5l2jxnquy5.cloudfront.net^$important
+#@@||dze5l2jxnquy5.cloudfront.net^$important
 
 #--------
 ## Needed for downloads from Swpea.com (embroidery)
-@@||djox3levv7u3o.cloudfront.net^$important
+#@@||djox3levv7u3o.cloudfront.net^$important
