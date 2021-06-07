@@ -124,7 +124,6 @@
 ||boi9osyg1uwtyafn.com^
 ||boltdns.net^
 ||boomtrain.com^
-||boot.pluto.tv^
 ||bounceexchange.com^
 ||bouncex.net^
 ||boxofficemojo.com^
@@ -352,7 +351,6 @@
 ||id.google.com^
 ||ignite.amazon.com^
 ||igodigital.com^
-||images.pluto.tv^
 ||imasdk.googleapis.com^
 ||impactradius-event.com^
 ||importer.hac.data.here.com^
