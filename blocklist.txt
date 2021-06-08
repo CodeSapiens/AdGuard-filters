@@ -369,7 +369,6 @@
 ||htlbid.com^
 ||humanpresence.app^
 ||i.vimeocdn.com^
-||i0.wp.com^
 ||ia.media-imdb.com^
 ||iabusprivacy.pmc.com^
 ||ichnaea.netflix.com^
