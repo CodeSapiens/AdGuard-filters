@@ -697,7 +697,6 @@
 ||tapad.com^
 ||taplytics.com^
 ||target.chase.com^
-||target.scene7.com^
 ||tctm.co^
 ||teads.com^
 ||teads.net^
