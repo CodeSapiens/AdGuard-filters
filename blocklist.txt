@@ -256,7 +256,6 @@
 ||direct.data.api.platform.here.com^
 ||directavenue.tech^
 ||display.ugc.bazaarvoice.com^
-||dl.delivery.mp.microsoft.com^
 ||dm-event.net^
 ||dmd.metaservices.microsoft.com^
 ||dmpxs.com^
