@@ -20,6 +20,7 @@
 ||aaxads.com^
 ||abeagle-public.buzzfeed.com^
 ||aboutads.info^
+||absorbingband.com^
 ||aca-livecards-service.amazon.com^
 ||account.api.here.com^
 ||activehosted.com^
@@ -437,6 +438,8 @@
 ||m.yap.yahoo.com^
 ||mads.amazon.com^
 ||main.ebayrtm.com^
+||marketing.falconembroidery.com^
+||marketingsolutions.yahoo.com^
 ||marketo.com^
 ||marketo.net^
 ||mas-ext.amazon.com^
@@ -531,6 +534,7 @@
 ||policies.oath.com^
 ||polyfill.io^
 ||portal.fb.com^
+||postclickmarketing.com^
 ||powerreviews.com^
 ||pr.comet.yahoo.com^
 ||pr.ybp.yahoo.com^
@@ -725,6 +729,7 @@
 ||ugdturner.com^
 ||unagi-na.amazon.com^
 ||unagi.amazon.com^
+||update.code.visualstudio.com^
 ||upsellit.com^
 ||urbanairship.com^
 ||us-*.event.prod.bidr.io^
@@ -753,6 +758,7 @@
 ||vop-yahoo.secure.footprint.net^
 ||vortex.data.microsoft.com^
 ||wasabi.pluto.tv^
+||watch.amazon.com^
 ||watson.telemetry.*^
 ||wcpstatic.microsoft.com^
 ||webcontentassessor.com^
