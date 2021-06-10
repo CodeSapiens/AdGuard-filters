@@ -403,8 +403,6 @@
 ||justpremium.com^
 ||jwpltx.com^
 ||k.pluto.tv^
-||kca.amazon.com^
-||kdp.amazon.com^
 ||kinesis.us-east*.amazonaws.com^
 ||kissmetrics.com^
 ||klaviyo.com^
@@ -708,7 +706,6 @@
 ||ters.*.aiv-delivery.net^
 ||thebrighttag.com^
 ||tinypass.com^
-||todo-ta-g7g.amazon.com^
 ||trace.svc.ui.com^
 ||track.contently.com^
 ||tracker.*^
