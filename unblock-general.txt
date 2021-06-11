@@ -68,8 +68,8 @@
 
 #--------
 ## Needed to download Kindle books. The second one is needed only for some books on legacy tablets.
-@@||tabletcaptiveportal.com^$important
-@@||device-messaging-na.amazon.com^$important
+@@||tabletcaptiveportal.com^
+@@||device-messaging-na.amazon.com^
 
 #--------
 ## Needed for downloads from Swpea.com (embroidery)
