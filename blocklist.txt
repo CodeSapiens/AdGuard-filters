@@ -684,7 +684,6 @@
 ||t.paypal.com^
 ||t.pluto.tv^
 ||t.wayfair.com^
-||tabletcaptiveportal.com^
 ||taboola.com^
 ||tagan.adlightning.com^
 ||tagger.opecloud.com^
