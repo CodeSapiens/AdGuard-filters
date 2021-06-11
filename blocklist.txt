@@ -248,7 +248,6 @@
 ||det-ta-g7g.amazon.com^
 ||dev.virtualearth.net^
 ||developer.amazon.com^
-||device-messaging-na.amazon.com^
 ||device-metrics-us*.amazon.com^
 ||devicemessaging.*.amazon.com^
 ||diagnostics.meethue.com^
