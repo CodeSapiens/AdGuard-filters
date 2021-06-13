@@ -92,6 +92,7 @@
 ||app.adjust.com^
 ||app.link^
 ||app.proxsee.io^
+||applab-sdk.amazon.com^
 ||appsflyer.com^
 ||appspot.com^
 ||aptivada.com^
@@ -114,6 +115,7 @@
 ||b-code.liadm.com^
 ||b-ssl.grvcdn.com^
 ||b.stats.paypal.com^
+||backstory.ebay.com^
 ||bam-sdk-configs.bamgrid.com^
 ||bat.bing.com^
 ||bats.video.yahoo.com^
@@ -154,6 +156,7 @@
 ||buysellads.net^
 ||c.bing.com^
 ||c.msn.com^
+||c.paypal.com^
 ||c00.adobe.com^
 ||c2shb.ssp.yahoo.com^
 ||candycrushsoda.king.com^
@@ -177,6 +180,7 @@
 ||cdn.registerdisney.go.com^
 ||cdn.snigelweb.com^
 ||cdn.ywxi.net^
+||cdns.*.gigya.com^
 ||cf-timedtext.aux.pv-cdn.net^
 ||cf-trickplay.aux.pv-cdn.net^
 ||chartbeat.com^
@@ -219,6 +223,7 @@
 ||cookiebot.com^
 ||cookiehub.net^
 ||cookielaw.org^
+||cortana-gateway.amazon.com^
 ||countess.twitch.tv^
 ||cquotient.com^
 ||crashlytics.com^
@@ -236,6 +241,10 @@
 ||cubchannel.com^
 ||customerevents.netflix.com^
 ||cxense.com^
+||d1vl8wytztdz.cloudfront.net^
+||d23tl967axkois.cloudfront.net^
+||d2in0p32vp1pij.cloudfront.net^
+||d3h5bk8iotgjvw.cloudfront.net^
 ||dai.google.com^
 ||dash.row.aiv-cdn.net^
 ||data.cnn.com^
@@ -278,6 +287,7 @@
 ||e-planning.net^
 ||edge-mcdn-beacon.secure.yahoo.com^
 ||edge-mqtt.facebook.com^
+||edge.curalate.com^
 ||edge.permutive.app^
 ||edgecast-vod.yahoo.net^
 ||emb-api.com^
@@ -290,6 +300,7 @@
 ||eventbus.intuit.com^
 ||events-collector.spot.im^
 ||events.matterport.com^
+||everestjs.net^
 ||evidon.com^
 ||eviltracker.net^
 ||external-*.xx.fbcdn.net^
@@ -484,6 +495,7 @@
 ||nanorep.com^
 ||narrativ.com^
 ||ncp-gw-finance.media.yahoo.com^
+||nelreports.net^
 ||newrelic.com^
 ||newscgp.com^
 ||nexstardigital.net^
@@ -532,6 +544,7 @@
 ||player.stats.live-video.net^
 ||polarcdn-*.com^
 ||policies.oath.com^
+||polling.bbc.co.uk^
 ||polyfill.io^
 ||portal.fb.com^
 ||postclickmarketing.com^
@@ -617,6 +630,7 @@
 ||segments.company-target.com^
 ||selfishsnake.com^
 ||sell.amazon.com^
+||sentry-cdn.com^
 ||servebom.com^
 ||serverbid-sync.nyc3.cdn.digitaloceanspaces.com^
 ||serverbid.com^
@@ -674,6 +688,7 @@
 ||support.opendns.com^
 ||sustainability.aboutamazon.com^
 ||svc.ui.com^
+||svcs.ebay.com^
 ||sw88.espn.com^
 ||swiftypecdn.com^
 ||swypeconnect.com^
@@ -763,6 +778,7 @@
 ||watson.telemetry.*^
 ||wcpstatic.microsoft.com^
 ||webcontentassessor.com^
+||webpubcontent.gray.tv^
 ||webpushs.com^
 ||webpushsr.com^
 ||widengle.com^
@@ -801,7 +817,9 @@
 ||yt3.ggpht.com^
 ||zdstatic.speedtest.net^
 ||zergnet.com^
+||zeronaught.com^
 ||zeustechnology.com^
+||zg-api.com^
 ||zineone.com^
 ||zopim.com^
 ||zqtk.net^
