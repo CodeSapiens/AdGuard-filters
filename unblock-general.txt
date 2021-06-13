@@ -19,6 +19,7 @@
 @@||tools.usps.com^$important
 @@||usps.force.com^$important
 @@||xcelenergy.com^$important
+@@||subsplash.com^$important
 #--------
 
 ## Needed for Windows updates.
@@ -54,7 +55,7 @@
 #--------
 
 ## Needed to play some product-related videos on Amazon.com.
-#@@||d2y5sgsy8bbmb8.cloudfront.net^$important
+@@||d2y5sgsy8bbmb8.cloudfront.net^$important
 #--------
 
 ## Needed for Alexa Smart Home integration.
@@ -64,7 +65,7 @@
 ## Needed for Audible playback.
 @@||api.audible.com^$important
 @@||avs-alexa-1-na.amazon.com^$important
-#@@||dze5l2jxnquy5.cloudfront.net^$important
+@@||dze5l2jxnquy5.cloudfront.net^$important
 
 #--------
 ## Needed to download Kindle books. The second one is needed only for some books on legacy tablets.
@@ -73,7 +74,7 @@
 
 #--------
 ## Needed for downloads from Swpea.com (embroidery)
-#@@||djox3levv7u3o.cloudfront.net^$important
+@@||djox3levv7u3o.cloudfront.net^$important
 
 #--------
 ## Needed for PlutoTV web.
