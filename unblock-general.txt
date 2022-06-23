@@ -11,26 +11,48 @@
 @@||cliqz.com^$important
 @@||dns.nextdns.io^$important
 @@||guce.yahoo.com^$important
+@@||image.em.samsclub.com^$important
+@@||justatic.com^$important
+@@||justia.com^$important
+@@||laptop-updates.brave.com^$important
 @@||livechatinc.com^$important
+@@||mail.tutanota.com^$important
+@@||mp3fiesta.com^$important
 @@||pdst.fm^$important
 @@||projectveritas.com^$important
+@@||sanfordhealth.org^$important
+@@||sanfordhealthplan.com^$important
+@@||smartlinks.intuit.com^$important
 @@||startpage.com^$important
+@@||subsplash.com^$important
 @@||surveygizmo.com^$important
 @@||tools.usps.com^$important
 @@||usps.force.com^$important
 @@||xcelenergy.com^$important
-@@||subsplash.com^$important
 #--------
 
 ## Needed for Windows updates.
-@@||client.wns.windows.com^
-@@||ctldl.windowsupdate.com^
-@@||dl.delivery.mp.microsoft.com^
-@@||download.windowsupdate.com^
-@@||settings-win.data.microsoft.com^
-@@||slscr.update.microsoft.com^
-@@||tsfe.trafficshaping.dsp.mp.microsoft.com^
-@@||wdcp.microsoft.com^
+@@||client.wns.windows.com^$important
+@@||ctldl.windowsupdate.com^$important
+@@||dl.delivery.mp.microsoft.com^$important
+@@||download.windowsupdate.com^$important
+@@||settings-win.data.microsoft.com^$important
+@@||slscr.update.microsoft.com^$important
+@@||tsfe.trafficshaping.dsp.mp.microsoft.com^$important
+@@||wcpstatic.microsoft.com^$important
+@@||wdcp.microsoft.com^$important
+@@||checkappexec.microsoft.com^$important
+
+## Needed to add account users in Windows.
+@@||acctcdn.msauth.net^$important
+@@||fpt.live.com^$important
+@@||login.live.com^$important
+@@||logincdn.msauth.net^$important
+@@||purchase.mp.microsoft.com^$important
+@@||www.bing.com^$important
+
+## Needed to access Microsoft help articles.
+@@||go.microsoft.com^$important
 
 #--------
 ## Needed for Nextdoor content.
@@ -80,3 +102,26 @@
 ## Needed for PlutoTV web.
 @@||boot.pluto.tv^$important
 @@||images.pluto.tv^$important
+
+#--------
+# Needed for ESPN content.
+@@||bam-sdk-configs.bamgrid.com^$important
+
+#--------
+# Allow images from bhg.com
+@@||imagesvc.meredithcorp.io^$important
+@@||static.onecms.io^$important
+
+#--------
+# These 3 are needed to play IMDB content on PC
+@@||js-assets.aiv-cdn.net^$important
+@@||cloudfront.xp-assets.aiv-cdn.net^$important
+@@||atv-ps.amazon.com^$important
+
+#--------
+# Needed to play videos on Keloland.com. May need to remove custom entry from blocklist.
+@@||dcs-vod.apis.anvato.net^$important
+
+#--------
+# Needed for podcasts
+@@||traffic.megaphone.fm^$important
