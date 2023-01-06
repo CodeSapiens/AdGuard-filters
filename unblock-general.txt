@@ -29,6 +29,12 @@
 @@||tools.usps.com^$important
 @@||usps.force.com^$important
 @@||xcelenergy.com^$important
+@@||monorail-edge.shopifysvc.com^$important
+@@||link.info.email.aa.com^$important
+@@||marketing.falconembroidery.com^$important
+@@||api.us-east-1.aiv-delivery.net^$important
+@@||variations.brave.com^$important
+@@||brave-core-ext.s3.brave.com^$important
 #--------
 
 ## Needed for Windows updates.
@@ -53,14 +59,14 @@
 
 ## Needed to access Microsoft help articles.
 @@||go.microsoft.com^$important
-
 #--------
+
 ## Needed for Nextdoor content.
 #@@||d19rpgkrjeba2z.cloudfront.net^$important
 ## Needed for Nextdoor media.
 #@@||d3926qxcw0e1bh.cloudfront.net^$important
-
 #--------
+
 ## Needed to compensate for blocking *.cloudfront.net.
 #@@||mediadc.brightspotcdn.com^$important
 #@@||music.amazon.com^$important
@@ -82,46 +88,77 @@
 
 ## Needed for Alexa Smart Home integration.
 @@||skills-store.amazon.com^$important
-
 #--------
+
 ## Needed for Audible playback.
 @@||api.audible.com^$important
 @@||avs-alexa-1-na.amazon.com^$important
 @@||dze5l2jxnquy5.cloudfront.net^$important
-
 #--------
+
 ## Needed to download Kindle books. The second one is needed only for some books on legacy tablets.
 @@||tabletcaptiveportal.com^
 @@||device-messaging-na.amazon.com^
-
 #--------
+
 ## Needed for downloads from Swpea.com (embroidery)
 @@||djox3levv7u3o.cloudfront.net^$important
-
 #--------
+
 ## Needed for PlutoTV web.
 @@||boot.pluto.tv^$important
 @@||images.pluto.tv^$important
-
 #--------
+
 # Needed for ESPN content.
 @@||bam-sdk-configs.bamgrid.com^$important
-
 #--------
+
 # Allow images from bhg.com
 @@||imagesvc.meredithcorp.io^$important
 @@||static.onecms.io^$important
-
 #--------
+
 # These 3 are needed to play IMDB content on PC
 @@||js-assets.aiv-cdn.net^$important
 @@||cloudfront.xp-assets.aiv-cdn.net^$important
 @@||atv-ps.amazon.com^$important
-
 #--------
+
 # Needed to play videos on Keloland.com. May need to remove custom entry from blocklist.
 @@||dcs-vod.apis.anvato.net^$important
-
 #--------
+
 # Needed for podcasts
 @@||traffic.megaphone.fm^$important
+#--------
+
+# Needed for the Apple App Store.
+@@||amp-api-edge.apps.apple.com^$important
+# Needed for photo's Visual Lookup
+@@||gs-loc.apple.com^$important
+#--------
+
+# Needed to play video on certain websites (Newsmax, etc.).
+@@||amp.akamaized.net^$important
+#-----
+
+# Needed for Schwab login.
+@@||app.launchdarkly.com^$important
+#-----
+
+# Needed for NordVPN help website.
+@@||nanorep.com^$important
+#-----
+
+# Needed to play video on websites like Foxnews.
+@@||h-cdn.com^$important
+#----
+
+# Needed to login to Microsoft website.
+@@||mem.gfx.ms^$important
+#----
+
+# Needed to play video on sites like Twitch.
+@@||video-*.hls.ttvnw.net^$important
+#----
