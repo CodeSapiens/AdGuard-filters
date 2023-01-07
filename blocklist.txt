@@ -241,7 +241,6 @@
 ||cookiebot.com-*^$important
 ||cookiebot.com^$important
 ||cookiehub.net^$important
-||cookielaw.org^$important
 ||cortana-gateway.amazon.com^$important
 ||countess.twitch.tv^$important
 ||cquotient.com^$important
