@@ -86,4 +86,5 @@
 @@||wcpstatic.microsoft.com^$important
 @@||wdcp.microsoft.com^$important
 @@||www.bing.com^$important
+@@||www.gstatic.com^$important
 @@||xcelenergy.com^$important
