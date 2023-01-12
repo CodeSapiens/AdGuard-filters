@@ -1,11 +1,12 @@
-#############
+#------------
 ## FIRE TV ##
-#############
+#------------
 #
 #---- CAPTIVEPORTAL
-### Two CaptivePortal tests are invoked by FireTV, but only the first one is needed. The second one is constantly invoked, most likely to track usage.
-@@||fireoscaptiveportal.com^$important
-||firetvcaptiveportal.com^
+### FireTV issues a network-connectivity test every 5 minutes, in the order shown below. If one fails, they try the next one, else, only the first is executed.
+@@||web.diagnostic.networking.aws.dev^$important
+# firetvcaptiveportal.com
+# fireoscaptiveportal.com
 
 #---- UI
 ### Needed for the FireTV UI to work smoothly.
