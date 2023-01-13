@@ -15,7 +15,6 @@
 @@||amp.akamaized.net^$important
 @@||api-cf.affirm.com^$important
 @@||api.audible.com^$important
-@@||api.us-east-1.aiv-delivery.net^$important
 @@||app.launchdarkly.com^$important
 @@||arcpublishing.com^$important
 @@||atv-ps.amazon.com^$important
