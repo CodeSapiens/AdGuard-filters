@@ -1,6 +1,5 @@
 /[a-z]\.root-servers\.net/
 /alt[0-9]-mtalk\.google\.com/
-/avs-alexa-(1|4|18)-na\.amazon\.com/
 /c[0-9][0-9]\.apple\.com/
 |*-dsn.algolia.net^$important
 |*-na.associates-amazon.com^$important
@@ -110,7 +109,6 @@
 ||api.retargetly.com^$important
 ||api.smoot.apple.com^$important
 ||api.tiles.mapbox.com^$important
-||api.us-east-1.aiv-delivery.net^$important
 ||apicdn.sanity.io^$important
 ||app-analytics*^$important
 ||app-measurement.com^$important
@@ -877,7 +875,6 @@
 ||ted.dailymail.co.uk^$important
 ||telemetry.^$important
 ||telephonyspamprotect-pa.googleapis.com^$important
-||ters.*.aiv-delivery.net^$important
 ||th.bing.com^$important
 ||thebrighttag.com^$important
 ||thunderhead.com^$important
