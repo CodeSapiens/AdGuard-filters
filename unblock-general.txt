@@ -1,15 +1,6 @@
-#@@||d19rpgkrjeba2z.cloudfront.net^$important
-#@@||d3926qxcw0e1bh.cloudfront.net^$important
-#@@||mediadc.brightspotcdn.com^$important
-#@@||music.amazon.com^$important
-#@@||rachio.com^$important
-#@@||smile.amazon.com^$important
-#@@||washingtonexaminer.com^$important
-#@@||wsj.com^$important
-#@@||www.amazon.com^$important
-#@@||www.audible.com^$important
 @@||acctcdn.msauth.net^$important
 @@||afternic.com^$important
+@@||aiv-cdn.net^$important
 @@||amifloced.org^$important
 @@||amp-api-edge.apps.apple.com^$important
 @@||amp.akamaized.net^$important
@@ -29,7 +20,6 @@
 @@||checkappexec.microsoft.com^$important
 @@||client.wns.windows.com^$important
 @@||cliqz.com^$important
-@@||cloudfront.xp-assets.aiv-cdn.net^$important
 @@||ctldl.windowsupdate.com^$important
 @@||d2y5sgsy8bbmb8.cloudfront.net^$important
 @@||dcs-vod.apis.anvato.net^$important
@@ -47,7 +37,6 @@
 @@||image.em.samsclub.com^$important
 @@||images.pluto.tv^$important
 @@||imagesvc.meredithcorp.io^$important
-@@||js-assets.aiv-cdn.net^$important
 @@||justatic.com^$important
 @@||justia.com^$important
 @@||laptop-updates.brave.com^$important
@@ -82,6 +71,7 @@
 @@||usps.force.com^$important
 @@||variations.brave.com^$important
 @@||video-*.hls.ttvnw.net^$important
+@@||video-api.yql.yahoo.com^$important
 @@||wcpstatic.microsoft.com^$important
 @@||wdcp.microsoft.com^$important
 @@||www.bing.com^$important
