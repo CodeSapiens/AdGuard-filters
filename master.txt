@@ -578,9 +578,7 @@
 ||graph.facebook.com^$important
 ||graph.instagram.com^$important
 ||gsas.apple.com^$important
-||gsp*-ssl.ls-apple.com.akadns.net^$important
-||gsp*-ssl.ls.apple.com.edgekey.net^$important
-||gsp*-ssl.ls.apple.com^$important
+||gsp*-ssl.ls*apple.com*^$important
 ||gstatic.com^$important
 ||gumgum.com^$important
 ||gvt2.com^$important
@@ -607,8 +605,7 @@
 ||icpsuawn1zy5amys.com^$important
 ||icptrack.com^$important
 ||id.google.com^$important
-||idiagnostics.apple.com.akadns.net^$important
-||idiagnostics.apple.com^$important
+||idiagnostics.apple.com*^$important
 ||ignite.amazon.com^$important
 ||igodigital.com^$important
 ||impactradius-event.com^$important
@@ -627,7 +624,6 @@
 ||interncache-frc.fbcdn.net^$important
 ||ioam.de^$important
 ||ip.prvtx.net^$important
-||iphone-ld.apple.com^$important
 ||ips1.unifi-ai.com^$important
 ||ipv6.msftconnecttest.com^$important
 ||irchan.com^$important
@@ -786,7 +782,6 @@
 ||pages-stats.rbl.ms^$important
 ||pancake.apple.com^$important
 ||pardot.com^$important
-||pd.itunes.apple.com^$important
 ||perf.hsforms.com^$important
 ||perfdrive.com^$important
 ||perfectmarket.com^$important
@@ -898,7 +893,6 @@
 ||scripts.dailymail.co.uk^$important
 ||sdk.beemray.com^$important
 ||sdk.qikify.com^$important
-||se-edge.itunes.apple.com^$important
 ||seal.digicert.com^$important
 ||seal.verisign.com^$important
 ||search-api.devicebits.com^$important
@@ -941,7 +935,6 @@
 ||smartadserver.com^$important
 ||smartetailing.piwik.pro^$important
 ||smetrics.*^$important
-||smp-device-content.apple.com^$important
 ||snap.licdn.com^$important
 ||soflopxl.com^$important
 ||sonobi.com^$important
