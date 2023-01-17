@@ -1,6 +1,3 @@
-/[a-z]\.root-servers\.net/
-/alt[0-9]-mtalk\.google\.com/
-/c[0-9][0-9]\.apple\.com/
 @@||a*avoddashs3ww-a.akamaihd.net^$important
 @@||acctcdn.msauth.net^$important
 @@||afternic.com^$important
