@@ -20,7 +20,6 @@
 @@||appstore-tv-prod-na.amazon.com^$important
 @@||arcpublishing.com^$important
 @@||arcus-uswest.amazon.com^$important
-@@||assets.adobedtm.com^$important
 @@||atv-ps.amazon.com^$important
 @@||avs-alexa-1-na.amazon.com^$important
 @@||bam-sdk-configs.bamgrid.com^$important
