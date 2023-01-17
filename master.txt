@@ -404,7 +404,6 @@
 ||countess.twitch.tv^$important
 ||cquotient.com^$important
 ||crashlytics.com^$important
-||crashlyticsreports-pa.googleapis.com^$important
 ||crazyegg.com^$important
 ||creativecdn.com^$important
 ||criteo.com^$important
@@ -453,7 +452,6 @@
 ||devicemessaging.*.amazon.com^$important
 ||diagnostics.meethue.com^$important
 ||dianomi.com^$important
-||digitalassetlinks.googleapis.com^$important
 ||digitru.st^$important
 ||direct-events-collector.spot.im^$important
 ||direct.data.api.platform.here.com^$important
@@ -518,10 +516,8 @@
 ||fastclick.net^$important
 ||fastly-insights.com^$important
 ||fc.yahoo.com^$important
-||federatedml-pa.googleapis.com^$important
 ||feedbackify.com^$important
 ||fff.dailymail.co.uk^$important
-||firebase*.googleapis.com^$important
 ||firebaseapp.com^$important
 ||firebaseio.com^$important
 ||firetv-news-content-ingestion.amazon.com^$important
@@ -533,10 +529,8 @@
 ||fm.cnbc.com^$important
 ||fn-pz.com^$important
 ||fontawesome.com^$important
-||fonts.googleapis.com^$important
 ||fonts.gstatic.com^$important
 ||footprintdns.com^$important
-||footprints-pa.googleapis.com^$important
 ||forter.com^$important
 ||fos5echocaptiveportal.com^$important
 ||freeskreen.com^$important
@@ -548,7 +542,6 @@
 ||g.mashable.com^$important
 ||gameplayapi.intel.com^$important
 ||gannettdigital.com^$important
-||geller-pa.googleapis.com^$important
 ||gemini.yahoo.com^$important
 ||geo*.adobe.com^$important
 ||geo.gfycat.com^$important
@@ -618,7 +611,6 @@
 ||idiagnostics.apple.com^$important
 ||ignite.amazon.com^$important
 ||igodigital.com^$important
-||imasdk.googleapis.com^$important
 ||impactradius-event.com^$important
 ||importer.hac.data.here.com^$important
 ||improvedigital.com^$important
@@ -892,7 +884,6 @@
 ||sa.api.intl.miui.com^$important
 ||sa.bbc.co.uk^$important
 ||sa.com^$important
-||safebrowsing.googleapis.com^$important
 ||sail-horizon.com^$important
 ||sail-personalize.com^$important
 ||sailthru.com^$important
@@ -1028,7 +1019,6 @@
 ||techlab-cdn.com^$important
 ||ted.dailymail.co.uk^$important
 ||telemetry.^$important
-||telephonyspamprotect-pa.googleapis.com^$important
 ||th.bing.com^$important
 ||thebrighttag.com^$important
 ||thunderhead.com^$important
@@ -1043,7 +1033,6 @@
 ||tracking.*^$important
 ||tracking.sezzle.com^$important
 ||trackonomics.net^$important
-||translate.googleapis.com^$important
 ||trcksp.cordial.io^$important
 ||tremorhub.com^$important
 ||trinity.platform.intuit.com^$important
@@ -1069,7 +1058,6 @@
 ||unagi.amazon.com^$important
 ||unbounce.com^$important
 ||update.code.visualstudio.com^$important
-||update.googleapis.com^$important
 ||upsellit.com^$important
 ||urbanairship.com^$important
 ||us-*-web-oao.ssp.yahoo.com^$important
@@ -1078,7 +1066,6 @@
 ||usageanalytics.coveo.com^$important
 ||usawildseafood.com^$important
 ||usera.imagecave.com^$important
-||userlocation.googleapis.com^$important
 ||v-*.wc.yahoodns.net^$important
 ||variations.brave.com^$important
 ||vendorlist.consensu.org^$important
@@ -1145,7 +1132,6 @@
 ||yieldlove.com^$important
 ||yieldmo.com^$important
 ||youborafds01.com^$important
-||youtubei.googleapis.com^$important
 ||yt3.ggpht.com^$important
 ||zdstatic.speedtest.net^$important
 ||zergnet.com^$important
