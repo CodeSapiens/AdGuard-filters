@@ -1,4 +1,3 @@
-@@||a*avoddashs3ww-a.akamaihd.net^$important
 @@||acctcdn.msauth.net^$important
 @@||afternic.com^$important
 @@||aiv-cdn.net^$important
@@ -142,6 +141,7 @@
 ||a4k.amazon.com^$important
 ||aamt.msnbc.com^$important
 ||aan.amazon.com^$important
+||aax-us-*-retail-direct.amazon.com^$important
 ||aax-us-iad.amazon.com^$important
 ||aaxads.com^$important
 ||abeagle-public.buzzfeed.com^$important
@@ -153,7 +153,6 @@
 ||activehosted.com^$important
 ||activity.windows.com^$important
 ||ad.*^$important
-||ada.support^$important
 ||adap.tv^$important
 ||adbrite.com^$important
 ||addthis.com^$important
@@ -195,6 +194,7 @@
 ||agkn.com^$important
 ||ags-ext.amazon.com^$important
 ||aiv-delivery.net^$important
+||akamai-*.exacttarget.com.edgekey.net^$important
 ||alb.reddit.com^$important
 ||alexametrics.com^$important
 ||aloofvest.com^$important
@@ -216,6 +216,7 @@
 ||analytics.getsling.com^$important
 ||analyticsengine.s3.amazonaws.com^$important
 ||animatedbanner.xyz^$important
+||anrdoezrs.net^$important
 ||anvato.net^$important
 ||ap.spotify.com^$important
 ||api*.iheart.com^$important
@@ -231,6 +232,7 @@
 ||api.auth.adobe.com^$important
 ||api.cnn.io^$important
 ||api.company-target.com^$important
+||api.edgeoffer.microsoft.com^$important
 ||api.ipdata.co^$important
 ||api.iris.microsoft.com^$important
 ||api.msn.com^$important
@@ -248,6 +250,7 @@
 ||applab-sdk.amazon.com^$important
 ||apple.news^$important
 ||apple.pa^$important
+||applytics.nordvpn.com^$important
 ||appmetrica.yandex.com^$important
 ||appsflyer.com^$important
 ||appspot.com^$important
@@ -274,6 +277,7 @@
 ||az*.vo.msecnd.net^$important
 ||b-code.liadm.com^$important
 ||b-ssl.grvcdn.com^$important
+||b.px-cdn.net^$important
 ||b.stats.paypal.com^$important
 ||backstory.ebay.com^$important
 ||bam-sdk-configs.bamgrid.com^$important
@@ -281,6 +285,7 @@
 ||bat.bing.com^$important
 ||bats.video.yahoo.com^$important
 ||bc.yahoo.com^$important
+||beacon.dropbox.com^$important
 ||beacon.samsclub.com^$important
 ||beacon.walmart.com^$important
 ||beam.hlserve.com^$important
@@ -291,6 +296,7 @@
 ||bidswitch.net^$important
 ||bigdata.ssp.samsung.com^$important
 ||bilsyndication.com^$important
+||bizible.com^$important
 ||bkrtx.com^$important
 ||blog.aboutamazon.com^$important
 ||blogherads.com^$important
@@ -309,6 +315,7 @@
 ||braze.com^$important
 ||brilliantcollector.com^$important
 ||britepool.com^$important
+||browser.events.data.microsoft.com^$important
 ||browser.events.data.msn.com^$important
 ||browser.sentry-cdn.com^$important
 ||brsrvr.com^$important
@@ -361,11 +368,14 @@
 ||cerebro.edna.yahoo.net^$important
 ||cf-timedtext.aux.pv-cdn.net^$important
 ||cf-trickplay.aux.pv-cdn.net^$important
+||champagne.futurecdn.net^$important
 ||chartbeat.com^$important
 ||chartbeat.net^$important
 ||checkappexec.microsoft.com^$important
 ||chimpstatic.com^$important
+||civicscience.com^$important
 ||clean.gg^$important
+||clearbitscripts.com^$important
 ||cleverads.vn^$important
 ||clickbank.net^$important
 ||client-analytics.*^$important
@@ -389,9 +399,11 @@
 ||comm100.com^$important
 ||commnat-*-gc.ess.apple.com^$important
 ||completion.amazon.com^$important
+||comscore.com^$important
 ||concertads-configs.vox-cdn.com^$important
 ||condenastdigital.com^$important
 ||confiant-integrations.net^$important
+||confiant.msn.com^$important
 ||config.claspws.tv^$important
 ||config.edge.skype.com^$important
 ||confirmit.com^$important
@@ -399,6 +411,7 @@
 ||connect.facebook.com^$important
 ||connect.facebook.net^$important
 ||consent.cmp.oath.com^$important
+||consent.dropbox.com^$important
 ||consent.trustarc.com^$important
 ||content.webcollage.net^$important
 ||contextual.media.net^$important
@@ -415,8 +428,10 @@
 ||countess.twitch.tv^$important
 ||cquotient.com^$important
 ||crashlytics.com^$important
+||crashlyticsreports-pa.googleapis.com^$important
 ||crazyegg.com^$important
 ||creativecdn.com^$important
+||crimtan.com^$important
 ||criteo.com^$important
 ||criteo.net^$important
 ||crsspxl.com^$important
@@ -435,6 +450,7 @@
 ||d15kdpgjg3unno.cloudfront.net^$important
 ||d1vl8wytztdz.cloudfront.net^$important
 ||d1z2jf7jlzjs58.cloudfront.net^$important
+||d21gpk1vhmjuf5.cloudfront.net^$important
 ||d21m0ezw6fosyw.cloudfront.net^$important
 ||d23tl967axkois.cloudfront.net^$important
 ||d2fbvay81k4ji3.cloudfront.net^$important
@@ -444,6 +460,7 @@
 ||d35k22e9287vnh.cloudfront.net^$important
 ||d35u1vg1q28b3w.cloudfront.net^$important
 ||d3h5bk8iotgjvw.cloudfront.net^$important
+||d3plfjw9uod7ab.cloudfront.net^$important
 ||d3q33rbmdkxzj.cloudfront.net^$important
 ||d6wyculpvlvh1.cloudfront.net^$important
 ||dai.google.com^$important
@@ -518,6 +535,7 @@
 ||everestjs.net^$important
 ||evidon.com^$important
 ||eviltracker.net^$important
+||ex.co^$important
 ||exelator.com^$important
 ||external-*.xx.fbcdn.net^$important
 ||extmaps-api.yandex.net^$important
@@ -531,8 +549,10 @@
 ||fastclick.net^$important
 ||fastly-insights.com^$important
 ||fc.yahoo.com^$important
+||federatedml-pa.googleapis.com^$important
 ||feedbackify.com^$important
 ||fff.dailymail.co.uk^$important
+||firebase*.googleapis.com^$important
 ||firebaseapp.com^$important
 ||firebaseio.com^$important
 ||firebaselogging-pa.googleapis.com^$important
@@ -548,8 +568,10 @@
 ||fonts.googleapis.com^$important
 ||fonts.gstatic.com^$important
 ||footprintdns.com^$important
+||footprints-pa.googleapis.com^$important
 ||forter.com^$important
 ||fos5echocaptiveportal.com^$important
+||fpapi.io^$important
 ||freeskreen.com^$important
 ||freshmarketer.com^$important
 ||frog.wix.com^$important
@@ -629,6 +651,7 @@
 ||idiagnostics.apple.com*^$important
 ||ignite.amazon.com^$important
 ||igodigital.com^$important
+||imasdk.googleapis.com^$important
 ||impactradius-event.com^$important
 ||importer.hac.data.here.com^$important
 ||improvedigital.com^$important
@@ -638,10 +661,11 @@
 ||incoming.telemetry.mozilla.org^$important
 ||indexww.com^$important
 ||ingest.sentry.io^$important
+||ink1001.com^$important
 ||inmobi.com^$important
-||innovid.com^$important
 ||insightexpressai.com^$important
 ||instinctiveads.com^$important
+||integralads.com^$important
 ||interncache-frc.fbcdn.net^$important
 ||ioam.de^$important
 ||ip.prvtx.net^$important
@@ -662,7 +686,6 @@
 ||js.hubspotfeedback.com^$important
 ||js.usemessages.com^$important
 ||js7k.com^$important
-||jtvnw.net^$important
 ||justpremium.com^$important
 ||jwpltx.com^$important
 ||k.pluto.tv^$important
@@ -678,6 +701,7 @@
 ||laptop-updates.brave.com^$important
 ||leanplum.com^$important
 ||levelaccess.net^$important
+||liadm.com^$important
 ||libertycdn.com^$important
 ||licensebuttons.net^$important
 ||lightboxcdn.com^$important
@@ -698,12 +722,12 @@
 ||log.pinterest.com^$important
 ||log.v.ssp.yahoo.com^$important
 ||logging.api.intuit.com^$important
-||login.live.com^$important
 ||logistics.amazon.com^$important
 ||logrocket.com^$important
 ||logs.datadoghq.com^$important
 ||logs.psm.wmcdp.io^$important
 ||logs.roku.com^$important
+||lotame.com^$important
 ||luckyorange.com^$important
 ||lura.live^$important
 ||lytics.io^$important
@@ -724,6 +748,7 @@
 ||media.kohlsimg.com^$important
 ||media.net^$important
 ||media.swncdn.com^$important
+||mediamath.com^$important
 ||mediaplex.com^$important
 ||meter-svc.nytimes.com^$important
 ||metric.gstatic.com^$important
@@ -744,6 +769,7 @@
 ||mon1.kohls.com^$important
 ||monarchads.com^$important
 ||monetate.net^$important
+||monetizer101.com^$important
 ||monitor.ebay.com^$important
 ||monitoring.*.amazonaws.com^$important
 ||mopinion.com^$important
@@ -823,6 +849,7 @@
 ||platform-api.sharethis.com^$important
 ||platform.twitter.com^$important
 ||player-telemetry.vimeo.com^$important
+||player.h-cdn.com^$important
 ||player.live-video.net^$important
 ||player.megaphone.fm^$important
 ||player.stats.live-video.net^$important
@@ -850,6 +877,8 @@
 ||prod.amazoncrl.com^$important
 ||prod.do.dsp.mp.microsoft.com^$important
 ||production-cmp.isgprivacy.cbsi.com^$important
+||proper.io^$important
+||propervideo.io^$important
 ||ps5.pndsn.com^$important
 ||pt.ispot.tv^$important
 ||pti.store.microsoft.com^$important
@@ -861,7 +890,6 @@
 ||purr.nytimes.com^$important
 ||push.kumulos.com^$important
 ||pushengage.com^$important
-||pusher.com^$important
 ||qgxbluhsgad.com^$important
 ||qualtrics.com^$important
 ||quantcast.com^$important
@@ -889,7 +917,6 @@
 ||rmp.rakuten.com^$important
 ||rmtag.com^$important
 ||rnengage.com^$important
-||rollout.ada.support^$important
 ||rp.liadm.com^$important
 ||rpxnow.com^$important
 ||ru.com^$important
@@ -913,6 +940,7 @@
 ||sars.amazon.com^$important
 ||sc-static.net^$important
 ||scontent-sjc2-1.xx.fbcdn.net^$important
+||scontent.webcollage.net^$important
 ||scorecardresearch.com^$important
 ||scripts.dailymail.co.uk^$important
 ||sdk.beemray.com^$important
@@ -932,6 +960,7 @@
 ||segment.com^$important
 ||segment.io^$important
 ||segments.company-target.com^$important
+||self.events.data.microsoft.com^$important
 ||selfishsnake.com^$important
 ||sell.amazon.com^$important
 ||sentry-cdn.com^$important
@@ -951,6 +980,7 @@
 ||shop.ring.com^$important
 ||shopperapproved.com^$important
 ||shortpixel.ai^$important
+||sidearm-syndication.s3.amazonaws.com^$important
 ||signifyd.com^$important
 ||siteimproveanalytics.com^$important
 ||sitescout.com^$important
@@ -960,6 +990,7 @@
 ||smartetailing.piwik.pro^$important
 ||smetrics.*^$important
 ||snap.licdn.com^$important
+||snidigital.com^$important
 ||soflopxl.com^$important
 ||sonobi.com^$important
 ||sophi.io^$important
@@ -970,21 +1001,26 @@
 ||sp.usatoday.com^$important
 ||speedcurve.com^$important
 ||speedtest.oui-*.com^$important
+||spookyexchange.com^$important
 ||spot.im^$important
 ||spotxchange.com^$important
 ||springserve.com^$important
 ||src.ebay-us.com^$important
 ||srtb.msn.com^$important
+||ssafp.samsclub.com^$important
 ||ssl.ak.dynamic.tiles.*^$important
 ||ssl.cf5.rackcdn.com^$important
 ||ssl.fastly.net^$important
 ||ssl.kaptcha.com^$important
+||sstats.adobe.com^$important
 ||stackpath.bootstrapcdn.com^$important
 ||stagepopkek.com^$important
+||statcollector.sidearmsports.com^$important
 ||statcounter.com^$important
 ||static-entertainment-wus-s-msn-com.akamaized.net^$important
 ||static-global-s-msn-com.akamaized.net^$important
 ||static.ads-twitter.com^$important
+||static.cloud.coveo.com^$important
 ||static.getclicky.com^$important
 ||static.scroll.com^$important
 ||static.zdbb.net^$important
@@ -993,6 +1029,7 @@
 ||staticxx.facebook.com^$important
 ||stats.controld.com^$important
 ||stats.gc.apple.com^$important
+||stats.ivpn.net^$important
 ||stats.lineageos.org^$important
 ||stats.wordpress.com^$important
 ||stats.wp.com^$important
@@ -1041,6 +1078,7 @@
 ||telemetry.^$important
 ||th.bing.com^$important
 ||thebrighttag.com^$important
+||thechive.com^$important
 ||thunderhead.com^$important
 ||tinypass.com^$important
 ||tiqcdn.com^$important
@@ -1049,6 +1087,7 @@
 ||trace.popin.cc^$important
 ||trace.svc.ui.com^$important
 ||track.contently.com^$important
+||track.sp.crdl.io^$important
 ||tracker.*^$important
 ||trackersimulator.org^$important
 ||tracking.*^$important
@@ -1068,13 +1107,13 @@
 ||turncdn.com^$important
 ||turnto.com^$important
 ||tvpixel.com^$important
-||twitchcdn.net^$important
 ||twitchsvc.net^$important
 ||typeahead.target.com^$important
 ||typekit.net^$important
 ||uciservice.com^$important
 ||udc.yahoo.com^$important
 ||ugdturner.com^$important
+||umwatson.events.data.microsoft.com^$important
 ||unagi-na.amazon.com^$important
 ||unagi.amazon.com^$important
 ||unbounce.com^$important
@@ -1087,6 +1126,7 @@
 ||usageanalytics.coveo.com^$important
 ||usawildseafood.com^$important
 ||usera.imagecave.com^$important
+||userlocation.googleapis.com^$important
 ||v-*.wc.yahoodns.net^$important
 ||v10.events.data.microsoft.com^$important
 ||variations.brave.com^$important
