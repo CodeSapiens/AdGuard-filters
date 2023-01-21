@@ -52,7 +52,6 @@
 @@||global.edge.bamgrid.com^$important
 @@||go.microsoft.com^$important
 @@||gs-loc.apple.com^$important
-@@||guce.yahoo.com^$important
 @@||h-cdn.com^$important
 @@||image.em.samsclub.com^$important
 @@||images-na.ssl-images-amazon.com^
@@ -130,7 +129,6 @@
 @@||xcelenergy.com^$important
 |*-dsn.algolia.net^$important
 |*-na.associates-amazon.com^$important
-|guce.*^$important
 ||*-na.amazon.com^$important
 ||*.ssp.advertising.com^$important
 ||1rx.io^$important
@@ -644,6 +642,7 @@
 ||gstatic.com^$important
 ||guardianapis.*^$important
 ||guardianapps.*^$important
+||guce.advertising.com^$important
 ||gumgum.com^$important
 ||gvt2.com^$important
 ||gvt3.com^$important
