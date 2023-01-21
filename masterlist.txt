@@ -1,10 +1,12 @@
 @@||acctcdn.msauth.net^$important
+@@||ada.support^$important
 @@||afternic.com^$important
 @@||aiv-cdn.net^$important
 @@||amazonadsi-a.akamaihd.net^$important
 @@||amifloced.org^$important
 @@||amp-api-*edge.apps.apple.com^$important
 @@||amp.akamaized.net^$important
+@@||answerhub.com^$important
 @@||api-cf.affirm.com^$important
 @@||api-v1-us.crackle.com^$important
 @@||api.amazon.com^$important
@@ -28,6 +30,7 @@
 @@||checkappexec.microsoft.com^$important
 @@||client.wns.windows.com^$important
 @@||cliqz.com^$important
+@@||cm.nordvpn.com^$important
 @@||configuration.ls.apple.com^$important
 @@||ctldl.windowsupdate.com^$important
 @@||d2y5sgsy8bbmb8.cloudfront.net^$important
@@ -36,13 +39,16 @@
 @@||djox3levv7u3o.cloudfront.net^$important
 @@||dl.delivery.mp.microsoft.com^$important
 @@||dns.nextdns.io^$important
+@@||docs.aws.amazon.com^$important
 @@||download.windowsupdate.com^$important
+@@||dts.innovid.com^$important
 @@||dze5l2jxnquy5.cloudfront.net^$important
 @@||ecx.images-amazon.com^
 @@||emt.live.ll.ww.aiv-cdn.net^$important
 @@||execute-api.us-east-1.amazonaws.com^$important
 @@||fpt.live.com^$important
 @@||ftvr-na.amazon.com^$important
+@@||g.live.com^$important
 @@||global.edge.bamgrid.com^$important
 @@||go.microsoft.com^$important
 @@||gs-loc.apple.com^$important
@@ -71,6 +77,8 @@
 @@||mp3fiesta.com^$important
 @@||msh.amazon.com^$important
 @@||na.api.amazonvideo.com^$important
+@@||na.mesk.skill.music.a2z.com^$important
+@@||nanorep.co^$important
 @@||nanorep.com^$important
 @@||occ-0-*.1.nflxso.net^$important
 @@||pdst.fm^$important
@@ -80,20 +88,25 @@
 @@||projectveritas.com^$important
 @@||purchase.mp.microsoft.com^$important
 @@||push.apple.com^$important
+@@||pusher.com^$important
 @@||query*.finance.yahoo.com^$important
 @@||s3-iad-ww.cf.videorolls.row.aiv-cdn.net^
 @@||sanfordhealth.org^$important
 @@||sanfordhealthplan.com^$important
 @@||search.itunes.apple.com^$important
+@@||secure-ds.serving-sys.com^$important
 @@||service-*.clusters.pluto.tv^$important
 @@||settings-win.data.microsoft.com^$important
+@@||sf-api-token-service.itunes.apple.com^$important
 @@||siloh-*.plutotv.net^$important
 @@||siloh.pluto.tv^$important
 @@||skills-store.amazon.com^$important
 @@||slscr.update.microsoft.com^$important
 @@||smartlinks.intuit.com^$important
+@@||spade.twitch.tv^$important
 @@||spectrum.s3.amazonaws.com^$important
 @@||startpage.com^$important
+@@||static-cdn.jtvnw.net^$important
 @@||static.onecms.io^$important
 @@||subsplash.com^$important
 @@||surveygizmo.com^$important
@@ -102,6 +115,7 @@
 @@||tp-s.nflximg.net^$important
 @@||traffic.megaphone.fm^$important
 @@||tsfe.trafficshaping.dsp.mp.microsoft.com^$important
+@@||twitchcdn.net^$important
 @@||uplynk.com^$important
 @@||usps.force.com^$important
 @@||variations.brave.com^$important
@@ -135,11 +149,11 @@
 ||a.nel.cloudflare.com^$important
 ||a.nytimes.com^$important
 ||a1.api.bbc.co.uk^$important
-||a2z.com^$important
 ||a40.usablenet.com^$important
 ||a4k.amazon.com^$important
 ||aamt.msnbc.com^$important
 ||aan.amazon.com^$important
+||aaplimg.com^$important
 ||aax-us-*-retail-direct.amazon.com^$important
 ||aax-us-iad.amazon.com^$important
 ||aaxads.com^$important
@@ -246,6 +260,7 @@
 ||app.proxsee.io^$important
 ||app.termly.io^$important
 ||applab-sdk.amazon.com^$important
+||apple-dns.net^$important
 ||apple.news^$important
 ||apple.pa^$important
 ||applytics.nordvpn.com^$important
@@ -272,6 +287,7 @@
 ||aviary.amazon.com^$important
 ||avmws.com^$important
 ||avodmp4s3ww-a.akamaihd.net^$important
+||awstrack.me^$important
 ||az*.vo.msecnd.net^$important
 ||b-code.liadm.com^$important
 ||b-ssl.grvcdn.com^$important
@@ -337,8 +353,10 @@
 ||cc.swiftype.com^$important
 ||ccgateway.net^$important
 ||cdn-akamai.mookie1.com^$important
+||cdn-settings.appsflyersdk.com^$important
 ||cdn-usent.kampyle.com^$important
 ||cdn.appdynamics.com^$important
+||cdn.attn.tv^$important
 ||cdn.blueconic.net^$important
 ||cdn.branch.io^$important
 ||cdn.concert.io^$important
@@ -441,6 +459,7 @@
 ||cstat.cdn-apple.com^$important
 ||ct.pinterest.com^$important
 ||cubchannel.com^$important
+||customer.cludo.com^$important
 ||customerevents.netflix.com^$important
 ||cxense.com^$important
 ||d.email.forbes.com^$important
@@ -492,6 +511,10 @@
 ||dms-*report.wc.yahoodns.net^$important
 ||dna.amazon.com^$important
 ||dns-*.sombrero.yahoo.net^$important
+||dns.apple.com^$important
+||dns.google.com^$important
+||dns.google^$important
+||dns.msftncsi.com^$important
 ||do-not-tracker.org^$important
 ||dotmetrics.net^$important
 ||doubleclick.net^$important
@@ -521,6 +544,7 @@
 ||emb-api.com^$important
 ||embed.ly^$important
 ||embed.sendtonews.com^$important
+||emltrk.com^$important
 ||engine.mobileapptracking.com^$important
 ||ensighten.com^$important
 ||entitlements.jwplayer.com^$important
@@ -579,6 +603,7 @@
 ||g.mashable.com^$important
 ||gameplayapi.intel.com^$important
 ||gannettdigital.com^$important
+||gateway.icloud.com^$important
 ||gemini.yahoo.com^$important
 ||geo*.adobe.com^$important
 ||geo.gfycat.com^$important
@@ -738,6 +763,7 @@
 ||marsello.com^$important
 ||mas-ext.amazon.com^$important
 ||mas-sdk.amazon.com^$important
+||mask*.icloud.com^$important
 ||matomo.cloud^$important
 ||maxcdn.bootstrapcdn.com^$important
 ||mbid.marfeelrev.com^$important
@@ -773,6 +799,7 @@
 ||mopinion.com^$important
 ||mouseflow.com^$important
 ||mparticle.com^$important
+||mparticle.weather.com^$important
 ||mplxtms.com^$important
 ||mps.cnbc.com^$important
 ||mps.nbcuni.com^$important
@@ -841,6 +868,7 @@
 ||pix.pub^$important
 ||pix.spot.im^$important
 ||pixel.facebook.com^$important
+||pixel.watch^$important
 ||pixel.wp.com^$important
 ||pixiedust.buzzfeed.com^$important
 ||plaguemanipulatedrag.com^$important
@@ -858,6 +886,7 @@
 ||polling.bbc.co.uk^$important
 ||polyfill.io^$important
 ||portal.fb.com^$important
+||postaffiliatepro.com^$important
 ||postclickmarketing.com^$important
 ||postrelease.com^$important
 ||powerreviews.com^$important
@@ -878,6 +907,7 @@
 ||proper.io^$important
 ||propervideo.io^$important
 ||ps5.pndsn.com^$important
+||pstmrk.it^$important
 ||pt.ispot.tv^$important
 ||pti.store.microsoft.com^$important
 ||pub.network^$important
@@ -987,6 +1017,7 @@
 ||smartadserver.com^$important
 ||smartetailing.piwik.pro^$important
 ||smetrics.*^$important
+||smoot.apple.com^$important
 ||snap.licdn.com^$important
 ||snidigital.com^$important
 ||soflopxl.com^$important
@@ -1095,6 +1126,7 @@
 ||tremorhub.com^$important
 ||trinity.platform.intuit.com^$important
 ||trk.ipaddress.com^$important
+||trk.klclick.com^$important
 ||trk.pinterest.com^$important
 ||tru.am^$important
 ||truoptik.com^$important
@@ -1157,6 +1189,7 @@
 ||webpubcontent.gray.tv^$important
 ||webpushs.com^$important
 ||webpushsr.com^$important
+||websitereview.corp.apple.com^$important
 ||widengle.com^$important
 ||widget.nfusionsolutions.com^$important
 ||widgets.future-fie.co.uk^$important
