@@ -32,6 +32,7 @@
 @@||cliqz.com^$important
 @@||cm.nordvpn.com^$important
 @@||configuration.ls.apple.com^$important
+@@||content.fe.apple-dns.net^$important
 @@||ctldl.windowsupdate.com^$important
 @@||d2y5sgsy8bbmb8.cloudfront.net^$important
 @@||dcs-vod.apis.anvato.net^$important
@@ -483,7 +484,6 @@
 ||data.cnn.com^$important
 ||data.mistat.xiaomi.com^$important
 ||datadoghq-browser-agent.com^$important
-||dataviz.cnn.io^$important
 ||dc.services.visualstudio.com^$important
 ||dcape-na.amazon.com^$important
 ||dcp.dc1.philips.com^$important
@@ -544,6 +544,7 @@
 ||embed.sendtonews.com^$important
 ||emltrk.com^$important
 ||engine.mobileapptracking.com^$important
+||enigmasoftware.com^$important
 ||ensighten.com^$important
 ||entitlements.jwplayer.com^$important
 ||eum-appdynamics.com^$important
@@ -643,6 +644,7 @@
 ||guardianapis.*^$important
 ||guardianapps.*^$important
 ||guce.advertising.com^$important
+||guce.yahoo.com^$important
 ||gumgum.com^$important
 ||gvt2.com^$important
 ||gvt3.com^$important
@@ -932,6 +934,7 @@
 ||redirector.gvt1.com^$important
 ||referrer.disqus.com^$important
 ||reftagger.com^$important
+||regrunreanimator.com^$important
 ||remoteconfig-na.amazon.com^$important
 ||report-uri.io^$important
 ||reporting-api.gannettinnovation.com^$important
