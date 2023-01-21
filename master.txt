@@ -68,7 +68,6 @@
 @@||mas-ext.amazon.com^$important
 @@||mediatailor.us-east-1.amazonaws.com^$important
 @@||mem.gfx.ms^$important
-@@||monorail-edge.shopifysvc.com^$important
 @@||mp3fiesta.com^$important
 @@||msh.amazon.com^$important
 @@||na.api.amazonvideo.com^$important
