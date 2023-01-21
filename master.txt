@@ -236,7 +236,6 @@
 ||api.iris.microsoft.com^$important
 ||api.msn.com^$important
 ||api.retargetly.com^$important
-||api.smoot.apple.com^$important
 ||api.tiles.mapbox.com^$important
 ||apicdn.sanity.io^$important
 ||app-analytics*^$important
