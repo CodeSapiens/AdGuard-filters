@@ -1133,3 +1133,9 @@
 ||zopim.com^$important
 ||zqtk.net^$important
 ||zwyr157wwiu6eior.com^$important
+
+||apple-dns.net^$important
+||dns.apple.com^$important
+||gc.apple.com^$important
+||app-site-association.cdn-apple.com^$important
+||*.icloud.com^$important
