@@ -444,6 +444,7 @@
 ||eyeota.net^$important
 ||ezodn.com^$important
 ||ezoic.net^$important
+||f.convertkit.com^$important
 ||factset.com^$important
 ||fakeimg.pl^$important
 ||fastclick.com^$important
@@ -744,6 +745,7 @@
 ||pages-stats.rbl.ms^$important
 ||pancake.apple.com^$important
 ||pardot.com^$important
+||parkingcrew.net^$important
 ||perf.hsforms.com^$important
 ||perfdrive.com^$important
 ||perfectmarket.com^$important
@@ -890,6 +892,7 @@
 ||service.amazonsilk.com^$important
 ||service.cmp.oath.com^$important
 ||service.force.com^$important
+||services.sdiapi.com^$important
 ||serving-sys.com^$important
 ||sessions.prod.bugs.firebat.prime-video.amazon.dev^$important
 ||settings-ssl.xboxlive.com^$important
@@ -1007,6 +1010,7 @@
 ||tiqcdn.com^$important
 ||tiresomethunder.com^$important
 ||tm-awx.com^$important
+||tr.www.cloudflare.com^$important
 ||trace.popin.cc^$important
 ||trace.svc.ui.com^$important
 ||track.contently.com^$important
