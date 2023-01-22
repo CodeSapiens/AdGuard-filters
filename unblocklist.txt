@@ -15,6 +15,7 @@
 @@||api.pluto.tv^$important
 @@||app.launchdarkly.com^$important
 @@||appconfigs.disney-plus.net^$important
+@@||apps.mzstatic.com^$important
 @@||appstore-tv-prod-na.amazon.com^$important
 @@||arcpublishing.com^$important
 @@||arcus-uswest.amazon.com^$important
