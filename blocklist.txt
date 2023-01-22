@@ -121,6 +121,7 @@
 ||api.iris.microsoft.com^$important
 ||api.msn.com^$important
 ||api.retargetly.com^$important
+||api.revenuecat.com^$important
 ||api.tiles.mapbox.com^$important
 ||apicdn.sanity.io^$important
 ||app-analytics*^$important
@@ -261,6 +262,7 @@
 ||chartbeat.com^$important
 ||chartbeat.net^$important
 ||checkappexec.microsoft.com^$important
+||checkitt.news^$important
 ||chimpstatic.com^$important
 ||civicscience.com^$important
 ||clean.gg^$important
@@ -426,7 +428,9 @@
 ||eum-appdynamics.com^$important
 ||eventbus.intuit.com^$important
 ||events-collector.spot.im^$important
+||events.gfe.nvidia.com^$important
 ||events.kumulos.com^$important
+||events.mapbox.com^$important
 ||events.matterport.com^$important
 ||events.redditmedia.com^$important
 ||everestjs.net^$important
@@ -488,6 +492,7 @@
 ||geoedge.be^$important
 ||geolocation.*^$important
 ||geolocation.onetrust.com^$important
+||geotrust.com^$important
 ||getpublica.com^$important
 ||getsentry.com^$important
 ||glancecdn.net^$important
@@ -781,6 +786,7 @@
 ||primetime.bluejeans.com^$important
 ||prisasd.com^$important
 ||privacy-center.org^$important
+||privacymanager.io^$important
 ||privacyportal*.onetrust.com^$important
 ||privy.com^$important
 ||pro.imdb.com^$important
