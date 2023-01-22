@@ -131,7 +131,6 @@
 ||app.proxsee.io^$important
 ||app.termly.io^$important
 ||applab-sdk.amazon.com^$important
-||apple-dns.net^$important
 ||apple.news^$important
 ||apple.pa^$important
 ||applytics.nordvpn.com^$important
@@ -387,7 +386,6 @@
 ||dms-*report.wc.yahoodns.net^$important
 ||dna.amazon.com^$important
 ||dns-*.sombrero.yahoo.net^$important
-||dns.apple.com^$important
 ||dns.google.com^$important
 ||dns.google^$important
 ||dns.msftncsi.com^$important
@@ -481,7 +479,6 @@
 ||g.mashable.com^$important
 ||gameplayapi.intel.com^$important
 ||gannettdigital.com^$important
-||gateway.icloud.com^$important
 ||gemini.yahoo.com^$important
 ||geo*.adobe.com^$important
 ||geo.gfycat.com^$important
@@ -644,7 +641,6 @@
 ||marsello.com^$important
 ||mas-ext.amazon.com^$important
 ||mas-sdk.amazon.com^$important
-||mask*.icloud.com^$important
 ||matomo.cloud^$important
 ||maxcdn.bootstrapcdn.com^$important
 ||mbid.marfeelrev.com^$important
