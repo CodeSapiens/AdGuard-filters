@@ -364,7 +364,6 @@
 ||data.mistat.xiaomi.com^$important
 ||datadoghq-browser-agent.com^$important
 ||dc.services.visualstudio.com^$important
-||dcape-na.amazon.com^$important
 ||dcp.dc1.philips.com^$important
 ||default.exp-tas.com^$important
 ||delidatax.net^$important
@@ -398,7 +397,6 @@
 ||doubleverify.com^$important
 ||downloads.mailchimp.com^$important
 ||dp-discovery-na-ext.amazon.com^$important
-||dp-gw-na.amazon.com^$important
 ||dr3fr5q4g2ul9.cloudfront.net^$important
 ||drfdisvc.walmart.com^$important
 ||ds-aksb-a.akamaihd.net^$important
@@ -462,7 +460,6 @@
 ||firs-ta-g7g.amazon.com^$important
 ||flashtalking.com^$important
 ||flix360.com^$important
-||fls-na.amazon.com^$important
 ||flurry.com^$important
 ||fm.cnbc.com^$important
 ||fn-pz.com^$important
@@ -826,7 +823,6 @@
 ||referrer.disqus.com^$important
 ||reftagger.com^$important
 ||regrunreanimator.com^$important
-||remoteconfig-na.amazon.com^$important
 ||report-uri.io^$important
 ||reporting-api.gannettinnovation.com^$important
 ||rereddit.com^$important
@@ -1042,7 +1038,6 @@
 ||udc.yahoo.com^$important
 ||ugdturner.com^$important
 ||umwatson.events.data.microsoft.com^$important
-||unagi-na.amazon.com^$important
 ||unagi.amazon.com^$important
 ||unbounce.com^$important
 ||update.code.visualstudio.com^$important
