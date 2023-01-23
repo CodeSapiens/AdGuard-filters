@@ -1,0 +1,14 @@
+||*.icloud.com^
+||app-site-association.cdn-apple.com^
+||apple-dns.net^
+||boltdns.net^
+||dms-*report.wc.yahoodns.net^
+||dns-*.sombrero.yahoo.net^
+||dns.apple.com^
+||dns.google.com^
+||dns.google^
+||dns.msftncsi.com^
+||footprintdns.com^
+||gc.apple.com^
+||google.navigation.opendns.com^
+||v-*.wc.yahoodns.net^
