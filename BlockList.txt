@@ -2,6 +2,7 @@
 ||*-na.amazon.com^
 ||*-na.associates-amazon.com^
 ||*.ssp.advertising.com^
+||*-ta-g7g.amazon.com^
 ||1rx.io^
 ||1trust.app^
 ||2mdn.net^
@@ -370,7 +371,6 @@
 ||delidatax.net^
 ||demdex.net^
 ||deployads.com^
-||det-ta-g7g.amazon.com^
 ||dev.virtualearth.net^
 ||developer.amazon.com^
 ||device-metrics-us*.amazon.com^
@@ -601,6 +601,7 @@
 ||krxd.net^
 ||kundenserver.de^
 ||lameletters.com^
+||lb._dns-sd._udp.*^
 ||laptop-updates.brave.com^
 ||leanplum.com^
 ||levelaccess.net^
@@ -780,7 +781,6 @@
 ||pr-bh.ybp.yahoo.com^
 ||pr.comet.yahoo.com^
 ||pr.ybp.yahoo.com^
-||prime.amazon.com^
 ||primetime.bluejeans.com^
 ||prisasd.com^
 ||privacy-center.org^
@@ -888,6 +888,7 @@
 ||service.cmp.oath.com^
 ||service.force.com^
 ||services.sdiapi.com^
+||service.minerva.devices.a2z.com^
 ||serving-sys.com^
 ||sessions.prod.bugs.firebat.prime-video.amazon.dev^
 ||settings-ssl.xboxlive.com^
