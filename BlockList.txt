@@ -484,6 +484,7 @@
 ||gannettdigital.com^
 ||gemini.yahoo.com^
 ||geo*.adobe.com^
+||geo.ads*^
 ||geo.gfycat.com^
 ||geo.ngtv.io^
 ||geo.query.yahoo.com^
@@ -627,6 +628,7 @@
 ||log.go.com^
 ||log.pinterest.com^
 ||log.v.ssp.yahoo.com^
+||logfiles.zoom.us^
 ||logging.api.intuit.com^
 ||logistics.amazon.com^
 ||logrocket.com^
@@ -944,7 +946,7 @@
 ||statcounter.com^
 ||static-entertainment-wus-s-msn-com.akamaized.net^
 ||static-global-s-msn-com.akamaized.net^
-||static.ads-twitter.com^
+||static.ads*^
 ||static.cloud.coveo.com^
 ||static.getclicky.com^
 ||static.scroll.com^
