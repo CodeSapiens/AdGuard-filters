@@ -1,8 +1,8 @@
 ||*-dsn.algolia.net^
 ||*-na.amazon.com^
 ||*-na.associates-amazon.com^
-||*.ssp.advertising.com^
 ||*-ta-g7g.amazon.com^
+||*.ssp.advertising.com^
 ||1rx.io^
 ||1trust.app^
 ||2mdn.net^
@@ -98,6 +98,7 @@
 ||analytics-sg.tiktok.com^
 ||analytics-static.ugc.bazaarvoice.com^
 ||analytics.*^
+||analytics.edgekey.net^
 ||analytics.getsling.com^
 ||analytics.poperblocker.com^
 ||analyticsengine.s3.amazonaws.com^
@@ -305,6 +306,7 @@
 ||consent.cmp.oath.com^
 ||consent.dropbox.com^
 ||consent.trustarc.com^
+||content-yahoo.uplynk.com^
 ||content.webcollage.net^
 ||contextual.media.net^
 ||contextweb.com^
@@ -601,8 +603,8 @@
 ||krxd.net^
 ||kundenserver.de^
 ||lameletters.com^
-||lb._dns-sd._udp.*^
 ||laptop-updates.brave.com^
+||lb._dns-sd._udp.*^
 ||leanplum.com^
 ||levelaccess.net^
 ||liadm.com^
@@ -834,6 +836,7 @@
 ||rmp.rakuten.com^
 ||rmtag.com^
 ||rnengage.com^
+||routing.cloudfront.aws.a2z.com^
 ||rp.liadm.com^
 ||rpxnow.com^
 ||ru.com^
@@ -887,8 +890,9 @@
 ||service.amazonsilk.com^
 ||service.cmp.oath.com^
 ||service.force.com^
-||services.sdiapi.com^
 ||service.minerva.devices.a2z.com^
+||services.brightline.tv^
+||services.sdiapi.com^
 ||serving-sys.com^
 ||sessions.prod.bugs.firebat.prime-video.amazon.dev^
 ||settings-ssl.xboxlive.com^
@@ -908,6 +912,7 @@
 ||smartadserver.com^
 ||smartetailing.piwik.pro^
 ||smetrics.*^
+||smetrics.foxnews.com^
 ||smoot.apple.com^
 ||snap.licdn.com^
 ||snidigital.com^
