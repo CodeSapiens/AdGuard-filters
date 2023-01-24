@@ -3,7 +3,6 @@
 ||apple-dns.net^
 ||boltdns.net^
 ||cloudflare-dns.com^
-||dms-*report.wc.yahoodns.net^
 ||dns-*.sombrero.yahoo.net^
 ||dns.apple.com^
 ||dns.google.com^
@@ -12,4 +11,4 @@
 ||footprintdns.com^
 ||gc.apple.com^
 ||google.navigation.opendns.com^
-||v-*.wc.yahoodns.net^
+||yahoodns.net^
