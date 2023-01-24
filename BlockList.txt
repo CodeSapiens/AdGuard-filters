@@ -524,7 +524,6 @@
 ||guardianapis.*^
 ||guardianapps.*^
 ||guce.advertising.com^
-||guce.yahoo.com^
 ||gumgum.com^
 ||gvt2.com^
 ||gvt3.com^
