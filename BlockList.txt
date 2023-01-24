@@ -1043,7 +1043,6 @@
 ||typeahead.target.com^
 ||typekit.net^
 ||uciservice.com^
-||udc.yahoo.com^
 ||ugdturner.com^
 ||unagi.amazon.com^
 ||unbounce.com^
