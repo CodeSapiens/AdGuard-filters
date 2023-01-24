@@ -661,6 +661,7 @@
 ||mediago.io^
 ||mediamath.com^
 ||mediaplex.com^
+||metcon.hulu.com^
 ||meter-svc.nytimes.com^
 ||metric.gstatic.com^
 ||metricode.com^
