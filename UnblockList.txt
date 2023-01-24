@@ -118,6 +118,7 @@
 @@||traffic.megaphone.fm^$important
 @@||tsfe.trafficshaping.dsp.mp.microsoft.com^$important
 @@||twitchcdn.net^$important
+@@||udc.yahoo.com^$important
 @@||uplynk.com^$important
 @@||usps.force.com^$important
 @@||variations.brave.com^$important
