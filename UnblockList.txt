@@ -1,7 +1,7 @@
 @@||acctcdn.msauth.net^$important
 @@||ada.support^$important
 @@||afternic.com^$important
-@@||aiv-cdn.net^$important
+#@@||aiv-cdn.net^$important
 @@||amazonadsi-a.akamaihd.net^$important
 @@||amifloced.org^$important
 @@||amp-api-*edge.apps.apple.com^$important
