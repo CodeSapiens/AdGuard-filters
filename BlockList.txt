@@ -78,7 +78,6 @@
 ||affilired.com^
 ||agkn.com^
 ||ags-ext.amazon.com^
-||aiv-delivery.net^
 ||akamai-*.exacttarget.com.edgekey.net^
 ||alb.reddit.com^
 ||alexametrics.com^
