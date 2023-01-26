@@ -151,7 +151,6 @@
 ||atdmt.com^
 ||atrack.avplayer.com^
 ||ats.everesttech.net^
-||atv-ps.amazon.com^
 ||atwola.com^
 ||audrte.com^
 ||aultseemedto.xyz^
