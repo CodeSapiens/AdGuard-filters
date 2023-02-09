@@ -46,6 +46,7 @@
 @@||ecx.images-amazon.com^
 @@||epdg.epc.att.net^
 @@||execute-api.us-east-1.amazonaws.com^
+@@||finance.yahoo.com^$important
 @@||fpt.live.com^
 @@||ftvr-na.amazon.com^
 @@||g.live.com^
