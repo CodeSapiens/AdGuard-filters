@@ -44,6 +44,7 @@
 @@||dts.innovid.com^
 @@||dze5l2jxnquy5.cloudfront.net^
 @@||ecx.images-amazon.com^
+@@||epdg.epc.att.net^
 @@||execute-api.us-east-1.amazonaws.com^
 @@||fpt.live.com^
 @@||ftvr-na.amazon.com^
@@ -51,6 +52,7 @@
 @@||global.edge.bamgrid.com^
 @@||go.microsoft.com^
 @@||gs-loc.apple.com^
+@@||gsp*-ssl.ls.apple.com^
 @@||h-cdn.com^
 @@||image.em.samsclub.com^
 @@||images.pluto.tv^
@@ -89,6 +91,7 @@
 @@||sanfordhealthplan.com^
 @@||search.itunes.apple.com^
 @@||secure-ds.serving-sys.com^
+@@||sentitlement2.mobile.att.net^
 @@||service-*.clusters.pluto.tv^
 @@||sf-api-token-service.itunes.apple.com^
 @@||siloh-*.plutotv.net^
@@ -119,6 +122,9 @@
 @@||vidible.tv^
 @@||wcpstatic.microsoft.com^
 @@||wdcp.microsoft.com^
+@@||weather-data.apple.com^
+@@||weather-map*.apple.com^
+@@||widget-mediator.zopim.com^
 @@||www.bing.com^
 @@||www.gstatic.com^
 @@||xcelenergy.com^
