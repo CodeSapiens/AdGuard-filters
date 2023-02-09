@@ -1,5 +1,4 @@
 ||*-dsn.algolia.net^
-||*-na.amazon.com^
 ||*-na.associates-amazon.com^
 ||*-ta-g7g.amazon.com^
 ||*.ssp.advertising.com^
@@ -112,7 +111,6 @@
 ||api-esp.piano.io^
 ||api-global.netflix.com^
 ||api-hotjar.com^
-||api.amazonalexa.com^
 ||api.apptentive.com^
 ||api.audible.com^
 ||api.auth.adobe.com^
@@ -121,7 +119,6 @@
 ||api.edgeoffer.microsoft.com^
 ||api.ipdata.co^
 ||api.iris.microsoft.com^
-||api.msn.com^
 ||api.retargetly.com^
 ||api.revenuecat.com^
 ||api.tiles.mapbox.com^
@@ -157,7 +154,6 @@
 ||auth.adobe.com^
 ||automatad.com^
 ||avhtaapxml.com^
-||aviary.amazon.com^
 ||avmws.com^
 ||avodmp4s3ww-a.akamaihd.net^
 ||awstrack.me^
@@ -269,7 +265,7 @@
 ||cleverads.vn^
 ||clickbank.com^
 ||clickbank.net^
-||client-analytics.*^
+||client-analytics
 ||client.rum.*.amazonaws.com^
 ||cloud1.linksyssmartwifi.com^
 ||cloudflareinsights.com^
@@ -278,7 +274,6 @@
 ||cmp.advertising.com^
 ||cmp.dmgmediaprivacy.co.uk^
 ||cn-geo1.uber.com^
-||cognito-identity.*.amazonaws.com^
 ||collector-*.perimeterx.net^
 ||collector-*.px-cloud.net^
 ||collector-*.pxchk.net^
@@ -313,8 +308,7 @@
 ||conviva.com^
 ||cookie-cdn.cookiepro.com^
 ||cookie-script.com^
-||cookiebot.com-*^
-||cookiebot.com^
+||cookiebot.com
 ||cookiehub.net^
 ||cortana-gateway.amazon.com^
 ||countess.twitch.tv^
@@ -423,8 +417,6 @@
 ||eum-appdynamics.com^
 ||eventbus.intuit.com^
 ||events-collector.spot.im^
-||events.data.microsoft.com^
-||events.data.msn.com^
 ||events.gfe.nvidia.com^
 ||events.kumulos.com^
 ||events.mapbox.com^
@@ -482,14 +474,13 @@
 ||gannettdigital.com^
 ||gemini.yahoo.com^
 ||geo*.adobe.com^
-||geo.ads*^
+||geo.ads
 ||geo.gfycat.com^
 ||geo.ngtv.io^
 ||geo.query.yahoo.com^
 ||geo.yahoo.com^
 ||geoedge.be^
-||geolocation.*^
-||geolocation.onetrust.com^
+||geolocation
 ||geotrust.com^
 ||getpublica.com^
 ||getsentry.com^
@@ -506,7 +497,7 @@
 ||goodcloud.xyz^
 ||google-analytics.com^
 ||google.ru^
-||googleads.*^
+||googleads
 ||googleadservices.com^
 ||googleoptimize.com^
 ||googlesyndication.com^
@@ -517,10 +508,10 @@
 ||graph.facebook.com^
 ||graph.instagram.com^
 ||gsas.apple.com^
-||gsp*-ssl.ls*apple.com*^
+||gsp*-ssl.ls*apple.com
 ||gstatic.com^
-||guardianapis.*^
-||guardianapps.*^
+||guardianapis
+||guardianapps
 ||guce.advertising.com^
 ||gumgum.com^
 ||gvt2.com^
@@ -550,7 +541,7 @@
 ||icptrack.com^
 ||id.google.com^
 ||id5-sync.com^
-||idiagnostics.apple.com*^
+||idiagnostics.apple.com
 ||ignite.amazon.com^
 ||igodigital.com^
 ||imasdk.googleapis.com^
@@ -594,7 +585,6 @@
 ||k.pluto.tv^
 ||kampyle.com^
 ||kargo.com^
-||kinesis.us-east*.amazonaws.com^
 ||kissmetrics.com^
 ||klaviyo.com^
 ||kochava.com^
@@ -602,7 +592,7 @@
 ||kundenserver.de^
 ||lameletters.com^
 ||laptop-updates.brave.com^
-||lb._dns-sd._udp.*^
+||lb._dns-sd._udp
 ||leanplum.com^
 ||levelaccess.net^
 ||liadm.com^
@@ -616,7 +606,7 @@
 ||linksynergy.com^
 ||litix.io^
 ||livefyre.com^
-||lixarproxsee.*^
+||lixarproxsee
 ||llnwd.net^
 ||load.s3.amazonaws.com^
 ||loader.wisepops.com^
@@ -644,7 +634,6 @@
 ||marketo.net^
 ||marsello.com^
 ||mas-ext.amazon.com^
-||mas-sdk.amazon.com^
 ||matomo.cloud^
 ||maxcdn.bootstrapcdn.com^
 ||mbid.marfeelrev.com^
@@ -662,7 +651,7 @@
 ||meter-svc.nytimes.com^
 ||metric.gstatic.com^
 ||metricode.com^
-||metrics.*^
+||metrics
 ||mgid.com^
 ||mi.eddiebauer.com^
 ||micpn.com^
@@ -695,7 +684,7 @@
 ||msedge.api.cdp.microsoft.com^
 ||mtalk.google.com^
 ||mutinycdn.com^
-||mybbc-analytics.*^
+||mybbc-analytics
 ||myfidevs.io^
 ||mzhlhrfr8z.info^
 ||na.prism.digital.amazon.dev^
@@ -732,7 +721,7 @@
 ||onesignal.com^
 ||online-metrix.net^
 ||openx.net^
-||ophan.*^
+||ophan.
 ||optimize-stats.voxmedia.com^
 ||optimizely.com^
 ||optimizely.wsj.com^
@@ -1133,6 +1122,5 @@
 ||zineone.com^
 ||zion-telemetry.api.cnn.io^
 ||zion.cnn.com^
-||zopim.com^
 ||zqtk.net^
 ||zwyr157wwiu6eior.com^
