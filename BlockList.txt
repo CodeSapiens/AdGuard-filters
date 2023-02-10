@@ -37,6 +37,7 @@
 ||account.api.here.com^
 ||activehosted.com^
 ||activity.windows.com^
+||ad-tech.nbcuni.com^
 ||ad.
 ||adap.tv^
 ||adbrite.com^
@@ -49,9 +50,9 @@
 ||admanmedia.com^
 ||admantx.com^
 ||adnxs.com^
-||adrise.tv^
 ||adrizer.com^
 ||adroll.com^
+||adrta.com^
 ||ads-api.twitter.com^
 ||ads-sg.tiktok.com^
 ||ads-twitter.com^
@@ -97,6 +98,7 @@
 ||ampproject.org^
 ||an.facebook.com^
 ||analytics-api.samsunghealthcn.com^
+||analytics-ingestion.production-public.tubi.io^
 ||analytics-sg.tiktok.com^
 ||analytics-static.ugc.bazaarvoice.com^
 ||analytics.
@@ -113,7 +115,6 @@
 ||api-bd.kohls.com^
 ||api-cf.affirm.com^
 ||api-esp.piano.io^
-||api-global.netflix.com^
 ||api-hotjar.com^
 ||api.apptentive.com^
 ||api.audible.com^
@@ -415,6 +416,7 @@
 ||edgecast-vod.yimg.com^
 ||effectivecreativeformat.com^
 ||eloqua.com^
+||email.aboutamazon.com^
 ||emb-api.com^
 ||embed.ly^
 ||embed.sendtonews.com^
@@ -430,6 +432,7 @@
 ||events.kumulos.com^
 ||events.mapbox.com^
 ||events.matterport.com^
+||events.mountain.com^
 ||events.redditmedia.com^
 ||everestjs.net^
 ||evidon.com^
@@ -461,6 +464,7 @@
 ||firs-ta-g7g.amazon.com^
 ||flashtalking.com^
 ||flix360.com^
+||fls-na.amazon.com^
 ||flurry.com^
 ||fm.cnbc.com^
 ||fn-pz.com^
@@ -518,7 +522,6 @@
 ||graph.instagram.com^
 ||gsas.apple.com^
 ||gsp*-ssl.ls*apple.com
-||gstatic.com^
 ||guardianapis
 ||guardianapps
 ||guce.advertising.com^
@@ -566,6 +569,7 @@
 ||ingest.sentry.io^
 ||ink1001.com^
 ||inmobi.com^
+||innovid.com^
 ||insightexpressai.com^
 ||instinctiveads.com^
 ||integralads.com^
@@ -757,10 +761,12 @@
 ||pingback.giphy.com^
 ||pix.pub^
 ||pix.spot.im^
+||pixel*.production-public.tubi.io^
 ||pixel.facebook.com^
 ||pixel.watch^
 ||pixel.wp.com^
 ||pixiedust.buzzfeed.com^
+||placed.com^
 ||plaguemanipulatedrag.com^
 ||platform-api.sharethis.com^
 ||platform.twitter.com^
@@ -818,6 +824,7 @@
 ||queryly.com^
 ||r.bbci.co.uk^
 ||radar.cedexis.com^
+||rainmaker*.production-public.tubi.io^
 ||ras.yahoo.com^
 ||reconditerespect.com^
 ||recsys-api.buzzfeed.com^
@@ -1044,6 +1051,7 @@
 ||typekit.net^
 ||uciservice.com^
 ||ugdturner.com^
+||unagi-na.amazon.com^
 ||unagi.amazon.com^
 ||unbounce.com^
 ||update.code.visualstudio.com^
