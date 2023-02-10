@@ -126,6 +126,7 @@
 ||api.iris.microsoft.com^
 ||api.retargetly.com^
 ||api.revenuecat.com^
+||api.statsig.com^
 ||api.tiles.mapbox.com^
 ||api.us-*.aiv-delivery.net^
 ||apicdn.sanity.io^
@@ -204,6 +205,9 @@
 ||braze.com^
 ||brilliantcollector.com^
 ||britepool.com^
+||browser-intake-datadoghq.com^
+||browser.events.data.microsoft.com^
+||browser.events.data.msn.com^
 ||browser.sentry-cdn.com^
 ||brsrvr.com^
 ||btloader.com^
@@ -753,6 +757,7 @@
 ||perfdrive.com^
 ||perfectmarket.com^
 ||permutive.com^
+||perr.h-cdn.com^
 ||phar.gu-web.net^
 ||pharmacy.amazon.com^
 ||phonograph2.voxmedia.com^
