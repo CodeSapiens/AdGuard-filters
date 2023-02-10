@@ -127,7 +127,7 @@
 ||api.retargetly.com^
 ||api.revenuecat.com^
 ||api.tiles.mapbox.com^
-||api.us-east-1.aiv-delivery.net^
+||api.us-*.aiv-delivery.net^
 ||apicdn.sanity.io^
 ||app-analytics
 ||app-measurement.com^
