@@ -344,7 +344,6 @@
 ||customer.cludo.com^
 ||customerevents.netflix.com^
 ||cxense.com^
-||cynthia.web.roku.com^
 ||d1vl8wytztdz.cloudfront.net^
 ||d1z2jf7jlzjs58.cloudfront.net^
 ||d2ef20sk9hi1u3.cloudfront.net^
@@ -388,6 +387,7 @@
 ||direct.data.api.platform.here.com^
 ||directavenue.tech^
 ||display.ugc.bazaarvoice.com^
+||distillery.wistia.com^
 ||dm-event.net^
 ||dmd.metaservices.microsoft.com^
 ||dmpxs.com^
@@ -764,6 +764,7 @@
 ||piano.io^
 ||pindorama.amazon.com^
 ||pingback.giphy.com^
+||pipedream.wistia.com^
 ||pix.pub^
 ||pix.spot.im^
 ||pixel*.production-public.tubi.io^
@@ -1056,8 +1057,7 @@
 ||typekit.net^
 ||uciservice.com^
 ||ugdturner.com^
-||unagi-na.amazon.com^
-||unagi.amazon.com^
+||unagi*.amazon.com^
 ||unbounce.com^
 ||update.code.visualstudio.com^
 ||ups.inq.com^
