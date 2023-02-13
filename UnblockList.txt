@@ -88,6 +88,7 @@
 @@||push.apple.com^
 @@||pusher.com^
 @@||query*.finance.yahoo.com^
+@@||ravm.tv^
 @@||sanfordhealth.org^
 @@||sanfordhealthplan.com^
 @@||search.itunes.apple.com^
