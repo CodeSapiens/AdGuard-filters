@@ -1154,3 +1154,5 @@
 ||aviary.amazon.com^
 ||monorail-edge.shopifysvc.com^
 ||images*.minutemediacdn.com^
+||adpredictive.com^
+||monorail-edge.shopifysvc.com^
