@@ -364,7 +364,6 @@
 ||d35u1vg1q28b3w.cloudfront.net^
 ||d.email.forbes.com^
 ||d.reddit.com^
-||dai.google.com^
 ||data.adobedc.net^
 ||data.amazon.com^
 ||data.cnn.com^
@@ -465,7 +464,6 @@
 ||firebaseio.com^
 ||firebaselogging-pa.googleapis.com^
 ||firetv-news-content-ingestion.amazon.com^
-||firs-ta-g7g.amazon.com^
 ||flashtalking.com^
 ||flix360.com^
 ||fls-na.amazon.com^
@@ -642,7 +640,6 @@
 ||logs.roku.com^
 ||lotame.com^
 ||luckyorange.com^
-||lura.live^
 ||lytics.io^
 ||m.yap.yahoo.com^
 ||mads.amazon.com^
@@ -653,7 +650,6 @@
 ||marsello.com^
 ||mas-ext.amazon.com^
 ||matomo.cloud^
-||maxcdn.bootstrapcdn.com^
 ||mbid.marfeelrev.com^
 ||media*.fc2.com^
 ||media.evolv.ai^
@@ -953,7 +949,6 @@
 ||ssl.fastly.net^
 ||ssl.kaptcha.com^
 ||sstats.adobe.com^
-||stackpath.bootstrapcdn.com^
 ||stagepopkek.com^
 ||statcollector.sidearmsports.com^
 ||statcounter.com^
@@ -1152,3 +1147,10 @@
 ||zion.cnn.com^
 ||zqtk.net^
 ||zwyr157wwiu6eior.com^
+||resellerratings.com^
+||saa.cbsi.com^
+||*-ad-rs.amagi.tv^
+||uid.mavencoalition.io^
+||aviary.amazon.com^
+||monorail-edge.shopifysvc.com^
+||images*.minutemediacdn.com^
