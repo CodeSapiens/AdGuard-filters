@@ -933,7 +933,6 @@
 ||sourcepoint.theguardian.com^
 ||sourcepointcmp.bloomberg.com^
 ||sp.argusleader.com^
-||sp.pluto.tv^
 ||sp.usatoday.com^
 ||speedcurve.com^
 ||speedtest.oui-*.com^
