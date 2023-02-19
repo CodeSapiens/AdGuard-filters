@@ -1156,3 +1156,16 @@
 ||images*.minutemediacdn.com^
 ||adpredictive.com^
 ||monorail-edge.shopifysvc.com^
+||dewrain.world^
+||revjet.com^
+||researchnow.com^
+||markitcdn.com^
+||msmedia.morningstar.com^
+||dartsearch.net^
+||dewrain.
+||vaicore.
+||kisinn.info^
+||tl.foxnews.com^
+||dynatrace.att.com^
+||att.inq.com^
+||fireworkapi1.com^
