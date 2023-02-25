@@ -721,7 +721,6 @@
 ||ns1p.net^
 ||ntv.io^
 ||nypost-com.videoplayerhub.com^
-||oauth.reddit.com^
 ||ocsp.apple.com^
 ||okasconcepts.com^
 ||om.dowjoneson.com^
@@ -1048,7 +1047,6 @@
 ||tvpixel.com^
 ||twitchsvc.net^
 ||typeahead.target.com^
-||typekit.net^
 ||uciservice.com^
 ||ugdturner.com^
 ||unagi*.amazon.com^
@@ -1168,3 +1166,11 @@
 ||dynatrace.att.com^
 ||att.inq.com^
 ||fireworkapi1.com^
+||linear-ad-segments.frequency.stream^
+||log.ifood.tv^
+||p.typekit.net^
+||t.xoom.com^
+||nmcdn.us^
+||web-oao.ssp.yahoo.com^
+||mediavine.com^
+||affilimate.io^
