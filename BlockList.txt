@@ -15,6 +15,7 @@
 ||3p-udc.yahoo.com^
 ||9gag.com^
 ||33across.com^
+||*-ad-rs.amagi.tv^
 ||a1.api.bbc.co.uk^
 ||a4k.amazon.com^
 ||a40.usablenet.com^
@@ -50,6 +51,7 @@
 ||admanmedia.com^
 ||admantx.com^
 ||adnxs.com^
+||adpredictive.com^
 ||adrizer.com^
 ||adroll.com^
 ||adrta.com^
@@ -79,6 +81,7 @@
 ||affiliate-program.amazon.com^
 ||affiliationjs.s3.amazonaws.com^
 ||affiliatly.com^
+||affilimate.io^
 ||affilired.com^
 ||agkn.com^
 ||ags-ext.amazon.com^
@@ -156,12 +159,14 @@
 ||atdmt.com^
 ||atrack.avplayer.com^
 ||ats.everesttech.net^
+||att.inq.com^
 ||atwola.com^
 ||audrte.com^
 ||aultseemedto.xyz^
 ||auth.adobe.com^
 ||automatad.com^
 ||avhtaapxml.com^
+||aviary.amazon.com^
 ||avmws.com^
 ||avodmp4s3ww-a.akamaihd.net^
 ||awstrack.me^
@@ -300,6 +305,7 @@
 ||comscore.com^
 ||concertads-configs.vox-cdn.com^
 ||condenastdigital.com^
+||conductrics.net^
 ||confiant-integrations.net^
 ||confiant.msn.com^
 ||config.claspws.tv^
@@ -349,6 +355,7 @@
 ||d2ef20sk9hi1u3.cloudfront.net^
 ||d2fbvay81k4ji3.cloudfront.net^
 ||d2in0p32vp1pij.cloudfront.net^
+||d2o5idwacg3gyw.cloudfront.net^
 ||d2p9l91d5g68ru.cloudfront.net^
 ||d2uap9jskdzp2.cloudfront.net^
 ||d2v02itv0y9u9t.cloudfront.net^
@@ -364,6 +371,7 @@
 ||d35u1vg1q28b3w.cloudfront.net^
 ||d.email.forbes.com^
 ||d.reddit.com^
+||dartsearch.net^
 ||data.adobedc.net^
 ||data.amazon.com^
 ||data.cnn.com^
@@ -379,6 +387,8 @@
 ||developer.amazon.com^
 ||device-metrics-us*.amazon.com^
 ||devicemessaging.*.amazon.com^
+||dewrain.
+||dewrain.world^
 ||diagnostics.meethue.com^
 ||dianomi.com^
 ||digitru.st^
@@ -396,7 +406,6 @@
 ||doubleclick.net^
 ||doubleverify.com^
 ||downloads.mailchimp.com^
-||dp-discovery-na-ext.amazon.com^
 ||dr3fr5q4g2ul9.cloudfront.net^
 ||drfdisvc.walmart.com^
 ||ds-aksb-a.akamaihd.net^
@@ -406,7 +415,7 @@
 ||dwin1.com^
 ||dynaimage.cdn.cnn.com^
 ||dynamicyield.com^
-||dynatrace.com^
+||dynatrace.att.com^
 ||e-planning.net^
 ||ecdinterface.philips.com^
 ||edge-mcdn-beacon.secure.yahoo.com^
@@ -464,6 +473,7 @@
 ||firebaseio.com^
 ||firebaselogging-pa.googleapis.com^
 ||firetv-news-content-ingestion.amazon.com^
+||fireworkapi1.com^
 ||flashtalking.com^
 ||flix360.com^
 ||fls-na.amazon.com^
@@ -502,6 +512,7 @@
 ||glancecdn.net^
 ||glanceguide.com^
 ||glassboxcdn.com^
+||glassboxdigital.io^
 ||glitter.services.disqus.com^
 ||global.edge.bamgrid.com^
 ||global.ketchcdn.com^
@@ -545,6 +556,7 @@
 ||hotjar.com^
 ||hotjar.io^
 ||hs-scripts.com^
+||hscollectedforms.net^
 ||htlbid.com^
 ||httpschecker.net^
 ||humanpresence.app^
@@ -559,6 +571,7 @@
 ||idiagnostics.apple.com
 ||ignite.amazon.com^
 ||igodigital.com^
+||images*.minutemediacdn.com^
 ||imasdk.googleapis.com^
 ||impactradius-event.com^
 ||importer.hac.data.here.com^
@@ -601,6 +614,7 @@
 ||k.pluto.tv^
 ||kampyle.com^
 ||kargo.com^
+||kisinn.info^
 ||kissmetrics.com^
 ||klaviyo.com^
 ||kochava.com^
@@ -619,6 +633,7 @@
 ||lightning.cnn.com^
 ||lijit.com^
 ||limurol.com^
+||linear-ad-segments.frequency.stream^
 ||linksynergy.com^
 ||litix.io^
 ||livefyre.com^
@@ -629,6 +644,7 @@
 ||location-api.hdhomerun.com^
 ||location-services-measurements.s3-external-1.amazonaws.com^
 ||log.go.com^
+||log.ifood.tv^
 ||log.pinterest.com^
 ||log.v.ssp.yahoo.com^
 ||logfiles.zoom.us^
@@ -647,6 +663,7 @@
 ||marketingsolutions.yahoo.com^
 ||marketo.com^
 ||marketo.net^
+||markitcdn.com^
 ||marsello.com^
 ||mas-ext.amazon.com^
 ||matomo.cloud^
@@ -661,6 +678,7 @@
 ||mediago.io^
 ||mediamath.com^
 ||mediaplex.com^
+||mediavine.com^
 ||metcon.hulu.com^
 ||meter-svc.nytimes.com^
 ||metric.gstatic.com^
@@ -686,6 +704,7 @@
 ||monetizer101.com^
 ||monitor.ebay.com^
 ||monitoring.*.amazonaws.com^
+||monorail-edge.shopifysvc.com^
 ||mopinion.com^
 ||mouseflow.com^
 ||mparticle.com^
@@ -696,6 +715,7 @@
 ||mqtt.*.ltsapis.goog^
 ||msedge*.delivery.mp.microsoft.com^
 ||msedge.api.cdp.microsoft.com^
+||msmedia.morningstar.com^
 ||mtalk.google.com^
 ||mutinycdn.com^
 ||mxpnl.com^
@@ -714,6 +734,7 @@
 ||nexusrules.officeapps.live.com^
 ||ninthdecimal.com^
 ||njtzzrvg0lwj3bsn.info^
+||nmcdn.us^
 ||npttech.com^
 ||nqs.nice264.com^
 ||nr-data.net^
@@ -727,6 +748,7 @@
 ||omnitagjs.com^
 ||omniture-ssl.walmart.com^
 ||omniture.walmart.com^
+||oms.expedia.com^
 ||omtrdc.net^
 ||onemobile.yahoo.com^
 ||oneplus.cn^
@@ -743,6 +765,7 @@
 ||outbrain.com^
 ||owneriq.net^
 ||p-n.io^
+||p.typekit.net^
 ||package-backups-prod-*.s3.amazonaws.com^
 ||pages-stats.rbl.ms^
 ||pancake.apple.com^
@@ -790,6 +813,7 @@
 ||pr-bh.ybp.yahoo.com^
 ||pr.comet.yahoo.com^
 ||pr.ybp.yahoo.com^
+||prf.hn^
 ||primetime.bluejeans.com^
 ||prisasd.com^
 ||privacy-center.org^
@@ -837,7 +861,10 @@
 ||report-uri.io^
 ||reporting-api.gannettinnovation.com^
 ||rereddit.com^
+||researchnow.com^
+||resellerratings.com^
 ||resources.bazaarvoice.com^
+||revjet.com^
 ||rewards.brave.com^
 ||rezync.com^
 ||richaudience.com^
@@ -859,6 +886,7 @@
 ||sa.api.intl.miui.com^
 ||sa.bbc.co.uk^
 ||sa.com^
+||saa.cbsi.com^
 ||sail-horizon.com^
 ||sail-personalize.com^
 ||sailthru.com^
@@ -927,6 +955,7 @@
 ||snap.licdn.com^
 ||snidigital.com^
 ||soflopxl.com^
+||sojern.com^
 ||sonobi.com^
 ||sophi.io^
 ||sourcepoint.theguardian.com^
@@ -991,6 +1020,7 @@
 ||t.paypal.com^
 ||t.pluto.tv^
 ||t.wayfair.com^
+||t.xoom.com^
 ||taboola.com^
 ||tagan.adlightning.com^
 ||tagcommander.com^
@@ -1018,7 +1048,10 @@
 ||tinypass.com^
 ||tiqcdn.com^
 ||tiresomethunder.com^
+||tl.foxbusiness.com^
+||tl.foxnews.com^
 ||tm-awx.com^
+||tr.snapchat.com^
 ||tr.www.cloudflare.com^
 ||trace.popin.cc^
 ||trace.svc.ui.com^
@@ -1049,6 +1082,7 @@
 ||typeahead.target.com^
 ||uciservice.com^
 ||ugdturner.com^
+||uid.mavencoalition.io^
 ||unagi*.amazon.com^
 ||unbounce.com^
 ||update.code.visualstudio.com^
@@ -1062,6 +1096,7 @@
 ||usawildseafood.com^
 ||usera.imagecave.com^
 ||userlocation.googleapis.com^
+||vaicore.
 ||variations.brave.com^
 ||vendorlist.consensu.org^
 ||verify.authorize.net^
@@ -1092,6 +1127,7 @@
 ||watson.telemetry.
 ||wcpstatic.microsoft.com^
 ||weather-analytics-events.apple.com^
+||web-oao.ssp.yahoo.com^
 ||webcontentassessor.com^
 ||webpubcontent.gray.tv^
 ||webpushs.com^
@@ -1144,33 +1180,3 @@
 ||zion.cnn.com^
 ||zqtk.net^
 ||zwyr157wwiu6eior.com^
-||resellerratings.com^
-||saa.cbsi.com^
-||*-ad-rs.amagi.tv^
-||uid.mavencoalition.io^
-||aviary.amazon.com^
-||monorail-edge.shopifysvc.com^
-||images*.minutemediacdn.com^
-||adpredictive.com^
-||monorail-edge.shopifysvc.com^
-||dewrain.world^
-||revjet.com^
-||researchnow.com^
-||markitcdn.com^
-||msmedia.morningstar.com^
-||dartsearch.net^
-||dewrain.
-||vaicore.
-||kisinn.info^
-||tl.foxnews.com^
-||dynatrace.att.com^
-||att.inq.com^
-||fireworkapi1.com^
-||linear-ad-segments.frequency.stream^
-||log.ifood.tv^
-||p.typekit.net^
-||t.xoom.com^
-||nmcdn.us^
-||web-oao.ssp.yahoo.com^
-||mediavine.com^
-||affilimate.io^
