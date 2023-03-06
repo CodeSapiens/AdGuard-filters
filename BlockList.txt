@@ -450,6 +450,7 @@
 ||evidon.com^
 ||eviltracker.net^
 ||ex.co^
+||exacttarget.com^
 ||exelator.com^
 ||external-*.xx.fbcdn.net^
 ||extmaps-api.yandex.net^
@@ -963,7 +964,6 @@
 ||sp.argusleader.com^
 ||sp.usatoday.com^
 ||speedcurve.com^
-||speedtest.oui-*.com^
 ||spookyexchange.com^
 ||spot.im^
 ||spotxchange.com^
@@ -1008,6 +1008,7 @@
 ||sustainability.aboutamazon.com^
 ||svc.ui.com^
 ||svcs.ebay.com^
+||svopn.e.michaels.com^
 ||sw88.espn.com^
 ||sw88.go.com^
 ||swiftypecdn.com^
