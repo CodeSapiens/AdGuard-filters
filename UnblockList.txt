@@ -110,7 +110,6 @@
 @@||udc.yahoo.com^
 @@||uplynk.com^
 @@||usps.force.com^
-@@||variations.brave.com^
 @@||video-*.hls.ttvnw.net^
 @@||video-api.yql.yahoo.com^
 @@||vidible.tv^
