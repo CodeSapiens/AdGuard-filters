@@ -151,6 +151,7 @@
 ||aptivada.com^
 ||arc.msn.com^
 ||arcus-uswest.amazon.com^
+||assets-jpcust.jwpsrv.com^
 ||assets.adobedtm.com^
 ||assets.revcontent.com^
 ||assoc-amazon.com^
@@ -244,6 +245,7 @@
 ||cdn.blueconic.net^
 ||cdn.branch.io^
 ||cdn.concert.io^
+||cdn.cookielaw.org^
 ||cdn.flashtalking.com^
 ||cdn.geni.us^
 ||cdn.heapanalytics.com^
@@ -437,6 +439,7 @@
 ||enigmasoftware.com^
 ||ensighten.com^
 ||entitlements.jwplayer.com^
+||espn.api.edge.bamgrid.com^
 ||eum-appdynamics.com^
 ||eventbus.intuit.com^
 ||events-collector.spot.im^
@@ -517,6 +520,7 @@
 ||glitter.services.disqus.com^
 ||global.edge.bamgrid.com^
 ||global.ketchcdn.com^
+||global.telemetry.insights.video.a2z.com^
 ||gn-flagpoles.api.bbci.co.uk^
 ||go-mpulse.net^
 ||go.microsoft.com^
@@ -597,6 +601,7 @@
 ||irchan.com^
 ||iris.tv^
 ||ispot.tv^
+||izatcloud.net^
 ||jac.yahoosandbox.com^
 ||janrain.com^
 ||jeeng.com^
@@ -619,6 +624,7 @@
 ||kissmetrics.com^
 ||klaviyo.com^
 ||kochava.com^
+||kraken-measurements.s3-external-1.amazonaws.com^
 ||krxd.net^
 ||kundenserver.de^
 ||lameletters.com^
@@ -1040,6 +1046,7 @@
 ||techlab-cdn.com^
 ||ted.dailymail.co.uk^
 ||telemetry.^
+||telemetry.insights.video.a2z.com^
 ||th.bing.com^
 ||thebrighttag.com^
 ||thechive.com^
@@ -1052,6 +1059,7 @@
 ||tm-awx.com^
 ||tr.snapchat.com^
 ||tr.www.cloudflare.com^
+||trace-server.prod-clustered.bugs.firebat.prime-video.amazon.dev^
 ||trace.popin.cc^
 ||trace.svc.ui.com^
 ||track.contently.com^
@@ -1127,6 +1135,7 @@
 ||wcpstatic.microsoft.com^
 ||weather-analytics-events.apple.com^
 ||web-oao.ssp.yahoo.com^
+||web.diagnostic.networking.aws.dev^
 ||webcontentassessor.com^
 ||webpubcontent.gray.tv^
 ||webpushs.com^
@@ -1179,5 +1188,3 @@
 ||zion.cnn.com^
 ||zqtk.net^
 ||zwyr157wwiu6eior.com^
-||izatcloud.net^
-||cdn.cookielaw.org^
