@@ -1090,7 +1090,6 @@
 ||uid.mavencoalition.io^
 ||unagi*.amazon.com^
 ||unbounce.com^
-||update.code.visualstudio.com^
 ||ups.inq.com^
 ||upsellit.com^
 ||urbanairship.com^
