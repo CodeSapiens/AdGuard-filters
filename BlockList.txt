@@ -91,6 +91,7 @@
 ||aloofvest.com^
 ||alphonso.tv^
 ||als-svc.nytimes.com^
+||amazon.dev^
 ||amazon-adsystem.com^
 ||amazonaax.com^
 ||amazonads
@@ -728,7 +729,6 @@
 ||mybbc-analytics
 ||myfidevs.io^
 ||mzhlhrfr8z.info^
-||na.prism.digital.amazon.dev^
 ||narrativ.com^
 ||ncp-gw-finance.media.yahoo.com^
 ||neilpatel.com^
@@ -938,7 +938,6 @@
 ||services.brightline.tv^
 ||services.sdiapi.com^
 ||serving-sys.com^
-||sessions.prod.bugs.firebat.prime-video.amazon.dev^
 ||settings-ssl.xboxlive.com^
 ||sgrupontihecliff.xyz^
 ||sharethrough.com^
@@ -1059,7 +1058,6 @@
 ||tm-awx.com^
 ||tr.snapchat.com^
 ||tr.www.cloudflare.com^
-||trace-server.prod-clustered.bugs.firebat.prime-video.amazon.dev^
 ||trace.popin.cc^
 ||trace.svc.ui.com^
 ||track.contently.com^
