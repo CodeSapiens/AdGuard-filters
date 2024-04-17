@@ -24,7 +24,6 @@
 @@||boot.pluto.tv^
 @@||brave-core-ext.s3.brave.com^
 @@||care80.live800.com^
-@@||catalog.gamepass.com^
 @@||cdn.walkme.com^
 @@||checkappexec.microsoft.com^
 @@||client.wns.windows.com^
@@ -36,7 +35,6 @@
 @@||dcs-vod.apis.anvato.net^
 @@||djox3levv7u3o.cloudfront.net^
 @@||dl.delivery.mp.microsoft.com^
-@@||dns.nextdns.io^
 @@||docs.aws.amazon.com^
 @@||download.windowsupdate.com^
 @@||dts.innovid.com^
@@ -118,10 +116,7 @@
 @@||www.bing.com^
 @@||www.gstatic.com^
 @@||xcelenergy.com^
-#@@||unagi-na.amazon.com^
-#@@||settings-win.data.microsoft.com^
 @@||events.gfe.nvidia.com^
-#@@||msedge.api.cdp.microsoft.com^
 @@||cleanbrowsing.org^
 @@||activehosted.com^
 @@||geolocation-recommendations.shopifyapps.com^
