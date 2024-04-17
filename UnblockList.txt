@@ -116,7 +116,6 @@
 @@||www.bing.com^
 @@||www.gstatic.com^
 @@||xcelenergy.com^
-@@||events.gfe.nvidia.com^
 @@||cleanbrowsing.org^
 @@||activehosted.com^
 @@||geolocation-recommendations.shopifyapps.com^
