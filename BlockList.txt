@@ -37,7 +37,9 @@
 ||absorbingband.com^
 ||abstractedauthority.com^
 ||aca-livecards-service.amazon.com^
+||accdab.net^
 ||account.api.here.com^
+||accounts.nvgs.nvidia.cn^
 ||activehosted.com^
 ||activity.windows.com^
 ||ad-delivery.net^
@@ -50,6 +52,7 @@
 ||addthis.com^
 ||addtoany.com^
 ||adform.net^
+||adingo.jp^
 ||adlightning.com^
 ||admanmedia.com^
 ||admantx.com^
@@ -149,6 +152,7 @@
 ||app.link^
 ||app.proxsee.io^
 ||app.termly.io^
+||appboycdn.com^
 ||applab-sdk.amazon.com^
 ||apple.news^
 ||apple.pa^
@@ -281,6 +285,7 @@
 ||cdn.rollbar.com^
 ||cdn.snigelweb.com^
 ||cdn.staticfile.org^
+||cdn.teads.tv^
 ||cdn.turner.com^
 ||cdn.ywxi.net^
 ||cdn.ziffstatic.com^
@@ -520,6 +525,7 @@
 ||firebaselogging-pa.googleapis.com^
 ||firetv-news-content-ingestion.amazon.com^
 ||fireworkapi1.com^
+||firstendpoint.com^
 ||flashtalking.com^
 ||flix360.com^
 ||fls-na.amazon.com^
@@ -539,12 +545,14 @@
 ||freeskreen.com^
 ||freshmarketer.com^
 ||frog.wix.com^
+||fullstory.com^
 ||fundingchoicesmessages.google.com^
 ||fuse.forbes.com^
 ||fwmrm.net^
 ||g.mashable.com^
 ||gameplayapi.intel.com^
 ||gannettdigital.com^
+||gdpr.studybreakmedia.com^
 ||gemini.yahoo.com^
 ||geo*.adobe.com^
 ||geo.ads
@@ -625,8 +633,11 @@
 ||idiagnostics.apple.com
 ||ignite.amazon.com^
 ||igodigital.com^
+||im-apps.net^
 ||images*.minutemediacdn.com^
+||images.nvidia.cn^
 ||imasdk.googleapis.com^
+||impact-ad.jp^
 ||impactradius-event.com^
 ||importer.hac.data.here.com^
 ||improvedigital.com^
@@ -684,6 +695,7 @@
 ||krxd.net^
 ||kueezrtb.com^
 ||kundenserver.de^
+||ladsp.com^
 ||lameletters.com^
 ||laptop-updates.brave.com^
 ||lb._dns-sd._udp
@@ -716,6 +728,7 @@
 ||logger.nerdwallet.com^
 ||logging.api.intuit.com^
 ||logistics.amazon.com^
+||logly.co.jp^
 ||logrocket.com^
 ||logs.datadoghq.com^
 ||logs.psm.wmcdp.io^
@@ -757,6 +770,7 @@
 ||mgid.com^
 ||mi.eddiebauer.com^
 ||micpn.com^
+||microad.jp^
 ||mid.rkdms.com^
 ||middycdn-a.akamaihd.net^
 ||mixpanel.com^
@@ -792,6 +806,7 @@
 ||mybbc-analytics
 ||myfidevs.io^
 ||mzhlhrfr8z.info^
+||nakanohito.jp^
 ||narrativ.com^
 ||ncp-gw-finance.media.yahoo.com^
 ||neilpatel.com^
@@ -821,6 +836,7 @@
 ||omniture.walmart.com^
 ||oms.expedia.com^
 ||omtrdc.net^
+||onelink.me^
 ||onemobile.yahoo.com^
 ||oneplus.cn^
 ||oneplus.com^
@@ -844,6 +860,7 @@
 ||parkingcrew.net^
 ||pbc.wsj.com^
 ||pbcs.nypost.com^
+||pbcs.realtor.com^
 ||pbxai.com^
 ||perf.hsforms.com^
 ||perfdrive.com^
@@ -916,8 +933,10 @@
 ||purr.nytimes.com^
 ||push.kumulos.com^
 ||pushengage.com^
+||pushmaster-cdn.xyz^
 ||pxlctl.
 ||qgxbluhsgad.com^
+||qsearch-a.akamaihd.net^
 ||qualtrics.com^
 ||quantcast.com^
 ||quantcast.mgr.consensu.org^
@@ -947,6 +966,7 @@
 ||rewards.brave.com^
 ||rezync.com^
 ||richaudience.com^
+||rightfulfall.com^
 ||rlcdn.com^
 ||rmp.rakuten.com^
 ||rmtag.com^
@@ -1036,6 +1056,7 @@
 ||snap.licdn.com^
 ||snidigital.com^
 ||snowplow-pixel.tradingview.com^
+||socdm.com^
 ||soflopxl.com^
 ||sojern.com^
 ||sonobi.com^
@@ -1126,6 +1147,7 @@
 ||ted.dailymail.co.uk^
 ||telemetry.^
 ||telemetry.api.playstation.com^
+||telemetry.gfe.nvidia.com^
 ||telemetry.insights.video.a2z.com^
 ||th.bing.com^
 ||thebrighttag.com^
