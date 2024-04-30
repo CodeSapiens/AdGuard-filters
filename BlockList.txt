@@ -435,6 +435,7 @@
 ||dc.services.visualstudio.com^
 ||dcf.espn.com^
 ||dcp.dc1.philips.com^
+||dd.nytimes.com^
 ||default.exp-tas.com^
 ||delidatax.net^
 ||demdex.net^
@@ -462,6 +463,7 @@
 ||dns.msftncsi.com^
 ||do-not-tracker.org^
 ||dotmetrics.net^
+||dotomi.com^
 ||doubleclick.net^
 ||doubleverify.com^
 ||downloads.mailchimp.com^
@@ -476,6 +478,7 @@
 ||dynamicyield.com^
 ||dynatrace.att.com^
 ||e-planning.net^
+||ebxcdn.com^
 ||ecdinterface.philips.com^
 ||edge-mcdn-beacon.secure.yahoo.com^
 ||edge-mcdn.secure.yahoo.com^
@@ -555,6 +558,7 @@
 ||fos5echocaptiveportal.com^
 ||fp.msedge.net^
 ||fpapi.io^
+||fpjs.io^
 ||fpt.microsoft.com^
 ||freeskreen.com^
 ||freshmarketer.com^
@@ -690,6 +694,7 @@
 ||jeeng.com^
 ||jivox.com^
 ||jnn-pa.googleapis.com^
+||js-cdn.dynatrace.com^
 ||js.convertflow.co^
 ||js.driftt.com^
 ||js.gleam.io^
