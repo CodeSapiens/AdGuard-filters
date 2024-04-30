@@ -17,6 +17,7 @@
 ||3p-udc.yahoo.com^
 ||9gag.com^
 ||a-fds.youborafds01.com^
+||a.dynatrace.com^
 ||a.et.nytimes.com^
 ||a.jsrdn.com^
 ||a.mailmunch.co^
@@ -136,6 +137,7 @@
 ||api.cnn.io^
 ||api.company-target.com^
 ||api.edgeoffer.microsoft.com^
+||api.flipp.com^
 ||api.ipdata.co^
 ||api.iris.microsoft.com^
 ||api.retargetly.com^
@@ -149,6 +151,7 @@
 ||app.adjust
 ||app.adjust.com^
 ||app.chat.xiaomi.net^
+||app.hubspot.com^
 ||app.link^
 ||app.proxsee.io^
 ||app.termly.io^
@@ -159,6 +162,7 @@
 ||applytics.nordvpn.com^
 ||appmetrica.yandex.com^
 ||appsflyer.com^
+||appsflyersdk.com^
 ||appspot.com^
 ||aptivada.com^
 ||arc.msn.com^
@@ -177,6 +181,7 @@
 ||audrte.com^
 ||aultseemedto.xyz^
 ||auth.adobe.com^
+||auth.split.io^
 ||automatad.com^
 ||avhtaapxml.com^
 ||aviary.amazon.com^
@@ -201,6 +206,7 @@
 ||beam.hlserve.com^
 ||beap.gemini.yahoo.com^
 ||betrad.com^
+||bf.dynatrace.com^
 ||bfmio.com^
 ||bh.contextweb.com^
 ||bidswitch.net^
@@ -220,6 +226,7 @@
 ||bounceexchange.com^
 ||bouncex.net^
 ||boxofficemojo.com^
+||brand-sdk.kmsmep.com^
 ||brandmetrics.com^
 ||brave-core-ext.s3.brave.com^
 ||braze.com^
@@ -242,6 +249,7 @@
 ||c.msn.com^
 ||c.paypal.com^
 ||c00.adobe.com^
+||c2r.ts.cdn.office.net^
 ||c2shb.pubgw.yahoo.com^
 ||c2shb.ssp.yahoo.com^
 ||cache.judge.me^
@@ -266,15 +274,18 @@
 ||cdn.blueconic.net^
 ||cdn.branch.io^
 ||cdn.brid.tv^
+||cdn.codeblackbelt.com^
 ||cdn.concert.io^
 ||cdn.convertbox.com^
 ||cdn.cookielaw.org^
 ||cdn.flashtalking.com^
 ||cdn.geni.us^
+||cdn.gladly.com^
 ||cdn.heapanalytics.com^
 ||cdn.imhd.io^
 ||cdn.iubenda.com^
 ||cdn.kustomerapp.com^
+||cdn.membrana.media^
 ||cdn.opecloud.com^
 ||cdn.parsely.com^
 ||cdn.pendo.io^
@@ -408,6 +419,7 @@
 ||d3a510xmpll7o6.cloudfront.net^
 ||d3h5bk8iotgjvw.cloudfront.net^
 ||d3icekm41k795y.cloudfront.net^
+||d3lqotgbn3npr.cloudfront.net^
 ||d3ohh9b4v3oawh.cloudfront.net^
 ||d3plfjw9uod7ab.cloudfront.net^
 ||d3q33rbmdkxzj.cloudfront.net^
@@ -419,6 +431,7 @@
 ||data.cnn.com^
 ||data.mistat.xiaomi.com^
 ||datadoghq-browser-agent.com^
+||datamilk.app^
 ||dc.services.visualstudio.com^
 ||dcf.espn.com^
 ||dcp.dc1.philips.com^
@@ -527,6 +540,7 @@
 ||fireworkapi1.com^
 ||firstendpoint.com^
 ||flashtalking.com^
+||flask.us.nextdoor.com^
 ||flix360.com^
 ||fls-na.amazon.com^
 ||flurry.com^
@@ -548,10 +562,12 @@
 ||fullstory.com^
 ||fundingchoicesmessages.google.com^
 ||fuse.forbes.com^
+||fwcdn3.com^
 ||fwmrm.net^
 ||g.mashable.com^
 ||gameplayapi.intel.com^
 ||gannettdigital.com^
+||gcion.com^
 ||gdpr.studybreakmedia.com^
 ||gemini.yahoo.com^
 ||geo*.adobe.com^
@@ -563,6 +579,7 @@
 ||geoedge.be^
 ||geolocation
 ||geotrust.com^
+||getadmiral.com^
 ||getpublica.com^
 ||getsentry.com^
 ||glancecdn.net^
@@ -616,6 +633,7 @@
 ||hotjar-analytics.com^
 ||hotjar.com^
 ||hotjar.io^
+||hrzn-nxt.com^
 ||hs-scripts.com^
 ||hscollectedforms.net^
 ||htlbid.com^
@@ -631,6 +649,7 @@
 ||id.google.com^
 ||id5-sync.com^
 ||idiagnostics.apple.com
+||iesnare.com^
 ||ignite.amazon.com^
 ||igodigital.com^
 ||im-apps.net^
@@ -644,6 +663,7 @@
 ||improving.duckduckgo.com^
 ||imrworldwide.com^
 ||in.appcenter.ms^
+||inbenta.io^
 ||incoming.telemetry.mozilla.org^
 ||indexww.com^
 ||ingest.sentry.io^
@@ -658,6 +678,7 @@
 ||interncache-frc.fbcdn.net^
 ||ioam.de^
 ||ip.prvtx.net^
+||ipapi.co^
 ||ips1.unifi-ai.com^
 ||ipv6.msftconnecttest.com^
 ||irchan.com^
@@ -689,9 +710,11 @@
 ||kisinn.info^
 ||kissmetrics.com^
 ||klaviyo.com^
+||klclick3.com^
 ||knotch-cdn.com^
 ||kochava.com^
 ||kraken-measurements.s3-external-1.amazonaws.com^
+||krazzykriss.com^
 ||krxd.net^
 ||kueezrtb.com^
 ||kundenserver.de^
@@ -720,6 +743,7 @@
 ||loader.wisepops.com^
 ||location-api.hdhomerun.com^
 ||location-services-measurements.s3-external-1.amazonaws.com^
+||log.espn.com^
 ||log.go.com^
 ||log.ifood.tv^
 ||log.pinterest.com^
@@ -731,6 +755,7 @@
 ||logly.co.jp^
 ||logrocket.com^
 ||logs.datadoghq.com^
+||logs.netflix.com^
 ||logs.psm.wmcdp.io^
 ||logs.roku.com^
 ||loopme.me^
@@ -750,7 +775,9 @@
 ||marsello.com^
 ||mas-ext.amazon.com^
 ||matomo.cloud^
+||matomo.garden.org^
 ||mbid.marfeelrev.com^
+||measure.chase.com^
 ||media*.fc2.com^
 ||media.evolv.ai^
 ||media.flixcar.com^
@@ -762,6 +789,7 @@
 ||mediamath.com^
 ||mediaplex.com^
 ||mediavine.com^
+||merequartz.com^
 ||metcon.hulu.com^
 ||meter-svc.nytimes.com^
 ||metric.gstatic.com^
@@ -773,6 +801,7 @@
 ||microad.jp^
 ||mid.rkdms.com^
 ||middycdn-a.akamaihd.net^
+||minute.ly^
 ||mixpanel.com^
 ||mktcs.cloudapps.cisco.com^
 ||mktoresp.com^
@@ -787,11 +816,13 @@
 ||monarchads.com^
 ||monetate.net^
 ||monetizer101.com^
+||monitor.azure.com^
 ||monitor.ebay.com^
 ||monitoring.*.amazonaws.com^
 ||monorail-edge.shopifysvc.com^
 ||mopinion.com^
 ||mouseflow.com^
+||mp.theepochtimes.com^
 ||mparticle.com^
 ||mparticle.weather.com^
 ||mplxtms.com^
@@ -820,6 +851,7 @@
 ||nitroscripts.com^
 ||njtzzrvg0lwj3bsn.info^
 ||nmcdn.us^
+||nosto.com^
 ||notify.firetv.bugsnag.appstore.a2z.com^
 ||npttech.com^
 ||nqs.nice264.com^
@@ -849,6 +881,7 @@
 ||optimizely.com^
 ||optimizely.wsj.com^
 ||os4work.com^
+||oui-0x00199d.com^
 ||outbrain.com^
 ||owneriq.net^
 ||p-n.io^
@@ -905,6 +938,7 @@
 ||pr.comet.yahoo.com^
 ||pr.ybp.yahoo.com^
 ||prf.hn^
+||pricespider.com^
 ||primetime.bluejeans.com^
 ||primis.tech^
 ||prisasd.com^
@@ -916,6 +950,7 @@
 ||pro.ip-api.com^
 ||prod.amazoncrl.com^
 ||prod.do.dsp.mp.microsoft.com^
+||prod.fennec.atp.fox^
 ||prod.pyxis.atp.fox^
 ||production-cmp.isgprivacy.cbsi.com^
 ||promos.investing.com^
@@ -930,6 +965,7 @@
 ||public.cobrowse.oraclecloud.com^
 ||publir.com^
 ||pubmatic.com^
+||pulsar.ebay.com^
 ||purr.nytimes.com^
 ||push.kumulos.com^
 ||pushengage.com^
@@ -960,11 +996,11 @@
 ||reporting-api.gannettinnovation.com^
 ||rereddit.com^
 ||researchnow.com^
-||resellerratings.com^
 ||resources.bazaarvoice.com^
 ||revjet.com^
 ||rewards.brave.com^
 ||rezync.com^
+||rgembroiderydesigns.com^
 ||richaudience.com^
 ||rightfulfall.com^
 ||rlcdn.com^
@@ -1000,10 +1036,12 @@
 ||scontent-sjc2-1.xx.fbcdn.net^
 ||scontent.webcollage.net^
 ||scorecardresearch.com^
+||script.ac^
 ||scripts.dailymail.co.uk^
 ||sdk.beemray.com^
 ||sdk.iad-*.braze.com^
 ||sdk.qikify.com^
+||sdk.split.io^
 ||seal.digicert.com^
 ||seal.verisign.com^
 ||search-api.devicebits.com^
@@ -1012,9 +1050,11 @@
 ||secure.cdn.fastclick.net^
 ||secure.everyaction.com^
 ||secure.rating-widget.com^
+||secureir.ebaystatic.com^
 ||securemetrics.apple.com^
 ||seedtag.com^
 ||seethru.co.uk^
+||segment-cdn.producthunt.com^
 ||segment-data.zqtk.net^
 ||segment.com^
 ||segment.io^
@@ -1044,6 +1084,7 @@
 ||shortpixel.ai^
 ||sidearm-syndication.s3.amazonaws.com^
 ||signifyd.com^
+||site.gladly.com^
 ||siteimproveanalytics.com^
 ||sitescout.com^
 ||skills-store.amazon.com^
@@ -1054,6 +1095,7 @@
 ||smetrics.foxnews.com^
 ||smoot.apple.com^
 ||snap.licdn.com^
+||snapengage.com^
 ||snidigital.com^
 ||snowplow-pixel.tradingview.com^
 ||socdm.com^
@@ -1134,6 +1176,7 @@
 ||tags.tiqcdn.com^
 ||tags.wdsvc.net^
 ||tapad.com^
+||taplytics-umami.grubhub.com^
 ||taplytics.com^
 ||target.chase.com^
 ||target.cisco.com^
@@ -1165,6 +1208,7 @@
 ||trace.popin.cc^
 ||trace.svc.ui.com^
 ||track.contently.com^
+||track.dictionary.com^
 ||track.sp.crdl.io^
 ||trackedlink.net^
 ||tracker.
@@ -1185,10 +1229,12 @@
 ||trustarc.com^
 ||truste.com^
 ||trustx.org^
+||ttmetrics.jcpenney.com^
 ||turn.com^
 ||turncdn.com^
 ||turnto.com^
 ||tvpixel.com^
+||tvsquared.com^
 ||twitchsvc.net^
 ||typeahead.target.com^
 ||uciservice.com^
@@ -1230,6 +1276,7 @@
 ||vs1.youmaker.com^
 ||w3-reporting.reddit.com^
 ||w569ut7zbkiqf5b.xyz^
+||walmart.sspinc.io^
 ||warnermediacdn.com^
 ||wasabi.pluto.tv^
 ||watch-cdn.product.api.espn.com^
@@ -1282,6 +1329,7 @@
 ||yengo.com^
 ||yieldlove
 ||yieldmo.com^
+||yottaa.net^
 ||youborafds01.com^
 ||yt3.ggpht.com^
 ||zdstatic.speedtest.net^
