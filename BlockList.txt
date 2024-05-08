@@ -96,6 +96,7 @@
 ||ags-ext.amazon.com^
 ||akamai-*.exacttarget.com.edgekey.net^
 ||alb.reddit.com^
+||alexa-mobile-analytics-configuration-prod.s3.amazonaws.com^
 ||alexametrics.com^
 ||aloofvest.com^
 ||alphonso.tv^
@@ -216,6 +217,7 @@
 ||bkrtx.com^
 ||blog.aboutamazon.com^
 ||blogherads.com^
+||bluecava.com^
 ||blueconic.net^
 ||bluekai.com^
 ||bnc.lt^
@@ -233,6 +235,7 @@
 ||brilliantcollector.com^
 ||britepool.com^
 ||browser-intake-datadoghq.com^
+||browser-intake-us*-datadoghq.com^
 ||browser.covatic.io^
 ||browser.events.data.microsoft.com^
 ||browser.events.data.msn.com^
@@ -247,7 +250,6 @@
 ||buysellads.net^
 ||c.bing.com^
 ||c.msn.com^
-||c.paypal.com^
 ||c00.adobe.com^
 ||c2r.ts.cdn.office.net^
 ||c2shb.pubgw.yahoo.com^
@@ -283,12 +285,12 @@
 ||cdn.gladly.com^
 ||cdn.heapanalytics.com^
 ||cdn.imhd.io^
+||cdn.intelligems.io^
 ||cdn.iubenda.com^
 ||cdn.kustomerapp.com^
 ||cdn.membrana.media^
 ||cdn.opecloud.com^
 ||cdn.parsely.com^
-||cdn.pendo.io^
 ||cdn.privacy-mgmt.com^
 ||cdn.quantummetric.com^
 ||cdn.ravenjs.com^
@@ -304,7 +306,9 @@
 ||cdnopw.com^
 ||cdns.*.gigya.com^
 ||cdnssl.clicktale.net^
+||cdntravelspike.azureedge.net^
 ||cdp-dev.cnn.com^
+||cedexis-test.com^
 ||cerebro.edna.yahoo.net^
 ||cf-timedtext.aux.pv-cdn.net^
 ||cf-trickplay.aux.pv-cdn.net^
@@ -320,6 +324,7 @@
 ||cleverads.vn^
 ||clickbank.com^
 ||clickbank.net^
+||clickmagick.com^
 ||client-analytics
 ||client.rum.*.amazonaws.com^
 ||clientstream.launchdarkly.com^
@@ -330,10 +335,12 @@
 ||cm.usatoday.com^
 ||cmp.advertising.com^
 ||cmp.dmgmediaprivacy.co.uk^
+||cmp.osano.com^
 ||cn-geo1.uber.com^
 ||collector-*.perimeterx.net^
 ||collector-*.px-cloud.net^
 ||collector-*.pxchk.net^
+||collector.getyourguide.com^
 ||collector.github.com^
 ||collector.githubapp.com^
 ||collector.unsplash.com^
@@ -379,6 +386,7 @@
 ||crashlyticsreports-pa.googleapis.com^
 ||crazyegg.com^
 ||create.lidstatic.com^
+||createsend1.com^
 ||creativecdn.com^
 ||crimtan.com^
 ||criteo.com^
@@ -431,6 +439,7 @@
 ||data.cnn.com^
 ||data.mistat.xiaomi.com^
 ||datadoghq-browser-agent.com^
+||datadome.co^
 ||datamilk.app^
 ||dc.services.visualstudio.com^
 ||dcf.espn.com^
@@ -499,6 +508,7 @@
 ||enigmasoftware.com^
 ||ensighten.com^
 ||entitlements.jwplayer.com^
+||esm1.net^
 ||espn.api.edge.bamgrid.com^
 ||eum-appdynamics.com^
 ||eventbus.intuit.com^
@@ -512,6 +522,7 @@
 ||events.mountain.com^
 ||events.redditmedia.com^
 ||everestjs.net^
+||everesttech.net^
 ||evidon.com^
 ||eviltracker.net^
 ||ex.co^
@@ -581,6 +592,7 @@
 ||geo.query.yahoo.com^
 ||geo.yahoo.com^
 ||geoedge.be^
+||geoip.businessinsider.com^
 ||geolocation
 ||geotrust.com^
 ||getadmiral.com^
@@ -657,6 +669,7 @@
 ||ignite.amazon.com^
 ||igodigital.com^
 ||im-apps.net^
+||image.online.adp.com^
 ||images*.minutemediacdn.com^
 ||images.nvidia.cn^
 ||imasdk.googleapis.com^
@@ -671,6 +684,7 @@
 ||incoming.telemetry.mozilla.org^
 ||indexww.com^
 ||ingest.sentry.io^
+||ingress.linktr.ee^
 ||ink1001.com^
 ||inmobi.com^
 ||innovid.com^
@@ -718,6 +732,7 @@
 ||klclick3.com^
 ||knotch-cdn.com^
 ||kochava.com^
+||korfo.org^
 ||kraken-measurements.s3-external-1.amazonaws.com^
 ||krazzykriss.com^
 ||krxd.net^
@@ -731,6 +746,7 @@
 ||levelaccess.net^
 ||liadm.com^
 ||libertycdn.com^
+||librato-collector.genius.com^
 ||licensebuttons.net^
 ||lightboxcdn.com^
 ||lightcast.com^
@@ -743,6 +759,7 @@
 ||litix.io^
 ||livefyre.com^
 ||lixarproxsee
+||ll.dash.row.aiv-cdn.net^
 ||llnwd.net^
 ||load.s3.amazonaws.com^
 ||loader.wisepops.com^
@@ -757,6 +774,7 @@
 ||logger.nerdwallet.com^
 ||logging.api.intuit.com^
 ||logistics.amazon.com^
+||loglady.kiwi.com^
 ||logly.co.jp^
 ||logrocket.com^
 ||logs.datadoghq.com^
@@ -790,6 +808,7 @@
 ||media.kohlsimg.com^
 ||media.net^
 ||media.swncdn.com^
+||media.travelzoo.com^
 ||mediago.io^
 ||mediamath.com^
 ||mediaplex.com^
@@ -891,7 +910,6 @@
 ||owneriq.net^
 ||p-n.io^
 ||p.typekit.net^
-||package-backups-prod-*.s3.amazonaws.com^
 ||pages-stats.rbl.ms^
 ||pancake.apple.com^
 ||pardot.com^
@@ -911,6 +929,7 @@
 ||piano.io^
 ||pindorama.amazon.com^
 ||pingback.giphy.com^
+||pingback.issuu.com^
 ||pipedream.wistia.com^
 ||pix.pub^
 ||pix.spot.im^
@@ -934,6 +953,7 @@
 ||policies.oath.com^
 ||polling.bbc.co.uk^
 ||polyfill.io^
+||pop-iad-2.cf.dash.row.aiv-cdn.net^
 ||portal.fb.com^
 ||postaffiliatepro.com^
 ||postclickmarketing.com^
@@ -1108,6 +1128,7 @@
 ||sojern.com^
 ||sonobi.com^
 ||sophi.io^
+||soptimize.southwest.com^
 ||sourcepoint.theguardian.com^
 ||sourcepointcmp.bloomberg.com^
 ||sp.argusleader.com^
@@ -1150,6 +1171,7 @@
 ||stripe.network^
 ||sts3.wsj.net^
 ||stun*.l.google.com^
+||stun.cdn-net.com^
 ||subs.youmaker.com^
 ||suggestqueries*.google.com
 ||suggestqueries*.youtube.com
@@ -1207,6 +1229,7 @@
 ||title.mgt.xboxlive.com^
 ||tl.foxbusiness.com^
 ||tl.foxnews.com^
+||tl.foxweather.com^
 ||tm-awx.com^
 ||tr.snapchat.com^
 ||tr.www.cloudflare.com^
@@ -1222,6 +1245,7 @@
 ||tracking.sezzle.com^
 ||trackonomics.net^
 ||trcksp.cordial.io^
+||tredir.go.com^
 ||treg.hearstnp.com^
 ||tremorhub.com^
 ||trinity.platform.intuit.com^
@@ -1242,6 +1266,7 @@
 ||tvsquared.com^
 ||twitchsvc.net^
 ||typeahead.target.com^
+||u566.chron.com^
 ||uciservice.com^
 ||ugdturner.com^
 ||uid.mavencoalition.io^
@@ -1260,6 +1285,7 @@
 ||vaicore.
 ||variations.brave.com^
 ||vendorlist.consensu.org^
+||vergic.com^
 ||verify.authorize.net^
 ||vi-serve.com^
 ||via.placeholder.com^
@@ -1306,6 +1332,7 @@
 ||wow.com^
 ||ws.audioeye.com^
 ||ws.sharethis.com^
+||wsmcdn.audioeye.com^
 ||wurfl.io^
 ||ww8.kohls.com^
 ||www.6pm.com^
