@@ -132,6 +132,7 @@
 ||api-cf.affirm.com^
 ||api-esp.piano.io^
 ||api-hotjar.com^
+||api-visitor-analytics.intercom.com^
 ||api.apptentive.com^
 ||api.audible.com^
 ||api.auth.adobe.com^
@@ -140,9 +141,12 @@
 ||api.edgeoffer.microsoft.com^
 ||api.flipp.com^
 ||api.ipdata.co^
+||api.ipstack.com^
 ||api.iris.microsoft.com^
+||api.qubit.com^
 ||api.retargetly.com^
 ||api.revenuecat.com^
+||api.rudderstack.com^
 ||api.statsig.com^
 ||api.tiles.mapbox.com^
 ||api.us-*.aiv-delivery.net^
@@ -162,6 +166,7 @@
 ||apple.pa^
 ||applytics.nordvpn.com^
 ||appmetrica.yandex.com^
+||apps.rokt.com^
 ||appsflyer.com^
 ||appsflyersdk.com^
 ||appspot.com^
@@ -179,11 +184,13 @@
 ||ats.everesttech.net^
 ||att.inq.com^
 ||atwola.com^
+||audioeye.com^
 ||audrte.com^
 ||aultseemedto.xyz^
 ||auth.adobe.com^
 ||auth.split.io^
 ||automatad.com^
+||avada.io^
 ||avhtaapxml.com^
 ||aviary.amazon.com^
 ||avmws.com^
@@ -217,6 +224,7 @@
 ||bkrtx.com^
 ||blog.aboutamazon.com^
 ||blogherads.com^
+||blue.thehill.com^
 ||bluecava.com^
 ||blueconic.net^
 ||bluekai.com^
@@ -250,12 +258,14 @@
 ||buysellads.net^
 ||c.bing.com^
 ||c.msn.com^
+||c.thredup.com^
 ||c00.adobe.com^
 ||c2r.ts.cdn.office.net^
 ||c2shb.pubgw.yahoo.com^
 ||c2shb.ssp.yahoo.com^
 ||cache.judge.me^
 ||candycrushsoda.king.com^
+||canyoublockit.com^
 ||carbonads.net^
 ||casalemedia.com^
 ||catalog.gamepass.com^
@@ -313,6 +323,7 @@
 ||cf-timedtext.aux.pv-cdn.net^
 ||cf-trickplay.aux.pv-cdn.net^
 ||champagne.futurecdn.net^
+||channeladvisor.com^
 ||chartbeat.com^
 ||chartbeat.net^
 ||checkappexec.microsoft.com^
@@ -340,6 +351,7 @@
 ||collector-*.perimeterx.net^
 ||collector-*.px-cloud.net^
 ||collector-*.pxchk.net^
+||collector.azure.*^
 ||collector.getyourguide.com^
 ||collector.github.com^
 ||collector.githubapp.com^
@@ -359,6 +371,7 @@
 ||confiant.msn.com^
 ||config.claspws.tv^
 ||config.edge.skype.com^
+||config.uca.cloud.unity3d.com^
 ||confirmit.com^
 ||connatix.com^
 ||connect.facebook.com^
@@ -399,6 +412,7 @@
 ||csp.yahoo.com^
 ||cstat.cdn-apple.com^
 ||ct.pinterest.com^
+||cta-service-cms*.hubspot.com^
 ||cubchannel.com^
 ||customer.cludo.com^
 ||customerevents.netflix.com^
@@ -425,6 +439,7 @@
 ||d35k22e9287vnh.cloudfront.net^
 ||d35u1vg1q28b3w.cloudfront.net^
 ||d3a510xmpll7o6.cloudfront.net^
+||d3div1mtym39ic.cloudfront.net^
 ||d3h5bk8iotgjvw.cloudfront.net^
 ||d3icekm41k795y.cloudfront.net^
 ||d3lqotgbn3npr.cloudfront.net^
@@ -451,6 +466,7 @@
 ||deployads.com^
 ||dev.virtualearth.net^
 ||developer.amazon.com^
+||developers.hubspot.com^
 ||device-metrics-us*.amazon.com^
 ||device.auth.xboxlive.com^
 ||devicemessaging.*.amazon.com^
@@ -488,6 +504,7 @@
 ||dynatrace.att.com^
 ||e-planning.net^
 ||ebxcdn.com^
+||ec.thredup.com^
 ||ecdinterface.philips.com^
 ||edge-mcdn-beacon.secure.yahoo.com^
 ||edge-mcdn.secure.yahoo.com^
@@ -534,6 +551,7 @@
 ||eyeota.net^
 ||ezodn.com^
 ||ezoic.net^
+||ezojs.com^
 ||f.convertkit.com^
 ||factset.com^
 ||fakeimg.pl^
@@ -580,6 +598,7 @@
 ||fwcdn3.com^
 ||fwmrm.net^
 ||g.mashable.com^
+||gallery.mailchimp.com^
 ||gameplayapi.intel.com^
 ||gannettdigital.com^
 ||gcion.com^
@@ -654,6 +673,7 @@
 ||hscollectedforms.net^
 ||htlbid.com^
 ||httpschecker.net^
+||hubapi.com^
 ||humanpresence.app^
 ||ia.media-imdb.com^
 ||iabusprivacy.pmc.com^
@@ -693,6 +713,7 @@
 ||instinctiveads.com^
 ||integralads.com^
 ||intentiq.com^
+||intercom-clicks.com^
 ||interncache-frc.fbcdn.net^
 ||ioam.de^
 ||ip.prvtx.net^
@@ -784,6 +805,8 @@
 ||loopme.me^
 ||lotame.com^
 ||lpsnmedia.net^
+||lptag-cdn.liveperson.net^
+||lptag.liveperson.net^
 ||luckyorange.com^
 ||lytics.io^
 ||m.stripe.com^
@@ -836,6 +859,7 @@
 ||mobile-sdk-api.intercom.io^
 ||mobile.launchdarkly.com^
 ||mobile.pipe.aria.microsoft.com^
+||mon*-normal-useast*.tiktokv.com^
 ||mon1.kohls.com^
 ||monarchads.com^
 ||monetate.net^
@@ -875,6 +899,8 @@
 ||nitroscripts.com^
 ||njtzzrvg0lwj3bsn.info^
 ||nmcdn.us^
+||no-cache.hubspot.com^
+||noa.yahoo.com^
 ||nosto.com^
 ||notify.firetv.bugsnag.appstore.a2z.com^
 ||npttech.com^
@@ -910,6 +936,7 @@
 ||owneriq.net^
 ||p-n.io^
 ||p.typekit.net^
+||pafvertizing.crazygames.com^
 ||pages-stats.rbl.ms^
 ||pancake.apple.com^
 ||pardot.com^
@@ -1009,6 +1036,7 @@
 ||r541.houstonchronicle.com^
 ||radar.cedexis.com^
 ||rainmaker*.production-public.tubi.io^
+||raptive.com^
 ||ras.yahoo.com^
 ||reconditerespect.com^
 ||recsys-api.buzzfeed.com^
@@ -1029,6 +1057,7 @@
 ||richaudience.com^
 ||rightfulfall.com^
 ||rlcdn.com^
+||rma.homedepot.com^
 ||rmp.rakuten.com^
 ||rmtag.com^
 ||rnengage.com^
@@ -1153,6 +1182,7 @@
 ||static-global-s-msn-com.akamaized.net^
 ||static.ads
 ||static.cloud.coveo.com^
+||static.ecorebates.com^
 ||static.getclicky.com^
 ||static.myfinance.com^
 ||static.scroll.com^
@@ -1186,6 +1216,7 @@
 ||swasc.homedepot.com^
 ||swiftypecdn.com^
 ||swypeconnect.com^
+||symplr.de^
 ||syndication.twitter.com^
 ||syndigo.cloud^
 ||t.dailymail.co.uk^
@@ -1277,6 +1308,7 @@
 ||urbanairship.com^
 ||us-*-web-oao.ssp.yahoo.com^
 ||us-*.event.prod.bidr.io^
+||us3.campaign-archive.com^
 ||usabilla.com^
 ||usageanalytics.coveo.com^
 ||usawildseafood.com^
@@ -1305,6 +1337,7 @@
 ||vortex.data.microsoft.com^
 ||vortex.hulu.com^
 ||vs1.youmaker.com^
+||vtrk.dv.tech^
 ||w3-reporting.reddit.com^
 ||w569ut7zbkiqf5b.xyz^
 ||walmart.sspinc.io^
