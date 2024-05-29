@@ -12,7 +12,6 @@
 @@||api.audible.com^
 @@||api.haystack.tv^
 @@||api.pluto.tv^
-@@||app.launchdarkly.com^
 @@||appconfigs.disney-plus.net^
 @@||apps.mzstatic.com^
 @@||appstore-tv-prod-na.amazon.com^
@@ -46,7 +45,6 @@
 @@||global.edge.bamgrid.com^
 @@||go.microsoft.com^
 @@||gs-loc.apple.com^
-@@||h-cdn.com^
 @@||image.em.samsclub.com^
 @@||images.pluto.tv^
 @@||imagesvc.meredithcorp.io^
@@ -54,13 +52,12 @@
 @@||justatic.com^
 @@||justia.com^
 @@||ktpx.amazon.com^
-@@||laptop-updates.brave.com^
 @@||link.info.email.aa.com^
 @@||livechatinc.com^
 @@||login.live.com^
 @@||logincdn.msauth.net^
 @@||mail.tutanota.com^
-#@@||manifest.prod.boltdns.net^
+@@||manifest.prod.boltdns.net^
 @@||marketing.falconembroidery.com^
 @@||mas-ext.amazon.com^
 @@||mediatailor.us-east-1.amazonaws.com^
