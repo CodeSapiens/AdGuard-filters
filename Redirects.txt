@@ -1,0 +1,115 @@
+#----- Redirect for internal services using SSL.
+# The ones that use ports other than 80 or 443 work in conjunction with reverse proxy redirects in the NAS.
+||router.synology.com^$dnsrewrite=10.1.1.1
+||synologyrouter.otamendi.com^$dnsrewrite=10.1.1.1
+|nsa325.otamendi.com^$dnsrewrite=10.1.1.7
+|adguard1.otamendi.com^$dnsrewrite=10.1.1.5
+|adguard2.otamendi.com^$dnsrewrite=10.1.1.5
+|otamendi.com^$dnsrewrite=10.1.1.5
+|dsm.otamendi.com^$dnsrewrite=10.1.1.5
+|nas720.otamendi.com^$dnsrewrite=10.1.1.5
+|kuma.otamendi.com^$dnsrewrite=10.1.1.5
+|unifi.otamendi.com^$dnsrewrite=10.1.1.5
+|tv.otamendi.com^$dnsrewrite=10.1.1.5
+|music.otamendi.com^$dnsrewrite=10.1.1.5
+|photos.otamendi.com^$dnsrewrite=10.1.1.5
+|scripts.otamendi.com^$dnsrewrite=10.1.1.5
+|surveillance.otamendi.com^$dnsrewrite=10.1.1.5
+
+#----- Forward DNS LAN redirects
+|synology-router.lan^$dnsrewrite=10.1.1.1
+|nas720.lan^$dnsrewrite=10.1.1.5
+|nsa325.lan^$dnsrewrite=10.1.1.7
+|unifi-switch.lan^$dnsrewrite=10.1.1.20
+|southGate.lan^$dnsrewrite=10.1.1.22
+|northGate.lan^$dnsrewrite=10.1.1.23
+|desktop-E.lan^$dnsrewrite=10.1.1.50
+|desktop-W.lan^$dnsrewrite=10.1.1.51
+|desktop-W-usb.lan^$dnsrewrite=10.1.1.52
+|laptop-L.lan^$dnsrewrite=10.1.1.53
+|laptop-rhlfc931.lan^$dnsrewrite=10.1.1.53
+|iPhone-J.lan^$dnsrewrite=10.1.1.55
+|iPhone-L.lan^$dnsrewrite=10.1.1.56
+|phoneG7-J.lan^$dnsrewrite=10.1.1.57
+|nas720-2.lan^$dnsrewrite=192.168.107.5
+|dlink-switch.lan^$dnsrewrite=192.168.107.20
+|printer.lan^$dnsrewrite=192.168.107.40
+|scanSnap.lan^$dnsrewrite=192.168.107.41
+|camera-southWest.lan^$dnsrewrite=192.168.107.51
+|camera-porch.lan^$dnsrewrite=192.168.107.52
+|camera-driveway.lan^$dnsrewrite=192.168.107.53
+|camera-garage.lan^$dnsrewrite=192.168.107.54
+|camera-north.lan^$dnsrewrite=192.168.107.55
+|camera-northEast.lan^$dnsrewrite=192.168.107.56
+|camera-deck.lan^$dnsrewrite=192.168.107.57
+|camera-south.lan^$dnsrewrite=192.168.107.58
+|skylight-photo.lan^$dnsrewrite=192.168.107.112
+|rachio-sprinkler.lan^$dnsrewrite=192.168.107.131
+|embroiderer.lan^$dnsrewrite=192.168.107.152
+|firestick-tv1.lan^$dnsrewrite=192.168.107.172
+|firestick-tv3.lan^$dnsrewrite=192.168.107.174
+|hdhr-tvTuner.lan^$dnsrewrite=192.168.107.179
+|kindle-tablet.lan^$dnsrewrite=192.168.107.191
+|ecobee-thermostat.lan^$dnsrewrite=192.168.107.201
+|fireHD-tablet.lan^$dnsrewrite=192.168.107.204
+|ps4-E.lan^$dnsrewrite=192.168.107.230
+|ps4-W.lan^$dnsrewrite=192.168.107.231
+||*.*.lan^
+
+#----- Reverse DNS
+|2.0.17.172.in-addr.arpa^$dnsrewrite=NOERROR;PTR;unifi-controller.lan
+|1.107.168.192.in-addr.arpa^$dnsrewrite=NOERROR;PTR;synology-router.lan
+|1.1.1.10.in-addr.arpa^$dnsrewrite=NOERROR;PTR;synology-router.lan
+|5.1.1.10.in-addr.arpa^$dnsrewrite=NOERROR;PTR;nas720.lan
+|50.1.1.10.in-addr.arpa^$dnsrewrite=NOERROR;PTR;desktop-e.lan
+
+#----- General redirects
+|ping.ui.com^$dnsrewrite=10.1.1.5
+
+#----- Local devices allowed to access certain external DNS servers
+@@||ios.dns.nextdns.io^$client='10.1.1.0/24'
+@@||dns.nextdns.io^$client='10.1.1.5'
+@@||adguard-dns.com^$client='10.1.1.5'
+@@||cloudflare-dns.com^$client='10.1.1.5'
+@@||*dns.cleanbrowsing.org^$client='10.1.1.5'
+@@||doh.cleanbrowsing.org^$client='10.1.1.5'
+@@||dns.opendns.com^$client='10.1.1.5'
+@@||doh.opendns.com^$client='10.1.1.5'
+@@||dns.quad9.net^$client='10.1.1.5'
+@@||doh.mullvad.net^$client='10.1.1.5'
+@@||dns.bitdefender.net^$client='10.1.1.5'
+@@||canadianshield.cira.ca^$client='10.1.1.5'
+@@||freedns.controld.com^$client='10.1.1.5'
+
+#----- NTP redirect
+||api.rokutime.com^$dnsrewrite=pool.ntp.org
+||kindle-time.amazon.com^$dnsrewrite=pool.ntp.org
+||ntp-fireos.com^$dnsrewrite=pool.ntp.org
+||ntp-g7g.amazon.com^$dnsrewrite=pool.ntp.org
+#||ntp.msn.com^$dnsrewrite=pool.ntp.org
+||ntp.ubuntu.com^$dnsrewrite=pool.ntp.org
+||pool.ntp.org^$dnsrewrite=pool.ntp.org
+||time*.akamai.com^$dnsrewrite=pool.ntp.org
+||time*.android.com^$dnsrewrite=pool.ntp.org
+||time*.apple.com^$dnsrewrite=pool.ntp.org
+||time*.cloudflare.com^$dnsrewrite=pool.ntp.org
+||time*.google.com^$dnsrewrite=pool.ntp.org
+||time*.microsoft.com^$dnsrewrite=pool.ntp.org
+#||time*.nist.gov^$dnsrewrite=pool.ntp.org
+||time*.vmware.com^$dnsrewrite=pool.ntp.org
+||time*.windows.com^$dnsrewrite=pool.ntp.org
+
+#----- Unblock everything for a given client IP.
+#@@||*^$client=10.1.1.50
+
+#----- Block records of specified types.
+#||*^$dnstype=HTTPS|AAAA
+
+#-----
+# Block requests from devices not properly authenticated on the local network.
+||*^$client='169.254.*'
+
+#----- Persistent pings and beacons.
+#||ping.ui.com^$dnsrewrite=10.1.1.1
+#||tabletcaptiveportal.com^
+#||msftconnecttest.com^$dnsrewrite=127.0.0.1
