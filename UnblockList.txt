@@ -28,6 +28,7 @@
 @@||client.wns.windows.com^
 @@||cliqz.com^
 @@||cm.nordvpn.com^
+@@||co1.qualtrics.com^
 @@||configuration.ls.apple.com^
 @@||ctldl.windowsupdate.com^
 @@||d2y5sgsy8bbmb8.cloudfront.net^
