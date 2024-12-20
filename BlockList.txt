@@ -178,6 +178,7 @@ F||b-code.liadm.com^
 ||asadcdn.com^
 ||assets-jpcust.jwpsrv.com^
 ||assets.mailerlite.com^
+||assets.minutemediacdn.com^
 ||assets.rebelmouse.io^
 ||assets.revcontent.com^
 ||assoc-amazon.com^
@@ -1233,6 +1234,7 @@ F||b-code.liadm.com^
 ||socdm.com^
 ||soflopxl.com^
 ||sojern.com^
+||sonic-ui.highereducation.com^
 ||sonobi.com^
 ||sophi.io^
 ||soptimize.southwest.com^
@@ -1371,6 +1373,7 @@ F||b-code.liadm.com^
 ||truoptik.com^
 ||truste.com^
 ||trustx.org^
+||try.elevenlabs.io^
 ||ttmetrics.jcpenney.com^
 ||turn.com^
 ||turncdn.com^
