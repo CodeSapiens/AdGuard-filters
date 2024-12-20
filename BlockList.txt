@@ -80,6 +80,7 @@ F||b-code.liadm.com^
 ||ads-twitter.com^
 ||ads.
 ||adsafeprotected.com^
+||adsdk.microsoft.com^
 ||adsdk.yandex.ru^
 ||adserver-us.
 ||adserver.
@@ -147,6 +148,7 @@ F||b-code.liadm.com^
 ||api.ipdata.co^
 ||api.ipstack.com^
 ||api.qubit.com^
+||api.receptivity.io^
 ||api.retargetly.com^
 ||api.revenuecat.com^
 ||api.rudderstack.com^
@@ -175,6 +177,7 @@ F||b-code.liadm.com^
 ||aptivada.com^
 ||asadcdn.com^
 ||assets-jpcust.jwpsrv.com^
+||assets.mailerlite.com^
 ||assets.rebelmouse.io^
 ||assets.revcontent.com^
 ||assoc-amazon.com^
@@ -197,6 +200,7 @@ F||b-code.liadm.com^
 ||avmws.com^
 ||avodmp4s3ww-a.akamaihd.net^
 ||awstrack.me^
+||ay.delivery^
 ||b-ssl.grvcdn.com^
 ||b.px-cdn.net^
 ||b.stats.paypal.com^
@@ -251,6 +255,7 @@ F||b-code.liadm.com^
 ||browser-intake-datadoghq.com^
 ||browser-intake-us*-datadoghq.com^
 ||browser.covatic.io^
+||browser.events.data.msn.com^
 ||browser.pipe.aria.microsoft.com^
 ||browser.sentry-cdn.com^
 ||brsrvr.com^
@@ -279,6 +284,7 @@ F||b-code.liadm.com^
 ||cc.swiftype.com^
 ||ccgateway.net^
 ||cdn*.judge.me^
+||cdn-aka.ts.mtvnservices.com^
 ||cdn-akamai.mookie1.com^
 ||cdn-images.mailchimp.com^
 ||cdn-loyalty.yotpo.com^
@@ -306,6 +312,7 @@ F||b-code.liadm.com^
 ||cdn.opecloud.com^
 ||cdn.parsely.com^
 ||cdn.privacy-mgmt.com^
+||cdn.pubnub.com^
 ||cdn.quantummetric.com^
 ||cdn.ravenjs.com^
 ||cdn.raygun.io^
@@ -328,6 +335,7 @@ F||b-code.liadm.com^
 ||cerebro.edna.yahoo.net^
 ||cf-timedtext.aux.pv-cdn.net^
 ||cf-trickplay.aux.pv-cdn.net^
+||cfa.fidelity.com^
 ||champagne.futurecdn.net^
 ||channeladvisor.com^
 ||chartbeat.com^
@@ -336,6 +344,7 @@ F||b-code.liadm.com^
 ||chimpstatic.com^
 ||cityspark.com^
 ||civicscience.com^
+||clarity.ms^
 ||clean.gg^
 ||clearbitscripts.com^
 ||cleverads.vn^
@@ -472,6 +481,7 @@ F||b-code.liadm.com^
 ||dcp.dc1.philips.com^
 ||dd.nytimes.com^
 ||dd.study.com^
+||ddbm2.paypal.com^
 ||default.exp-tas.com^
 ||delidatax.net^
 ||demdex.net^
@@ -498,6 +508,7 @@ F||b-code.liadm.com^
 ||dna.amazon.com^
 ||dns.msftncsi.com^
 ||do-not-tracker.org^
+||doppler-beacon.cbsivideo.com^
 ||dotmetrics.net^
 ||dotomi.com^
 ||doubleclick.net^
@@ -614,6 +625,7 @@ F||b-code.liadm.com^
 ||fuse.forbes.com^
 ||fwcdn3.com^
 ||fwmrm.net^
+||g.ign.com^
 ||g.mashable.com^
 ||g2crowd.com^
 ||gallery.mailchimp.com^
@@ -630,6 +642,7 @@ F||b-code.liadm.com^
 ||geo.yahoo.com^
 ||geoedge.be^
 ||geoip.businessinsider.com^
+||geoip.radio-canada.ca^
 ||geolocation
 ||geotrust.com^
 ||getadmiral.com^
@@ -659,6 +672,7 @@ F||b-code.liadm.com^
 ||gorgias.chat^
 ||goto.algolia.com^
 ||goto.walmart.com^
+||granlite.com^
 ||graph.facebook.com^
 ||graph.instagram.com^
 ||graphql-cdn-slplatform.liquidus.net^
@@ -694,6 +708,7 @@ F||b-code.liadm.com^
 ||hubapi.com^
 ||hugedomains.com^
 ||humanpresence.app^
+||i.paypal.com^
 ||ia.media-imdb.com^
 ||iabusprivacy.pmc.com^
 ||iadsdk.apple.com^
@@ -815,12 +830,14 @@ F||b-code.liadm.com^
 ||log.v.ssp.yahoo.com^
 ||logfiles.zoom.us^
 ||logger.nerdwallet.com^
+||login.cbc.ca^
 ||logistics.amazon.com^
 ||loglady.kiwi.com^
 ||logly.co.jp^
 ||logrocket.com^
 ||logs*.amazonaws.com^
 ||logs.datadoghq.com^
+||logs.mezmo.com^
 ||logs.netflix.com^
 ||logs.psm.wmcdp.io^
 ||logs.roku.com^
@@ -1011,6 +1028,7 @@ F||b-code.liadm.com^
 ||placed.com^
 ||plaguemanipulatedrag.com^
 ||platform-api.sharethis.com^
+||platform.linkedin.com^
 ||platform.liquidus.net^
 ||platform.twitter.com^
 ||play.vidyard.com^
@@ -1031,6 +1049,7 @@ F||b-code.liadm.com^
 ||pr.comet.yahoo.com^
 ||pr.ybp.yahoo.com^
 ||prd.sca.samsung.com^
+||prebid.a-mo.net^
 ||prf.hn^
 ||pricespider.com^
 ||primetime.bluejeans.com^
@@ -1067,8 +1086,8 @@ F||b-code.liadm.com^
 ||pushmaster-cdn.xyz^
 ||pxlctl.
 ||q.quora.com^
-||qm2.progressive.com^
 ||qgxbluhsgad.com^
+||qm2.progressive.com^
 ||qsearch-a.akamaihd.net^
 ||qualaroo.com^
 ||qualtrics.com^
@@ -1082,11 +1101,10 @@ F||b-code.liadm.com^
 ||r541.houstonchronicle.com^
 ||radar.cedexis.com^
 ||rainmaker*.production-public.tubi.io^
-||rbl.ms^
 ||raptive.com^
 ||ras.yahoo.com^
 ||ravenjs.com^
-||reson8.com^
+||rbl.ms^
 ||reconditerespect.com^
 ||recsys-api.buzzfeed.com^
 ||redirector.gvt1.com^
@@ -1099,6 +1117,7 @@ F||b-code.liadm.com^
 ||requestmetrics.com^
 ||rereddit.com^
 ||researchnow.com^
+||reson8.com^
 ||resources.bazaarvoice.com^
 ||revjet.com^
 ||rewards.brave.com^
@@ -1200,6 +1219,7 @@ F||b-code.liadm.com^
 ||sizmek.com^
 ||skimresources.com^
 ||sm.dell.com^
+||smart.link^
 ||smartadserver.com^
 ||smartetailing.piwik.pro^
 ||smartocto.com^
@@ -1220,6 +1240,7 @@ F||b-code.liadm.com^
 ||sourcepointcmp.bloomberg.com^
 ||sp.argusleader.com^
 ||sp.usatoday.com^
+||spade.twitch.tv^$important
 ||speedcurve.com^
 ||spiny.ai^
 ||spookyexchange.com^
@@ -1232,6 +1253,7 @@ F||b-code.liadm.com^
 ||ssl.ak.dynamic.tiles.
 ||ssl.cf5.rackcdn.com^
 ||ssl.kaptcha.com^
+||ssl.o.webmd.com^
 ||sstats.adobe.com^
 ||stagepopkek.com^
 ||statcollector.sidearmsports.com^
@@ -1258,6 +1280,7 @@ F||b-code.liadm.com^
 ||stats.wp.com^
 ||steadfastseat.com^
 ||steadfastsystem.com^
+||stickyadstv.com^
 ||stripe.network^
 ||sts3.wsj.net^
 ||stun*.l.google.com^
@@ -1306,6 +1329,7 @@ F||b-code.liadm.com^
 ||teads.net^
 ||teads.tv^
 ||tealiumiq.com^
+||teams.events.data.microsoft.com^
 ||techlab-cdn.com^
 ||ted.dailymail.co.uk^
 ||the-ozone-project.com^
@@ -1332,6 +1356,7 @@ F||b-code.liadm.com^
 ||tracking.
 ||tracking.sezzle.com^
 ||trackonomics.net^
+||tranquilveil.com^
 ||transcend-cdn.com^
 ||trcksp.cordial.io^
 ||tredir.go.com^
@@ -1361,6 +1386,7 @@ F||b-code.liadm.com^
 ||ugdturner.com^
 ||uid.mavencoalition.io^
 ||uidapi.com^
+||uie.data.cbc.ca^
 ||unagi*.amazon.com^
 ||unbounce.com^
 ||unityads.unity3d.com^
@@ -1401,6 +1427,7 @@ F||b-code.liadm.com^
 ||vortex.hulu.com^
 ||vs1.youmaker.com^
 ||vtrk.dv.tech^
+||w3-reporting-nel.reddit.com^
 ||w3-reporting.reddit.com^
 ||w569ut7zbkiqf5b.xyz^
 ||walmart.sspinc.io^
@@ -1423,6 +1450,7 @@ F||b-code.liadm.com^
 ||widgets.tree.com^
 ||wildmoodswings.co.uk^
 ||wknd.ai^
+||wootric-eligibility.herokuapp.com^
 ||wow.com^
 ||ws.audioeye.com^
 ||ws.sharethis.com^
