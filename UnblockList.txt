@@ -55,7 +55,6 @@
 @@||ktpx.amazon.com^
 @@||link.info.email.aa.com^
 @@||livechatinc.com^
-@@||login.live.com^
 @@||logincdn.msauth.net^
 @@||mail.tutanota.com^
 @@||manifest.prod.boltdns.net^
@@ -111,7 +110,6 @@
 @@||vidible.tv^
 @@||wcpstatic.microsoft.com^
 @@||wdcp.microsoft.com^
-@@||www.bing.com^
 @@||www.gstatic.com^
 @@||xcelenergy.com^
 @@||cleanbrowsing.org^
