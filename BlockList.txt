@@ -43,6 +43,7 @@ F||b-code.liadm.com^
 ||abs.hls.ttvnw.net^
 ||absorbingband.com^
 ||abstractedauthority.com^
+||abtasty.com^
 ||aca-livecards-service.amazon.com^
 ||accdab.net^
 ||account.api.here.com^
@@ -50,6 +51,7 @@ F||b-code.liadm.com^
 ||activecampaign.com^
 ||activehosted.com^
 ||activity.windows.com^
+||ad-assets.futurecdn.net^
 ||ad-delivery.net^
 ||ad-tech.nbcuni.com^
 ||ad.
@@ -425,6 +427,7 @@ F||b-code.liadm.com^
 ||crwdcntrl.net^
 ||csi.gstatic.com^
 ||csp.yahoo.com^
+||csp-reporting.cloudflare.com^
 ||cstat.cdn-apple.com^
 ||ct.pinterest.com^
 ||cta-service-cms*.hubspot.com^
@@ -613,6 +616,7 @@ F||b-code.liadm.com^
 ||footprintdns.com^
 ||footprints-pa.googleapis.com^
 ||forter.com^
+||forumcomm.friends2follow.com^
 ||fos5echocaptiveportal.com^
 ||fp.msedge.net^
 ||fpapi.io^
@@ -1065,6 +1069,7 @@ F||b-code.liadm.com^
 ||prod.amazoncrl.com^
 ||prod.fennec.atp.fox^
 ||prod.pyxis.atp.fox^
+||prodregistryv2.org^
 ||production-cmp.isgprivacy.cbsi.com^
 ||profitwell.com^
 ||promos.investing.com^
@@ -1091,7 +1096,6 @@ F||b-code.liadm.com^
 ||qm2.progressive.com^
 ||qsearch-a.akamaihd.net^
 ||qualaroo.com^
-||qualtrics.com^
 ||quantcast.com^
 ||quantcast.mgr.consensu.org^
 ||quantcount.com^
@@ -1100,6 +1104,7 @@ F||b-code.liadm.com^
 ||r.bbci.co.uk^
 ||r.stripe.com^
 ||r541.houstonchronicle.com^
+||rfk.biglots.com^
 ||radar.cedexis.com^
 ||rainmaker*.production-public.tubi.io^
 ||raptive.com^
@@ -1198,7 +1203,6 @@ F||b-code.liadm.com^
 ||serverbid.com^
 ||service.amazonsilk.com^
 ||service.cmp.oath.com^
-||service.force.com^
 ||service.minerva.devices.a2z.com^
 ||services.brid.tv^
 ||services.brightline.tv^
@@ -1215,6 +1219,7 @@ F||b-code.liadm.com^
 ||sidearm-syndication.s3.amazonaws.com^
 ||signifyd.com^
 ||site.gladly.com^
+||siteintercept.qualtrics.com^
 ||site24x7rum.eu^
 ||sitescout.com^
 ||sizmek.com^
@@ -1280,6 +1285,7 @@ F||b-code.liadm.com^
 ||stats.lineageos.org^
 ||stats.wordpress.com^
 ||stats.wp.com^
+||statsigapi.net^
 ||steadfastseat.com^
 ||steadfastsystem.com^
 ||stickyadstv.com^
@@ -1479,6 +1485,7 @@ F||b-code.liadm.com^
 ||www.shopbop.com^
 ||wyhifdpatl.com^
 ||xg4ken.com^
+||xp.apple.com^
 ||xspadvertising.com^
 ||yahoo.uservoice.com^
 ||yellowblue.io^
