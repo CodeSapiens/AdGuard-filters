@@ -183,6 +183,7 @@ F||b-code.liadm.com^
 ||appspot.com^
 ||aptivada.com^
 ||asadcdn.com^
+||ascendeummedia.com^
 ||assets-jpcust.jwpsrv.com^
 ||assets.mailerlite.com^
 ||assets.minutemediacdn.com^
@@ -1065,6 +1066,7 @@ F||b-code.liadm.com^
 ||pixel.facebook.com^
 ||pixel.watch^
 ||pixel.wp.com^
+||pixel-config.reddit.com^
 ||pixiedust.buzzfeed.com^
 ||placed.com^
 ||plaguemanipulatedrag.com^
