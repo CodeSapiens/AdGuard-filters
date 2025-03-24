@@ -87,6 +87,7 @@ F||b-code.liadm.com^
 ||adserver-us.
 ||adserver.
 ||adservice.
+||adservices.
 ||adsfs.oppomobile.com^
 ||adsninja.ca^
 ||adsparc.com^
@@ -227,6 +228,7 @@ F||b-code.liadm.com^
 ||beacon.walmart.com^
 ||beam.hlserve.com^
 ||beap.gemini.yahoo.com^
+||beyondwickedmapping.org^
 ||betrad.com^
 ||bf.dynatrace.com^
 ||bfmio.com^
@@ -295,12 +297,14 @@ F||b-code.liadm.com^
 ||cdn*.judge.me^
 ||cdn-aka.ts.mtvnservices.com^
 ||cdn-akamai.mookie1.com^
+||cdn-fallback.petametrics.com^
 ||cdn-images.mailchimp.com^
 ||cdn-loyalty.yotpo.com^
 ||cdn-media.brightline.tv^
 ||cdn-settings.appsflyersdk.com^
 ||cdn-usent.kampyle.com^
 ||cdn-widgetsrepository.yotpo.com^
+||cdn.adtrace.ai^
 ||cdn.affiliatable.io^
 ||cdn.appdynamics.com^
 ||cdn.attn.tv^
@@ -805,6 +809,7 @@ F||b-code.liadm.com^
 ||kameleoon.eu^
 ||kampyle.com^
 ||kargo.com^
+||kidpowers.com^
 ||kisinn.info^
 ||kissmetrics.com^
 ||klaviyo.com^
@@ -1013,6 +1018,7 @@ F||b-code.liadm.com^
 ||optimize-stats.voxmedia.com^
 ||optimizely.com^
 ||optimizely.wsj.com^
+||optimonk.com^
 ||os4work.com^
 ||osb.samsungqbe.com^
 ||osm-ads*.delivery.roku.com^
@@ -1023,6 +1029,8 @@ F||b-code.liadm.com^
 ||p-n.io^
 ||p.typekit.net^
 ||p1.parsely.com^
+||p7cloud.net^
+||pmcbbn8trk.com^
 ||pafvertizing.crazygames.com^
 ||pagefair.com^
 ||pagefair.net^
@@ -1150,6 +1158,7 @@ F||b-code.liadm.com^
 ||reporting-api.gannettinnovation.com^
 ||requestmetrics.com^
 ||rereddit.com^
+||res-x.com^
 ||researchnow.com^
 ||reson8.com^
 ||resources.bazaarvoice.com^
@@ -1206,6 +1215,7 @@ F||b-code.liadm.com^
 ||sdk.beemray.com^
 ||sdk.iad-*.braze.com^
 ||sdk.qikify.com^
+||sdk.postscript.io^
 ||sdk.split.io^
 ||seal.digicert.com^
 ||seal.verisign.com^
@@ -1357,6 +1367,7 @@ F||b-code.liadm.com^
 ||t.xoom.com^
 ||taboola.com^
 ||taboolasyndication.com^
+||tag.dickssportinggoods.com^
 ||tagan.adlightning.com^
 ||tagcommander.com^
 ||tagger.opecloud.com^
@@ -1402,6 +1413,7 @@ F||b-code.liadm.com^
 ||tracking.
 ||tracking.sezzle.com^
 ||trackonomics.net^
+||tradecore.tradehouse.media^
 ||tranquilveil.com^
 ||transcend-cdn.com^
 ||trcksp.cordial.io^
