@@ -175,6 +175,7 @@ F||b-code.liadm.com^
 ||apple.news^
 ||apple.pa^
 ||applicationinsights.azure.com^
+||applovin.com^
 ||applytics.nordvpn.com^
 ||appmetrica.yandex.com^
 ||apps.rokt.com^
@@ -193,6 +194,7 @@ F||b-code.liadm.com^
 ||aswpsdkus.com^
 ||at.cbsi.com^
 ||atdmt.com^
+||atemos.org^
 ||atrack.avplayer.com^
 ||ats.everesttech.net^
 ||att.inq.com^
@@ -229,8 +231,8 @@ F||b-code.liadm.com^
 ||beacon.walmart.com^
 ||beam.hlserve.com^
 ||beap.gemini.yahoo.com^
-||beyondwickedmapping.org^
 ||betrad.com^
+||beyondwickedmapping.org^
 ||bf.dynatrace.com^
 ||bfmio.com^
 ||bh.contextweb.com^
@@ -401,6 +403,7 @@ F||b-code.liadm.com^
 ||concertads-configs.vox-cdn.com^
 ||conde.digital^
 ||condenastdigital.com^
+||conductrics.com^
 ||confiant-integrations.net^
 ||confiant.msn.com^
 ||config.claspws.tv^
@@ -505,6 +508,7 @@ F||b-code.liadm.com^
 ||ddbm2.paypal.com^
 ||default.exp-tas.com^
 ||delidatax.net^
+||demandbase.com^
 ||demdex.net^
 ||deployads.com^
 ||dev.pyxis.atp.fox^
@@ -1031,7 +1035,6 @@ F||b-code.liadm.com^
 ||p.typekit.net^
 ||p1.parsely.com^
 ||p7cloud.net^
-||pmcbbn8trk.com^
 ||pafvertizing.crazygames.com^
 ||pagefair.com^
 ||pagefair.net^
@@ -1063,10 +1066,10 @@ F||b-code.liadm.com^
 ||pix.pub^
 ||pix.spot.im^
 ||pixel*.production-public.tubi.io^
+||pixel-config.reddit.com^
 ||pixel.facebook.com^
 ||pixel.watch^
 ||pixel.wp.com^
-||pixel-config.reddit.com^
 ||pixiedust.buzzfeed.com^
 ||placed.com^
 ||plaguemanipulatedrag.com^
@@ -1077,6 +1080,7 @@ F||b-code.liadm.com^
 ||play.vidyard.com^
 ||player.megaphone.fm^
 ||plrsrvcs.com^
+||pmcbbn8trk.com^
 ||pogothere.xyz^
 ||polarcdn-*.com^
 ||policies.oath.com^
@@ -1148,6 +1152,7 @@ F||b-code.liadm.com^
 ||ras.yahoo.com^
 ||ravenjs.com^
 ||rbl.ms^
+||receptivity.io^
 ||reconditerespect.com^
 ||recsys-api.buzzfeed.com^
 ||redirector.gvt1.com^
@@ -1216,8 +1221,8 @@ F||b-code.liadm.com^
 ||scrsrch.com^
 ||sdk.beemray.com^
 ||sdk.iad-*.braze.com^
-||sdk.qikify.com^
 ||sdk.postscript.io^
+||sdk.qikify.com^
 ||sdk.split.io^
 ||seal.digicert.com^
 ||seal.verisign.com^
@@ -1402,6 +1407,7 @@ F||b-code.liadm.com^
 ||tl.foxnews.com^
 ||tl.foxweather.com^
 ||tm-awx.com^
+||topcrazypress.com^
 ||tr.snapchat.com^
 ||tr.www.cloudflare.com^
 ||trace.popin.cc^
