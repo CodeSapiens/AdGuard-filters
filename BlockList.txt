@@ -1,7 +1,3 @@
-*-ad-rs.amagi.tv^
-*analytics
-*telemetry
-*yomigt
 -na.associates-amazon.com^
 .adsbox^
 .cn^
@@ -10,7 +6,10 @@
 .ssp.advertising.com^
 .textads^
 .xxx^
-F||b-code.liadm.com^
+*-ad-rs.amagi.tv^
+*analytics
+*telemetry
+*yomigt
 ||1rx.io^
 ||1trust.app^
 ||2mdn.net^
@@ -139,7 +138,6 @@ F||b-code.liadm.com^
 ||anvato.net^
 ||ap.spotify.com^
 ||apcdp.apnews.com^
-||api*.iheart.com^
 ||api-2-0.spot.im^
 ||api-adservices.apple.com^
 ||api-bd.kohls.com^
@@ -163,6 +161,7 @@ F||b-code.liadm.com^
 ||api.statsig.com^
 ||api.tiles.mapbox.com^
 ||api.us-*.aiv-delivery.net^
+||api*.iheart.com^
 ||app-analytics-services.com^
 ||app-measurement.com^
 ||app.adjust
@@ -216,6 +215,7 @@ F||b-code.liadm.com^
 ||avodmp4s3ww-a.akamaihd.net^
 ||awstrack.me^
 ||ay.delivery^
+||b-code.liadm.com^
 ||b-ssl.grvcdn.com^
 ||b.px-cdn.net^
 ||b.stats.paypal.com^
@@ -301,7 +301,6 @@ F||b-code.liadm.com^
 ||cc-api-data.adobe.io^
 ||cc.swiftype.com^
 ||ccgateway.net^
-||cdn*.judge.me^
 ||cdn-aka.ts.mtvnservices.com^
 ||cdn-akamai.mookie1.com^
 ||cdn-fallback.petametrics.com^
@@ -351,6 +350,7 @@ F||b-code.liadm.com^
 ||cdn.usefathom.com^
 ||cdn.ywxi.net^
 ||cdn.ziffstatic.com^
+||cdn*.judge.me^
 ||cdnads.geeksforgeeks.org^
 ||cdnopw.com^
 ||cdns.*.gigya.com^
@@ -386,6 +386,7 @@ F||b-code.liadm.com^
 ||cmp.advertising.com^
 ||cmp.dmgmediaprivacy.co.uk^
 ||cmp.osano.com^
+||cnstrc.com^
 ||cod-assets.cdn.callofduty.com^
 ||collector-*.perimeterx.net^
 ||collector-*.px-cdn.net^
@@ -483,6 +484,7 @@ F||b-code.liadm.com^
 ||d2uap9jskdzp2.cloudfront.net^
 ||d2v02itv0y9u9t.cloudfront.net^
 ||d2wy8f7a9ursnm.cloudfront.net^
+||d2yyd1h5u9mauk.cloudfront.net^
 ||d3-umami.up.railway.app^
 ||d35k22e9287vnh.cloudfront.net^
 ||d35u1vg1q28b3w.cloudfront.net^
@@ -512,6 +514,7 @@ F||b-code.liadm.com^
 ||dc.services.visualstudio.com^
 ||dcf.espn.com^
 ||dcp.dc1.philips.com^
+||dd.allaboutcookies.org^
 ||dd.nytimes.com^
 ||dd.study.com^
 ||ddbm2.paypal.com^
@@ -679,12 +682,12 @@ F||b-code.liadm.com^
 ||gcion.com^
 ||gdpr.studybreakmedia.com^
 ||gemini.yahoo.com^
-||geo*.adobe.com^
 ||geo.ads
 ||geo.gfycat.com^
 ||geo.ngtv.io^
 ||geo.query.yahoo.com^
 ||geo.yahoo.com^
+||geo*.adobe.com^
 ||geoedge.be^
 ||geoip.businessinsider.com^
 ||geoip.radio-canada.ca^
@@ -765,6 +768,7 @@ F||b-code.liadm.com^
 ||ichnaea.netflix.com^
 ||icpsuawn1zy5amys.com^
 ||icptrack.com^
+||icu.newsroom.bi^
 ||id.google.com^
 ||id5-sync.com^
 ||idiagnostics.apple.com
@@ -773,8 +777,8 @@ F||b-code.liadm.com^
 ||igodigital.com^
 ||im-apps.net^
 ||image.online.adp.com^
-||images*.minutemediacdn.com^
 ||images.nvidia.cn^
+||images*.minutemediacdn.com^
 ||imasdk.googleapis.com^
 ||imiclk.com^
 ||impact-ad.jp^
@@ -890,12 +894,12 @@ F||b-code.liadm.com^
 ||loglady.kiwi.com^
 ||logly.co.jp^
 ||logrocket.com^
-||logs*.amazonaws.com^
 ||logs.datadoghq.com^
 ||logs.mezmo.com^
 ||logs.netflix.com^
 ||logs.psm.wmcdp.io^
 ||logs.roku.com^
+||logs*.amazonaws.com^
 ||loopme.me^
 ||lotame.com^
 ||lpsnmedia.net^
@@ -903,6 +907,7 @@ F||b-code.liadm.com^
 ||lptag.liveperson.net^
 ||luckyorange.com^
 ||luckyorange.net^
+||lyricshook.com^
 ||lytics.io^
 ||m.stripe.com^
 ||m.yap.yahoo.com^
@@ -926,7 +931,6 @@ F||b-code.liadm.com^
 ||mbid.marfeelrev.com^
 ||mcs.tiktokw.us^
 ||measure.chase.com^
-||media*.fc2.com^
 ||media.evolv.ai^
 ||media.flixcar.com^
 ||media.flixfacts.com^
@@ -935,6 +939,7 @@ F||b-code.liadm.com^
 ||media.net^
 ||media.swncdn.com^
 ||media.travelzoo.com^
+||media*.fc2.com^
 ||mediago.io^
 ||mediamath.com^
 ||mediaplex.com^
@@ -1093,17 +1098,18 @@ F||b-code.liadm.com^
 ||pipedream.wistia.com^
 ||pix.pub^
 ||pix.spot.im^
-||pixel*.production-public.tubi.io^
 ||pixel-config.reddit.com^
 ||pixel.facebook.com^
 ||pixel.ipinfo.io^
 ||pixel.watch^
 ||pixel.wp.com^
+||pixel*.production-public.tubi.io^
 ||pixels.spotify.com^
 ||pixiedust.buzzfeed.com^
 ||placed.com^
 ||plaguemanipulatedrag.com^
 ||platform-api.sharethis.com^
+||platform.datazoom.io^
 ||platform.linkedin.com^
 ||platform.liquidus.net^
 ||platform.twitter.com^
@@ -1122,6 +1128,7 @@ F||b-code.liadm.com^
 ||postaffiliatepro.com^
 ||postclickmarketing.com^
 ||posthog2.fluffleinfra.net^
+||postmedia.hub.loginradius.com^
 ||postrelease.com^
 ||powerreviews.com^
 ||pr-bh.ybp.yahoo.com^
@@ -1135,6 +1142,7 @@ F||b-code.liadm.com^
 ||primis.tech^
 ||prisasd.com^
 ||privacy-center.org^
+||privacy.advancelocal.com^
 ||privacymanager.io^
 ||privacyportal*.onetrust.com^
 ||privy.com^
@@ -1285,6 +1293,8 @@ F||b-code.liadm.com^
 ||sendingspire.com^
 ||sentry-cdn.com^
 ||sentry.io^
+||sephora-track.inside-graph.com^
+||sephora.cnstrc.com^
 ||servebom.com^
 ||serverbid-sync.nyc3.cdn.digitaloceanspaces.com^
 ||serverbid.com^
@@ -1381,8 +1391,8 @@ F||b-code.liadm.com^
 ||stickyadstv.com^
 ||stores-counters.wix.com^
 ||stripe.network^
-||stun*.l.google.com^
 ||stun.cdn-net.com^
+||stun*.l.google.com^
 ||subs.youmaker.com^
 ||subscription-forms.smsbump.com^
 ||succeedscene.com^
@@ -1413,6 +1423,7 @@ F||b-code.liadm.com^
 ||t.xoom.com^
 ||taboola.com^
 ||taboolasyndication.com^
+||tag.aticdn.net^
 ||tag.dickssportinggoods.com^
 ||tagan.adlightning.com^
 ||tagcommander.com^
@@ -1421,6 +1432,7 @@ F||b-code.liadm.com^
 ||tags.tiqcdn.com^
 ||tags.voanews.com^
 ||tags.wdsvc.net^
+||tao.barstoolsports.com^
 ||tapad.com^
 ||taplytics-umami.grubhub.com^
 ||taplytics.com^
@@ -1568,6 +1580,7 @@ F||b-code.liadm.com^
 ||wyhifdpatl.com^
 ||xg4ken.com^
 ||xp.apple.com^
+||xp.atlassian.com^
 ||xspadvertising.com^
 ||yahoo.uservoice.com^
 ||yellowblue.io^
