@@ -77,6 +77,7 @@ F||b-code.liadm.com^
 ||adrta.com^
 ||ads-api.tiktok.com^
 ||ads-api.twitter.com^
+||ads-dev.pinterest.com^
 ||ads-setu-proxy.amazon.com^
 ||ads-sg.tiktok.com^
 ||ads-twitter.com^
@@ -102,7 +103,10 @@ F||b-code.liadm.com^
 ||adthrive.com^
 ||advertising-api-eu.amazon.com^
 ||advertising.amazon.com^
+||advertising.samsclub.com^
 ||advertising.twitter.com^
+||advertising.walmart.com^
+||advertising.yahoo*.com^
 ||advice-ads.s3.amazonaws.com^
 ||adzerk.net^
 ||adzone.io^
@@ -159,7 +163,6 @@ F||b-code.liadm.com^
 ||api.statsig.com^
 ||api.tiles.mapbox.com^
 ||api.us-*.aiv-delivery.net^
-||apicdn.sanity.io^
 ||app-analytics-services.com^
 ||app-measurement.com^
 ||app.adjust
@@ -186,6 +189,7 @@ F||b-code.liadm.com^
 ||asadcdn.com^
 ||ascendeummedia.com^
 ||assets-jpcust.jwpsrv.com^
+||assets.alicdn.com^
 ||assets.mailerlite.com^
 ||assets.minutemediacdn.com^
 ||assets.rebelmouse.io^
@@ -438,6 +442,7 @@ F||b-code.liadm.com^
 ||crazyegg.com^
 ||create.lidstatic.com^
 ||createsend1.com^
+||creativebookmark.com^
 ||creativecdn.com^
 ||crimtan.com^
 ||criteo.com^
@@ -453,6 +458,7 @@ F||b-code.liadm.com^
 ||cta-service-cms*.hubspot.com^
 ||cubchannel.com^
 ||customer.cludo.com^
+||customer.homedepot.com^
 ||customerevents.netflix.com^
 ||cxense.com^
 ||d.email.forbes.com^
@@ -460,6 +466,7 @@ F||b-code.liadm.com^
 ||d15kdpgjg3unno.cloudfront.net^
 ||d1ros97qkrwjf5.cloudfront.net^
 ||d1vl8wytztdz.cloudfront.net^
+||d1wix2gc2cgqis.cloudfront.net^
 ||d1yprpojhqvser.cloudfront.net^
 ||d1z2jf7jlzjs58.cloudfront.net^
 ||d21gpk1vhmjuf5.cloudfront.net^
@@ -495,6 +502,7 @@ F||b-code.liadm.com^
 ||data.adobedc.net^
 ||data.cnn.com^
 ||data.mistat.india.xiaomi.com^
+||data.mistat.intl.xiaomi.com^
 ||data.mistat.rus.xiaomi.com^
 ||data.mistat.xiaomi.com^
 ||datadoghq-browser-agent.com^
@@ -530,6 +538,7 @@ F||b-code.liadm.com^
 ||dm-event.net^
 ||dmd.metaservices.microsoft.com^
 ||dmpxs.com^
+||dn0qt3r0xannq.cloudfront.net^
 ||dna.amazon.com^
 ||dns.msftncsi.com^
 ||do-not-tracker.org^
@@ -614,6 +623,7 @@ F||b-code.liadm.com^
 ||fbot.me^
 ||fbs.smoot.apple.com^
 ||fc.yahoo.com^
+||featureassets.org^
 ||federatedml-pa.googleapis.com^
 ||feedbackify.com^
 ||fff.dailymail.co.uk^
@@ -641,6 +651,9 @@ F||b-code.liadm.com^
 ||forter.com^
 ||forumcomm.friends2follow.com^
 ||fos5echocaptiveportal.com^
+||fourier.alibaba.com^
+||fourier.aliexpress.com^
+||fourier.taobao.com^
 ||fp.msedge.net^
 ||fpapi.io^
 ||fpjs.io^
@@ -653,8 +666,10 @@ F||b-code.liadm.com^
 ||fuse.forbes.com^
 ||fwcdn3.com^
 ||fwmrm.net^
+||g.bing.com^
 ||g.ign.com^
 ||g.mashable.com^
+||g.pcmag.com^
 ||g2crowd.com^
 ||gallery.mailchimp.com^
 ||gameplayapi.intel.com^
@@ -712,12 +727,14 @@ F||b-code.liadm.com^
 ||guardianapps
 ||guce.advertising.com^
 ||gumgum.com^
+||gurgle.pcmag.com^
 ||gvt2.com^
 ||gvt3.com^
 ||handsomelyhealth.com^
 ||hb.vntsm.com^
 ||hb.yahoo.net^
 ||hbx.media.net^
+||hd-personalization-prod.gcp.homedepot.com^
 ||healthguides.cnn.com^
 ||heavy.com^
 ||hello.myfonts.net^
@@ -728,6 +745,7 @@ F||b-code.liadm.com^
 ||highperformancegate.com^
 ||hlserve.com^
 ||holid.bbvms.com^
+||homedepot.online-metrix.net^
 ||hotjar.com^
 ||hotjar.io^
 ||hrzn-nxt.com^
@@ -789,10 +807,12 @@ F||b-code.liadm.com^
 ||ips1.unifi-ai.com^
 ||irchan.com^
 ||iris.tv^
+||is.alicdn.com^
 ||ispot.tv^
 ||izatcloud.net^
 ||jac.yahoosandbox.com^
 ||janrain.com^
+||jcpclick.com^
 ||jeeng.com^
 ||jivox.com^
 ||js-cdn.dynatrace.com^
@@ -851,6 +871,7 @@ F||b-code.liadm.com^
 ||livefyre.com^
 ||lixarproxsee
 ||ll.dash.row.aiv-cdn.net^
+||lngtd.com^
 ||load.s3.amazonaws.com^
 ||loader.wisepops.com^
 ||location-api.hdhomerun.com^
@@ -896,6 +917,7 @@ F||b-code.liadm.com^
 ||marketo.net^
 ||markitcdn.com^
 ||marsello.com^
+||matomo.bunny.net^
 ||matomo.cloud^
 ||matomo.garden.org^
 ||matomo.openstreetmap.org^
@@ -936,6 +958,7 @@ F||b-code.liadm.com^
 ||mktp-base.mktplatforms.com^
 ||ml314.com^
 ||mms.cnn.com^
+||mmstat.com^
 ||moatads.com^
 ||mobile-sdk-api.intercom.io^
 ||mobile.events.data.microsoft.com^
@@ -960,6 +983,7 @@ F||b-code.liadm.com^
 ||mps.cnbc.com^
 ||mps.nbcuni.com^
 ||mqtt.*.ltsapis.goog^
+||mr.homedepot.com^
 ||msedge*.delivery.mp.microsoft.com^
 ||msmedia.morningstar.com^
 ||mssdk-sg.tiktok.com^
@@ -1002,6 +1026,7 @@ F||b-code.liadm.com^
 ||oempprd.samsungcloudsolution.com^
 ||oempprd.samsungcloudsolution.net^
 ||offerwall.yandex.net^
+||ogads-pa.clients6.google.com^
 ||ogads-pa.googleapis.com^
 ||okasconcepts.com^
 ||om.dowjoneson.com^
@@ -1039,6 +1064,7 @@ F||b-code.liadm.com^
 ||pagefair.com^
 ||pagefair.net^
 ||pancake.apple.com^
+||pangleglobal.com^
 ||panorama.wixapps.net^
 ||pardot.com^
 ||parkingcrew.net^
@@ -1068,8 +1094,10 @@ F||b-code.liadm.com^
 ||pixel*.production-public.tubi.io^
 ||pixel-config.reddit.com^
 ||pixel.facebook.com^
+||pixel.ipinfo.io^
 ||pixel.watch^
 ||pixel.wp.com^
+||pixels.spotify.com^
 ||pixiedust.buzzfeed.com^
 ||placed.com^
 ||plaguemanipulatedrag.com^
@@ -1080,6 +1108,7 @@ F||b-code.liadm.com^
 ||play.vidyard.com^
 ||player.megaphone.fm^
 ||plrsrvcs.com^
+||plugin.mediavoice.com^
 ||pmcbbn8trk.com^
 ||pogothere.xyz^
 ||polarcdn-*.com^
@@ -1090,6 +1119,7 @@ F||b-code.liadm.com^
 ||portal.fb.com^
 ||postaffiliatepro.com^
 ||postclickmarketing.com^
+||posthog2.fluffleinfra.net^
 ||postrelease.com^
 ||powerreviews.com^
 ||pr-bh.ybp.yahoo.com^
@@ -1191,6 +1221,7 @@ F||b-code.liadm.com^
 ||ru.com^
 ||rubiconproject.com^
 ||rudderlabs.com^
+||rum-metrics.bunny.net^
 ||rum.browser-intake-datadoghq.com^
 ||rxeosevsso.com^
 ||s-adzone.com^
@@ -1204,12 +1235,14 @@ F||b-code.liadm.com^
 ||sa.bbc.co.uk^
 ||sa.com^
 ||saa.cbsi.com^
+||safe-guard.online^
 ||sail-horizon.com^
 ||sail-personalize.com^
 ||sailthru.com^
 ||salemwebnetwork.com^
 ||samsungadhub.com^
 ||samsungads.com^
+||sapphire-api.target.com^
 ||sars.amazon.com^
 ||sc-static.net^
 ||scontent-sjc2-1.xx.fbcdn.net^
@@ -1219,6 +1252,7 @@ F||b-code.liadm.com^
 ||script.ac^
 ||scripts.dailymail.co.uk^
 ||scrsrch.com^
+||sdk.asapp.com^
 ||sdk.beemray.com^
 ||sdk.iad-*.braze.com^
 ||sdk.postscript.io^
@@ -1238,6 +1272,7 @@ F||b-code.liadm.com^
 ||securitytrfx.com^
 ||seedtag.com^
 ||seethru.co.uk^
+||seeyoufarm.com^
 ||segment-cdn.producthunt.com^
 ||segment-data.zqtk.net^
 ||segment.com^
@@ -1264,6 +1299,7 @@ F||b-code.liadm.com^
 ||sharethrough.com^
 ||shop-chat-play.com^
 ||shop.ring.com^
+||shopify-init.blackcrow.ai^
 ||shopperapproved.com^
 ||shortpixel.ai^
 ||sidearm-syndication.s3.amazonaws.com^
@@ -1325,6 +1361,7 @@ F||b-code.liadm.com^
 ||static.getclicky.com^
 ||static.mailerlite.com^
 ||static.myfinance.com^
+||static.mywot.com^
 ||static.scroll.com^
 ||static.zdbb.net^
 ||static1.brave.com^
@@ -1342,7 +1379,6 @@ F||b-code.liadm.com^
 ||stickyadstv.com^
 ||stores-counters.wix.com^
 ||stripe.network^
-||sts3.wsj.net^
 ||stun*.l.google.com^
 ||stun.cdn-net.com^
 ||subs.youmaker.com^
@@ -1350,6 +1386,7 @@ F||b-code.liadm.com^
 ||succeedscene.com^
 ||suggestqueries*.google.com
 ||summerhamster.com^
+||supersonicads.com^
 ||supportmetrics.apple.com^
 ||sustainability.aboutamazon.com^
 ||svc.ui.com^
@@ -1454,6 +1491,7 @@ F||b-code.liadm.com^
 ||uid.mavencoalition.io^
 ||uidapi.com^
 ||uie.data.cbc.ca^
+||unagi.amazon.com^
 ||unbounce.com^
 ||unityads.unity3d.com^
 ||ups.inq.com^
@@ -1475,6 +1513,7 @@ F||b-code.liadm.com^
 ||vi-serve.com^
 ||via.placeholder.com^
 ||viafoura.
+||video-edge-a2581d.sjc05.hls.live-video.net^
 ||video.adaptv.advertising.com^
 ||video.unrulymedia.com^
 ||videoamp.com^
@@ -1523,23 +1562,6 @@ F||b-code.liadm.com^
 ||wsmcdn.audioeye.com^
 ||wurfl.io^
 ||ww8.kohls.com^
-||www.6pm.com^
-||www.abebooks.com^
-||www.aboutamazon.com^
-||www.acx.com^
-||www.amazon.jobs^
-||www.bookdepository.com^
-||www.cdn-net.com^
-||www.clarity.ms^
-||www.dpreview.com^
-||www.eastdane.com^
-||www.example.com^
-||www.fountain.com^
-||www.googleadservices.com^
-||www.i.cdn.cnn.com^
-||www.kissmetrics.io^
-||www.pillpack.com^
-||www.shopbop.com^
 ||wyhifdpatl.com^
 ||xg4ken.com^
 ||xp.apple.com^
@@ -1550,6 +1572,7 @@ F||b-code.liadm.com^
 ||yengo.com^
 ||yieldlove
 ||yieldmo.com^
+||ynuf.aliapp.org^
 ||yottaa.net^
 ||youborafds01.com^
 ||zdstatic.speedtest.net^
