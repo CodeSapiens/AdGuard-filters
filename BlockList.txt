@@ -308,6 +308,7 @@ F||b-code.liadm.com^
 ||cdn-images.mailchimp.com^
 ||cdn-loyalty.yotpo.com^
 ||cdn-media.brightline.tv^
+||cdn-net.com^
 ||cdn-settings.appsflyersdk.com^
 ||cdn-usent.kampyle.com^
 ||cdn-widgetsrepository.yotpo.com^
@@ -837,6 +838,7 @@ F||b-code.liadm.com^
 ||kidpowers.com^
 ||kisinn.info^
 ||kissmetrics.com^
+||kissmetrics.io^
 ||klaviyo.com^
 ||klclick3.com^
 ||knotch-cdn.com^
@@ -1562,6 +1564,7 @@ F||b-code.liadm.com^
 ||wsmcdn.audioeye.com^
 ||wurfl.io^
 ||ww8.kohls.com^
+||www.i.cdn.cnn.com^
 ||wyhifdpatl.com^
 ||xg4ken.com^
 ||xp.apple.com^
