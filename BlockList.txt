@@ -318,6 +318,7 @@
 ||cdn.attn.tv^
 ||cdn.bluebillywig.com^
 ||cdn.blueconic.net^
+||cdn.bootcdn.net^
 ||cdn.bootcss.com^
 ||cdn.branch.io^
 ||cdn.brid.tv^
