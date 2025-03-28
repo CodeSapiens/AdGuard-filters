@@ -153,6 +153,7 @@
 ||api.flipp.com^
 ||api.ipdata.co^
 ||api.ipstack.com^
+||api.parsely.com^
 ||api.qubit.com^
 ||api.receptivity.io^
 ||api.retargetly.com^
@@ -317,6 +318,7 @@
 ||cdn.attn.tv^
 ||cdn.bluebillywig.com^
 ||cdn.blueconic.net^
+||cdn.bootcss.com^
 ||cdn.branch.io^
 ||cdn.brid.tv^
 ||cdn.codeblackbelt.com^
@@ -434,6 +436,7 @@
 ||cookie-script.com^
 ||cookiebot.com
 ||cookiehub.net^
+||cootlogix.com^
 ||cortana-gateway.amazon.com^
 ||counter.any.run^
 ||counter.theconversation.com^
@@ -502,6 +505,7 @@
 ||d9esmwyn3ffr1.cloudfront.net^
 ||dap.digitalgov.gov^
 ||dartsearch.net^
+||data-60d896f23d.radio.net^
 ||data.adobedc.net^
 ||data.cnn.com^
 ||data.mistat.india.xiaomi.com^
@@ -679,6 +683,7 @@
 ||gameplayapi.intel.com^
 ||gannettdigital.com^
 ||ganon.yahoo.com^
+||gc.newsweek.com^
 ||gcion.com^
 ||gdpr.studybreakmedia.com^
 ||gemini.yahoo.com^
@@ -1329,6 +1334,7 @@
 ||smartocto.com^
 ||smetrics.
 ||smetrics.foxnews.com^
+||smilewanted.com^
 ||smoot.apple.com^
 ||snap.licdn.com^
 ||snapengage.com^
@@ -1361,6 +1367,7 @@
 ||ssl.kaptcha.com^
 ||ssl.o.webmd.com^
 ||sstats.adobe.com^
+||stackadapt.com^
 ||stagepopkek.com^
 ||statcollector.sidearmsports.com^
 ||statcounter.com^
@@ -1524,9 +1531,11 @@
 ||verdantsculpture.com^
 ||vergic.com^
 ||verify.authorize.net^
+||veve.com^
 ||vi-serve.com^
 ||via.placeholder.com^
 ||viafoura.
+||video-edge-7672d6.sjc05.hls.live-video.net^
 ||video-edge-a2581d.sjc05.hls.live-video.net^
 ||video.adaptv.advertising.com^
 ||video.unrulymedia.com^
@@ -1586,6 +1595,7 @@
 ||yellowblue.io^
 ||yelp-us.com^
 ||yengo.com^
+||yield-op-idsync.live.streamtheworld.com^
 ||yieldlove
 ||yieldmo.com^
 ||ynuf.aliapp.org^
