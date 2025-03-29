@@ -1477,7 +1477,6 @@
 ||thebrighttag.com^
 ||thechive.com^
 ||thunderhead.com^
-||tinypass.com^
 ||tiqcdn.com^
 ||tiresomethunder.com^
 ||tl.foxbusiness.com^
