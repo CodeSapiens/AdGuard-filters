@@ -1,4 +1,5 @@
 -na.associates-amazon.com^
+-thedispatch-com.tinipass.com^
 .adsbox^
 .cn^
 .opencensus^
@@ -144,6 +145,7 @@
 ||api-cf.affirm.com^
 ||api-esp.piano.io^
 ||api-hotjar.com^
+||api-v3.tinypass.com^
 ||api.apptentive.com^
 ||api.audible.com^
 ||api.auth.adobe.com^
@@ -285,6 +287,7 @@
 ||btttag.com^
 ||bugsnag.com^
 ||business-api.tiktok.com^
+||buy.tinypass.com^
 ||buysellads.net^
 ||byteoversea.com^
 ||c.bing.com^
@@ -351,6 +354,7 @@
 ||cdn.socialannex.com^
 ||cdn.staticfile.org^
 ||cdn.teads.tv^
+||cdn.tinypass.com^
 ||cdn.turner.com^
 ||cdn.undertone.com^
 ||cdn.usefathom.com^
@@ -509,6 +513,7 @@
 ||d9esmwyn3ffr1.cloudfront.net^
 ||dap.digitalgov.gov^
 ||dartsearch.net^
+||dashboard.tinypass.com^
 ||data-*.bild.de^
 ||data-60d896f23d.radio.net^
 ||data.adobedc.net^
@@ -542,6 +547,7 @@
 ||dewrain.world^
 ||diagnostics.meethue.com^
 ||dianomi.com^
+||digimedia.com^
 ||digitru.st^
 ||direct-events-collector.spot.im^
 ||direct.data.api.platform.here.com^
@@ -619,6 +625,7 @@
 ||ex.co^
 ||exacttarget.com^
 ||exelator.com^
+||experience.tinypass.com^
 ||external-*.xx.fbcdn.net^
 ||extmaps-api.yandex.net^
 ||extremereach.io^
@@ -781,6 +788,7 @@
 ||icptrack.com^
 ||icu.newsroom.bi^
 ||id.google.com^
+||id.tinypass.com^
 ||id5-sync.com^
 ||idiagnostics.apple.com
 ||iesnare.com^
@@ -1265,6 +1273,7 @@
 ||salemwebnetwork.com^
 ||samsungadhub.com^
 ||samsungads.com^
+||sandbox.tinypass.com^
 ||sapphire-api.target.com^
 ||sars.amazon.com^
 ||sc-static.net^
@@ -1493,6 +1502,7 @@
 ||tranquilveil.com^
 ||transcend-cdn.com^
 ||trcksp.cordial.io^
+||treasuredata.com^
 ||tredir.go.com^
 ||treg.hearstnp.com^
 ||tremorhub.com^
