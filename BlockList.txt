@@ -48,8 +48,6 @@
 ||accdab.net^
 ||account.api.here.com^
 ||accounts.nvgs.nvidia.cn^
-||activecampaign.com^
-||activehosted.com^
 ||activity.windows.com^
 ||ad-assets.futurecdn.net^
 ||ad-delivery.net^
