@@ -25,10 +25,12 @@
 @@||care80.live800.com^
 @@||cdn.walkme.com^
 @@||checkappexec.microsoft.com^
+@@||cleanbrowsing.org^
 @@||client.wns.windows.com^
 @@||cliqz.com^
 @@||cm.nordvpn.com^
 @@||co1.qualtrics.com^
+@@||community.svc.ui.com^
 @@||configuration.ls.apple.com^
 @@||ctldl.windowsupdate.com^
 @@||d2y5sgsy8bbmb8.cloudfront.net^
@@ -43,6 +45,7 @@
 @@||fpt.live.com^
 @@||ftvr-na.amazon.com^
 @@||g.live.com^
+@@||geolocation-recommendations.shopifyapps.com^
 @@||global.edge.bamgrid.com^
 @@||go.microsoft.com^
 @@||gs-loc.apple.com^
@@ -55,6 +58,7 @@
 @@||ktpx.amazon.com^
 @@||link.info.email.aa.com^
 @@||livechatinc.com^
+@@||logging.api.intuit.com^
 @@||logincdn.msauth.net^
 @@||mail.tutanota.com^
 @@||manifest.prod.boltdns.net^
@@ -112,8 +116,3 @@
 @@||wdcp.microsoft.com^
 @@||www.gstatic.com^
 @@||xcelenergy.com^
-@@||cleanbrowsing.org^
-@@||activehosted.com^
-@@||geolocation-recommendations.shopifyapps.com^
-@@||logging.api.intuit.com^
-@@||community.svc.ui.com^
