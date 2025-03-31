@@ -452,7 +452,6 @@
 ||crashlyticsreports-pa.googleapis.com^
 ||crazyegg.com^
 ||create.lidstatic.com^
-||createsend1.com^
 ||creativebookmark.com^
 ||creativecdn.com^
 ||crimtan.com^
