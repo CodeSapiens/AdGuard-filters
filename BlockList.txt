@@ -73,6 +73,7 @@
 ||adrizer.com^
 ||adroll.com^
 ||adrta.com^
+||ads-*.delivery.roku.com^
 ||ads-api.tiktok.com^
 ||ads-api.twitter.com^
 ||ads-dev.pinterest.com^
@@ -406,6 +407,7 @@
 ||collector.github.com^
 ||collector.githubapp.com^
 ||collector.unsplash.com^
+||collector*.pabs.comcast.com^
 ||colossusssp.com^
 ||com.huawei
 ||comixology.com^
@@ -1537,9 +1539,11 @@
 ||urbanairship.com^
 ||us-*-web-oao.ssp.yahoo.com^
 ||us-*.event.prod.bidr.io^
+||us.i.posthog.com^
 ||us3.campaign-archive.com^
 ||usabilla.com^
 ||usawildseafood.com^
+||use-application-dns.net^
 ||usera.imagecave.com^
 ||userlocation.googleapis.com^
 ||userreport.com^
