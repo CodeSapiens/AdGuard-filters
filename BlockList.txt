@@ -1259,6 +1259,7 @@
 ||s.marketwatch.com^
 ||s.youtube.com^
 ||s1search.co^
+||s3-iad-ww.cf.videorolls.row.aiv-cdn.net^
 ||sa.api.intl.miui.com^
 ||sa.bbc.co.uk^
 ||sa.com^
