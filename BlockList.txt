@@ -13,6 +13,8 @@
 *yomigt
 ||1rx.io^
 ||1trust.app^
+||2345.com^
+||2mdn.net^
 ||2mdn.net^
 ||2o7.net^
 ||33across.com^
@@ -121,6 +123,7 @@
 ||alb.reddit.com^
 ||alexametrics.com^
 ||aloofvest.com^
+||alphonso.tv^
 ||alphonso.tv^
 ||als-svc.nytimes.com^
 ||amazon-adsystem.com^
@@ -807,7 +810,6 @@
 ||in.appcenter.ms^
 ||inbenta.io^
 ||indexww.com^
-||ingest.sentry.io^
 ||ingress.linktr.ee^
 ||ink1001.com^
 ||inmobi.com^
@@ -917,6 +919,7 @@
 ||logs.psm.wmcdp.io^
 ||logs.roku.com^
 ||logs*.amazonaws.com^
+||lookinews.com^
 ||loopme.me^
 ||lotame.com^
 ||lpsnmedia.net^
@@ -924,6 +927,7 @@
 ||lptag.liveperson.net^
 ||luckyorange.com^
 ||luckyorange.net^
+||luronews.com^
 ||lyricshook.com^
 ||lytics.io^
 ||m.stripe.com^
@@ -1219,6 +1223,7 @@
 ||reftagger.com^
 ||regrunreanimator.com^
 ||relay.fiverr.com^
+||reminews.com^
 ||report-uri.io^
 ||reporting-api.gannettinnovation.com^
 ||requestmetrics.com^
@@ -1243,6 +1248,7 @@
 ||rmp.rakuten.com^
 ||rmtag.com^
 ||rnengage.com^
+||rookinews.com^
 ||routing.cloudfront.aws.a2z.com^
 ||rp.liadm.com^
 ||rpxnow.com^
@@ -1507,6 +1513,7 @@
 ||trk.ipaddress.com^
 ||trk.klclick.com^
 ||trk.pinterest.com^
+||trk*.*.hsbc.com
 ||tru.am^
 ||truoptik.com^
 ||truste.com^
