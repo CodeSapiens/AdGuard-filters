@@ -40,7 +40,6 @@
 ||abeagle-public.buzzfeed.com^
 ||abmr.net^
 ||aboutads.info^
-||abs.hls.ttvnw.net^
 ||absorbingband.com^
 ||abstractedauthority.com^
 ||abtasty.com^
@@ -134,18 +133,15 @@
 ||an.facebook.com^
 ||animatedbanner.xyz^
 ||anrdoezrs.net^
-||anvato.net^
 ||ap.spotify.com^
 ||apcdp.apnews.com^
 ||api-2-0.spot.im^
 ||api-adservices.apple.com^
 ||api-bd.kohls.com^
-||api-cf.affirm.com^
 ||api-esp.piano.io^
 ||api-hotjar.com^
 ||api-v3.tinypass.com^
 ||api.apptentive.com^
-||api.audible.com^
 ||api.auth.adobe.com^
 ||api.cnn.io^
 ||api.company-target.com^
@@ -451,6 +447,7 @@
 ||counter.theconversation.com^
 ||countess.twitch.tv^
 ||cquotient.com^
+||crash-report-service.svc.ui.com^
 ||crashlytics.com^
 ||crashlyticsreports-pa.googleapis.com^
 ||crazyegg.com^
@@ -710,7 +707,6 @@
 ||geoedge.be^
 ||geoip.businessinsider.com^
 ||geoip.radio-canada.ca^
-||geolocation
 ||geotrust.com^
 ||getadmiral.com^
 ||getcarro.com^
@@ -814,7 +810,6 @@
 ||ingress.linktr.ee^
 ||ink1001.com^
 ||inmobi.com^
-||innovid.com^
 ||insightexpressai.com^
 ||instiengage.com^
 ||instinctiveads.com^
@@ -909,6 +904,7 @@
 ||log.v.ssp.yahoo.com^
 ||logfiles.zoom.us^
 ||logger.nerdwallet.com^
+||logging.api.intuit.com^
 ||login.cbc.ca^
 ||logistics.amazon.com^
 ||loglady.kiwi.com^
@@ -1328,7 +1324,6 @@
 ||services.brid.tv^
 ||services.brightline.tv^
 ||services.sdiapi.com^
-||serving-sys.com^
 ||settings-win.data.microsoft.com^
 ||sgrupontihecliff.xyz^
 ||shareaholic.net^
@@ -1371,7 +1366,6 @@
 ||sourcepointcmp.bloomberg.com^
 ||sp.argusleader.com^
 ||sp.usatoday.com^
-||spade.twitch.tv^
 ||specialoffers.suppleapps.com^
 ||speedcurve.com^
 ||spiny.ai^
@@ -1430,7 +1424,6 @@
 ||supersonicads.com^
 ||supportmetrics.apple.com^
 ||sustainability.aboutamazon.com^
-||svc.ui.com^
 ||svcs.ebay.com^
 ||svopn.e.michaels.com^
 ||sw88.espn.com^
@@ -1529,6 +1522,7 @@
 ||u566.chron.com^
 ||ubembed.com^
 ||uciservice.com^
+||udc.yahoo.com^
 ||udcm.yahoo.com^
 ||ugdturner.com^
 ||uid.mavencoalition.io^
@@ -1569,6 +1563,7 @@
 ||videodirect.amazon.com^
 ||videoplayerhub.com^
 ||videosvc.ezoic.com^
+||vidible.tv^
 ||viglink.com^
 ||vindicosuite.com^
 ||visualwebsiteoptimizer.com^
