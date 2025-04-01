@@ -1,9 +1,13 @@
+# Needed for app downloads from the Amazon AppStore on FireStick:
+@@||amazonadsi-a.akamaihd.net^
+
+# Needed for Apple AppStore functionality.
+@@||amp-api-*edge.apps.apple.com^
+
 @@||acctcdn.msauth.net^
 @@||ada.support^
 @@||afternic.com^
-@@||amazonadsi-a.akamaihd.net^
 @@||amifloced.org^
-@@||amp-api-*edge.apps.apple.com^
 @@||amp.akamaized.net^
 @@||answerhub.com^
 @@||api-cf.affirm.com^
