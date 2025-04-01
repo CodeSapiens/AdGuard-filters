@@ -178,6 +178,7 @@
 ||applab-sdk.amazon.com^
 ||apple.news^
 ||apple.pa^
+||apple-relay.apple.com^
 ||applicationinsights.azure.com^
 ||applovin.com^
 ||applytics.nordvpn.com^
