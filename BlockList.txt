@@ -176,9 +176,9 @@
 ||app.termly.io^
 ||appboycdn.com^
 ||applab-sdk.amazon.com^
+||apple-relay.apple.com^
 ||apple.news^
 ||apple.pa^
-||apple-relay.apple.com^
 ||applicationinsights.azure.com^
 ||applovin.com^
 ||applytics.nordvpn.com^
@@ -561,6 +561,7 @@
 ||dna.amazon.com^
 ||dns.msftncsi.com^
 ||do-not-tracker.org^
+||doh.dns.apple.com^
 ||doppler-beacon.cbsivideo.com^
 ||dotmetrics.net^
 ||dotomi.com^
@@ -1328,6 +1329,7 @@
 ||services.brightline.tv^
 ||services.sdiapi.com^
 ||serving-sys.com^
+||settings-win.data.microsoft.com^
 ||sgrupontihecliff.xyz^
 ||shareaholic.net^
 ||sharethis.com^
@@ -1532,6 +1534,7 @@
 ||uid.mavencoalition.io^
 ||uidapi.com^
 ||uie.data.cbc.ca^
+||unagi-na.amazon.com^
 ||unagi.amazon.com^
 ||unbounce.com^
 ||unityads.unity3d.com^
@@ -1586,6 +1589,7 @@
 ||wasabi.pluto.tv^
 ||watch-cdn.product.api.espn.com^
 ||watch.amazon.com^
+||watson.events.data.microsoft.com^
 ||web-oao.ssp.yahoo.com^
 ||web.diagnostic.networking.aws.dev^
 ||webcontentassessor.com^
