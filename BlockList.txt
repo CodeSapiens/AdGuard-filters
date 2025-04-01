@@ -127,7 +127,6 @@
 ||amazon-adsystem.com^
 ||amazon.dev^
 ||amazonaax.com^
-||amazonads
 ||amazonclix.com^
 ||amcs-tachyon.com^
 ||amplitude.com^
