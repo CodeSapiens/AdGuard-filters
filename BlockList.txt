@@ -361,6 +361,7 @@
 ||cdn.ywxi.net^
 ||cdn.ziffstatic.com^
 ||cdn*.judge.me^
+||cdn*.pendo.io^
 ||cdnads.geeksforgeeks.org^
 ||cdnopw.com^
 ||cdns.*.gigya.com^
