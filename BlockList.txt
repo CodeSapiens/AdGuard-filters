@@ -238,6 +238,7 @@
 ||beam.hlserve.com^
 ||beap.gemini.yahoo.com^
 ||betrad.com^
+||bettingpartners.com^
 ||beyondwickedmapping.org^
 ||bf.dynatrace.com^
 ||bfmio.com^
@@ -386,6 +387,7 @@
 ||clickbank.com^
 ||clickbank.net^
 ||clickmagick.com^
+||clicktripz.com^
 ||client.rum.*.amazonaws.com^
 ||cloud1.linksyssmartwifi.com^
 ||cloudflareinsights.com^
@@ -465,6 +467,7 @@
 ||crwdcntrl.net^
 ||csi.gstatic.com^
 ||csp-reporting.cloudflare.com^
+||csp.secureserver.net^
 ||csp.yahoo.com^
 ||cstat.cdn-apple.com^
 ||ct.pinterest.com^
@@ -769,6 +772,7 @@
 ||hlserve.com^
 ||holid.bbvms.com^
 ||homedepot.online-metrix.net^
+||hospitablehall.com^
 ||hotjar.com^
 ||hotjar.io^
 ||hrzn-nxt.com^
@@ -851,6 +855,7 @@
 ||js.usemessages.com^
 ||js7k.com^
 ||jsonip.com^
+||junmediadclikrmdi.com^
 ||justpremium.com^
 ||jwpltx.com^
 ||k.pluto.tv^
@@ -1003,6 +1008,7 @@
 ||monitoring.*.amazonaws.com^
 ||monorail-edge.shopifysvc.com^
 ||mopinion.com^
+||motoringlawyers.com^
 ||mouseflow.com^
 ||mp.theepochtimes.com^
 ||mparticle.com^
@@ -1307,6 +1313,7 @@
 ||securemetrics.apple.com^
 ||securestudies.com^
 ||securitytrfx.com^
+||sedoparking.com^
 ||seedtag.com^
 ||seethru.co.uk^
 ||seeyoufarm.com^
@@ -1440,6 +1447,7 @@
 ||swiftypecdn.com^
 ||swypeconnect.com^
 ||symplr.de^
+||syndicatedsearch.goog^
 ||syndication.twitter.com^
 ||syndigo.cloud^
 ||t.co^
