@@ -486,6 +486,7 @@
 ||d21m0ezw6fosyw.cloudfront.net^
 ||d23tl967axkois.cloudfront.net^
 ||d2a45ul8pxjvk7.cloudfront.net^
+||d2e0sxz09bo7k2.cloudfront.net^
 ||d2ef20sk9hi1u3.cloudfront.net^
 ||d2fbvay81k4ji3.cloudfront.net^
 ||d2in0p32vp1pij.cloudfront.net^
