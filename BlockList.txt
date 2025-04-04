@@ -15,7 +15,6 @@
 ||1trust.app^
 ||2345.com^
 ||2mdn.net^
-||2mdn.net^
 ||2o7.net^
 ||33across.com^
 ||3gl.net^
@@ -75,11 +74,10 @@
 ||adroll.com^
 ||adrta.com^
 ||ads-*.delivery.roku.com^
-||ads-api.tiktok.com^
-||ads-api.twitter.com^
-||ads-dev.pinterest.com^
+||ads-*.pinterest.com^
+||ads-*.tiktok.com^
+||ads-*.twitter.com^
 ||ads-setu-proxy.amazon.com^
-||ads-sg.tiktok.com^
 ||ads-twitter.com^
 ||ads.
 ||adsafeprotected.com^
@@ -124,7 +122,6 @@
 ||alexametrics.com^
 ||aloofvest.com^
 ||alphonso.tv^
-||alphonso.tv^
 ||als-svc.nytimes.com^
 ||amazon-adsystem.com^
 ||amazon.dev^
@@ -145,7 +142,6 @@
 ||api-hotjar.com^
 ||api-v3.tinypass.com^
 ||api.apptentive.com^
-||api.auth.adobe.com^
 ||api.cnn.io^
 ||api.company-target.com^
 ||api.edgeoffer.microsoft.com^
@@ -273,8 +269,7 @@
 ||brilliantcollector.com^
 ||britepool.com^
 ||broadstreetads.com^
-||browser-intake-datadoghq.com^
-||browser-intake-us*-datadoghq.com^
+||browser-intake*-datadoghq.com^
 ||browser.covatic.io^
 ||browser.events.data.msn.com^
 ||browser.pipe.aria.microsoft.com^
@@ -401,6 +396,7 @@
 ||cod-assets.cdn.callofduty.com^
 ||collector-*.perimeterx.net^
 ||collector-*.px-cdn.net^
+||collector-*.px-client.net^
 ||collector-*.px-cloud.net^
 ||collector-*.pxchk.net^
 ||collector-hpn.ghostery.net^
@@ -521,10 +517,7 @@
 ||data-60d896f23d.radio.net^
 ||data.adobedc.net^
 ||data.cnn.com^
-||data.mistat.india.xiaomi.com^
-||data.mistat.intl.xiaomi.com^
-||data.mistat.rus.xiaomi.com^
-||data.mistat.xiaomi.com^
+||data.mistat*.xiaomi.com^
 ||data.pendo.io^
 ||datadoghq-browser-agent.com^
 ||datadome.co^
@@ -553,7 +546,6 @@
 ||dianomi.com^
 ||digimedia.com^
 ||digitru.st^
-||direct-events-collector.spot.im^
 ||direct.data.api.platform.here.com^
 ||directavenue.tech^
 ||display.ugc.bazaarvoice.com^
@@ -614,7 +606,6 @@
 ||eum-appdynamics.com^
 ||eve.playstation.com^
 ||eventbus.intuit.com^
-||events-collector.spot.im^
 ||events.brightline.tv^
 ||events.kumulos.com^
 ||events.launchdarkly.com^
@@ -656,7 +647,6 @@
 ||firebase*.googleapis.com^
 ||firebaseapp.com^
 ||firebaseio.com^
-||firebaselogging-pa.googleapis.com^
 ||firehose*.amazonaws.com^
 ||firetv-news-content-ingestion.amazon.com^
 ||fireworkapi1.com^
@@ -997,8 +987,7 @@
 ||mobile.events.data.microsoft.com^
 ||mobile.pipe.aria.microsoft.com^
 ||mobsmith.com^
-||mon*-normal-us*.tiktokv.com^
-||mon*-normal-us*.tiktokv.us^
+||mon*-normal-us*.tiktokv.
 ||mon1.kohls.com^
 ||monarchads.com^
 ||monetate.net^
@@ -1057,8 +1046,7 @@
 ||ny77jj.washingtonpost.com^
 ||nypost-com.videoplayerhub.com^
 ||ocsp.apple.com^
-||oempprd.samsungcloudsolution.com^
-||oempprd.samsungcloudsolution.net^
+||oempprd.samsungcloudsolution.
 ||offerwall.yandex.net^
 ||ogads-pa.clients6.google.com^
 ||ogads-pa.googleapis.com^
@@ -1263,7 +1251,6 @@
 ||rubiconproject.com^
 ||rudderlabs.com^
 ||rum-metrics.bunny.net^
-||rum.browser-intake-datadoghq.com^
 ||rxeosevsso.com^
 ||s-adzone.com^
 ||s-onetag.com^
@@ -1380,6 +1367,7 @@
 ||sourcepointcmp.bloomberg.com^
 ||sp.argusleader.com^
 ||sp.usatoday.com^
+||sp.yelp.com^
 ||specialoffers.suppleapps.com^
 ||speedcurve.com^
 ||spiny.ai^
@@ -1450,6 +1438,7 @@
 ||syndicatedsearch.goog^
 ||syndication.twitter.com^
 ||syndigo.cloud^
+||t.cloudpano.com^
 ||t.co^
 ||t.dailymail.co.uk^
 ||t.flickr.com^
@@ -1650,3 +1639,4 @@
 ||zkcdn.net^
 ||zqtk.net^
 ||zwyr157wwiu6eior.com^
+events-collector.spot.im^
