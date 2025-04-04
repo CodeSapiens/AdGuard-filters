@@ -61,6 +61,7 @@
 ||addthis.com^
 ||addtoany.com^
 ||adform.net^
+||adgrx.com^
 ||adingo.jp^
 ||adlightning.com^
 ||admanmedia.com^
@@ -589,6 +590,7 @@
 ||edgecast-vod.yimg.com^
 ||edigitalsurvey.com^
 ||effectivecreativeformat.com^
+||el.quizlet.com^
 ||eloqua.com^
 ||email.aboutamazon.com^
 ||emb-api.com^
@@ -831,6 +833,7 @@
 ||janrain.com^
 ||jcpclick.com^
 ||jeeng.com^
+||jg7y.quizlet.com^
 ||jivox.com^
 ||js-cdn.dynatrace.com^
 ||js.chilipiper.com^
@@ -951,7 +954,6 @@
 ||media.flixcar.com^
 ||media.flixfacts.com^
 ||media.fusion92.com^
-||media.kohlsimg.com^
 ||media.net^
 ||media.swncdn.com^
 ||media.travelzoo.com^
@@ -1027,6 +1029,7 @@
 ||newscgp.com^
 ||nexstardigital.net^
 ||nexusrules.officeapps.live.com^
+||nimbleswan.io^
 ||ninthdecimal.com^
 ||nitroscripts.com^
 ||njtzzrvg0lwj3bsn.info^
@@ -1298,6 +1301,7 @@
 ||secure.rating-widget.com^
 ||secureir.ebaystatic.com^
 ||securemetrics.apple.com^
+||securemvt.apple.com^
 ||securestudies.com^
 ||securitytrfx.com^
 ||sedoparking.com^
