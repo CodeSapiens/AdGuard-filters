@@ -143,6 +143,7 @@
 ||api-hotjar.com^
 ||api-v3.tinypass.com^
 ||api.apptentive.com^
+||api.aws.parking.godaddy.com^
 ||api.cnn.io^
 ||api.company-target.com^
 ||api.edgeoffer.microsoft.com^
@@ -486,6 +487,7 @@
 ||d21gpk1vhmjuf5.cloudfront.net^
 ||d21m0ezw6fosyw.cloudfront.net^
 ||d23tl967axkois.cloudfront.net^
+||d24n15hnbwhuhn.cloudfront.net^
 ||d2a45ul8pxjvk7.cloudfront.net^
 ||d2e0sxz09bo7k2.cloudfront.net^
 ||d2ef20sk9hi1u3.cloudfront.net^
@@ -572,6 +574,7 @@
 ||drfdisvc.walmart.com^
 ||ds-aksb-a.akamaihd.net^
 ||dsms0mj1bbhn4.cloudfront.net^
+||du8783wkf05yr.cloudfront.net^
 ||duapps.com^
 ||dwgyu36up6iuz.cloudfront.net^
 ||dwin1.com^
@@ -579,6 +582,8 @@
 ||dynamicyield.com^
 ||dynatrace.att.com^
 ||e-planning.net^
+||ebayclassifiedsgroup.com^
+||ebayrtm.com^
 ||ebxcdn.com^
 ||ec.thredup.com^
 ||ecdinterface.philips.com^
@@ -701,6 +706,7 @@
 ||gcion.com^
 ||gdpr.studybreakmedia.com^
 ||gemini.yahoo.com^
+||gemius.pl^
 ||geo.ads
 ||geo.gfycat.com^
 ||geo.ngtv.io^
@@ -765,6 +771,7 @@
 ||hicloud.com^
 ||highcpmrevenuenetwork.com^
 ||highperformancegate.com^
+||hitbox.com^
 ||hlserve.com^
 ||holid.bbvms.com^
 ||homedepot.online-metrix.net^
@@ -783,6 +790,7 @@
 ||ia.media-imdb.com^
 ||iabusprivacy.pmc.com^
 ||iadsdk.apple.com^
+||iasds01.com^
 ||ichnaea-web.netflix.com^
 ||ichnaea.netflix.com^
 ||icpsuawn1zy5amys.com^
@@ -1075,11 +1083,14 @@
 ||onetrust.com^
 ||online-metrix.net^
 ||openx.net^
+||openx.org^
+||openxenterprise.com^
 ||ophan.
 ||optimize-stats.voxmedia.com^
 ||optimizely.com^
 ||optimizely.wsj.com^
 ||optimonk.com^
+||os.tc^
 ||os4work.com^
 ||osb.samsungqbe.com^
 ||osm-ads*.delivery.roku.com^
@@ -1225,6 +1236,7 @@
 ||recsys-api.buzzfeed.com^
 ||redirector.gvt1.com^
 ||redtrack.io^
+||refer.wordpress.com^
 ||referrer.disqus.com^
 ||reftagger.com^
 ||regrunreanimator.com^
@@ -1331,6 +1343,7 @@
 ||sephora-track.inside-graph.com^
 ||sephora.cnstrc.com^
 ||servebom.com^
+||servedbyopenx.com^
 ||serverbid-sync.nyc3.cdn.digitaloceanspaces.com^
 ||serverbid.com^
 ||service.amazonsilk.com^
@@ -1355,6 +1368,7 @@
 ||site24x7rum.eu^
 ||siteintercept.qualtrics.com^
 ||sitescout.com^
+||sitestat.com^
 ||sizmek.com^
 ||skimresources.com^
 ||sm.dell.com^
@@ -1431,6 +1445,7 @@
 ||stun.cdn-net.com^
 ||stun.voiparound.com^
 ||stun*.l.google.com^
+||styria-digital.com^
 ||subs.youmaker.com^
 ||subscription-forms.smsbump.com^
 ||succeedscene.com^
@@ -1512,6 +1527,7 @@
 ||tracking.sezzle.com^
 ||trackonomics.net^
 ||tradecore.tradehouse.media^
+||trafficstars.com^
 ||tranquilveil.com^
 ||transcend-cdn.com^
 ||trcksp.cordial.io^
@@ -1530,6 +1546,7 @@
 ||truste.com^
 ||trustx.org^
 ||try.elevenlabs.io^
+||tsyndicate.com^
 ||ttmetrics.jcpenney.com^
 ||turn.com^
 ||turncdn.com^
@@ -1640,6 +1657,7 @@
 ||yieldlove
 ||yieldmo.com^
 ||ynuf.aliapp.org^
+||yoc-adserver.com^
 ||yottaa.net^
 ||youborafds01.com^
 ||zdstatic.speedtest.net^
