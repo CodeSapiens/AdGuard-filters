@@ -270,7 +270,7 @@
 ||brilliantcollector.com^
 ||britepool.com^
 ||broadstreetads.com^
-||browser-intake*-datadoghq.com^
+||browser-intake*-datadoghq
 ||browser.covatic.io^
 ||browser.events.data.msn.com^
 ||browser.pipe.aria.microsoft.com^
@@ -438,6 +438,7 @@
 ||contextual.media.net^
 ||contextweb.com^
 ||contributor.google.com^
+||convertexperiments.com^
 ||conviva.com^
 ||cookie-cdn.cookiepro.com^
 ||cookie-script.com^
@@ -604,6 +605,7 @@
 ||ensighten.com^
 ||ensighten.norton.com^
 ||entitlements.jwplayer.com^
+||error-tracking.reddit.com^
 ||esm1.net^
 ||espn.api.edge.bamgrid.com^
 ||eum-appdynamics.com^
@@ -619,6 +621,7 @@
 ||events.redditmedia.com^
 ||everestjs.net^
 ||everesttech.net^
+||evergage.com^
 ||evidon.com^
 ||eviltracker.net^
 ||ex.co^
@@ -892,6 +895,7 @@
 ||linkwithin.com^
 ||litix.io^
 ||livefyre.com^
+||liveramp.com^
 ||lixarproxsee
 ||ll.dash.row.aiv-cdn.net^
 ||lngtd.com^
@@ -1008,6 +1012,7 @@
 ||mplxtms.com^
 ||mps.cnbc.com^
 ||mps.nbcuni.com^
+||mpstat.us^
 ||mqtt.*.ltsapis.goog^
 ||mr.homedepot.com^
 ||msmedia.morningstar.com^
@@ -1015,6 +1020,7 @@
 ||mssdk.tiktokw.us^
 ||mutinycdn.com^
 ||mxpnl.com^
+||mxpnl.net^
 ||myfidevs.io^
 ||myfinance.com^
 ||mzhlhrfr8z.info^
@@ -1079,6 +1085,7 @@
 ||osm-ads*.delivery.roku.com^
 ||oui-0x00199d.com^
 ||outbrain.com^
+||outbrainimg.com^
 ||outreach.abetterinternet.org^
 ||owneriq.net^
 ||p-n.io^
@@ -1115,6 +1122,7 @@
 ||pingback.issuu.com^
 ||pipe.aria.microsoft.com^
 ||pipedream.wistia.com^
+||pippio.com^
 ||pix.pub^
 ||pix.spot.im^
 ||pixel-config.reddit.com^
@@ -1207,6 +1215,7 @@
 ||r541.houstonchronicle.com^
 ||radar.cedexis.com^
 ||rainmaker*.production-public.tubi.io^
+||rapleaf.com^
 ||raptive.com^
 ||ras.yahoo.com^
 ||ravenjs.com^
@@ -1254,6 +1263,7 @@
 ||rubiconproject.com^
 ||rudderlabs.com^
 ||rum-metrics.bunny.net^
+||rum.hlx.page^
 ||rxeosevsso.com^
 ||s-adzone.com^
 ||s-onetag.com^
