@@ -1010,7 +1010,6 @@
 ||mps.nbcuni.com^
 ||mqtt.*.ltsapis.goog^
 ||mr.homedepot.com^
-||msedge*.delivery.mp.microsoft.com^
 ||msmedia.morningstar.com^
 ||mssdk-sg.tiktok.com^
 ||mssdk.tiktokw.us^
