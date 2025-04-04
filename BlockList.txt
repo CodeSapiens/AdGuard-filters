@@ -17,6 +17,7 @@
 ||2mdn.net^
 ||2o7.net^
 ||33across.com^
+||360yield.com^
 ||3gl.net^
 ||3lift.com^
 ||3p-geo.yahoo.com^
@@ -61,6 +62,7 @@
 ||addthis.com^
 ||addtoany.com^
 ||adform.net^
+||adformdsp.net^
 ||adgrx.com^
 ||adingo.jp^
 ||adlightning.com^
@@ -94,6 +96,7 @@
 ||adsrvr.org^
 ||adstechtool.com^
 ||adswizz.com^
+||adsymptotic.com^
 ||adtago.s3.amazonaws.com^
 ||adtech.advertising.com^
 ||adtech.redventures.io^
@@ -144,13 +147,13 @@
 ||api-v3.tinypass.com^
 ||api.apptentive.com^
 ||api.aws.parking.godaddy.com^
+||api.axept.io^
 ||api.cnn.io^
 ||api.company-target.com^
 ||api.edgeoffer.microsoft.com^
 ||api.flipp.com^
 ||api.ipdata.co^
 ||api.ipstack.com^
-||api.parsely.com^
 ||api.qubit.com^
 ||api.receptivity.io^
 ||api.retargetly.com^
@@ -186,6 +189,7 @@
 ||aptivada.com^
 ||asadcdn.com^
 ||ascendeummedia.com^
+||assemblyexchange.com^
 ||assets-jpcust.jwpsrv.com^
 ||assets.alicdn.com^
 ||assets.mailerlite.com^
@@ -198,6 +202,7 @@
 ||at.cbsi.com^
 ||atdmt.com^
 ||atemos.org^
+||ati-host.net^
 ||atrack.avplayer.com^
 ||ats.everesttech.net^
 ||att.inq.com^
@@ -221,6 +226,7 @@
 ||b.stats.paypal.com^
 ||backstory.ebay.com^
 ||backtrace.io^
+||baidustatic.com^
 ||bannersnack.com^
 ||basebanner.com^
 ||bat.bing.com^
@@ -241,11 +247,13 @@
 ||bf.dynatrace.com^
 ||bfmio.com^
 ||bh.contextweb.com^
+||bidr.io^
 ||bidswitch.net^
 ||bigdata.ssp.samsung.com^
 ||bilsyndication.com^
 ||bitmovin.com^
 ||bizible.com^
+||bizographics.com^
 ||bkrtx.com^
 ||blockmetrics.com^
 ||blog.aboutamazon.com^
@@ -265,6 +273,7 @@
 ||bounceexchange.com^
 ||bouncex.net^
 ||boxofficemojo.com^
+||branch.io^
 ||brand-sdk.kmsmep.com^
 ||brandmetrics.com^
 ||braze.com^
@@ -337,7 +346,6 @@
 ||cdn.lr-ingest.io^
 ||cdn.membrana.media^
 ||cdn.opecloud.com^
-||cdn.parsely.com^
 ||cdn.petametrics.com^
 ||cdn.privacy-mgmt.com^
 ||cdn.prod.discovery.evvnt.com^
@@ -364,6 +372,7 @@
 ||cdnssl.clicktale.net^
 ||cdntravelspike.azureedge.net^
 ||cdp-dev.cnn.com^
+||ced*.sascdn.com^
 ||cedexis-test.com^
 ||cerebro.edna.yahoo.net^
 ||cf-timedtext.aux.pv-cdn.net^
@@ -433,6 +442,7 @@
 ||consent.cmp.oath.com^
 ||consent.dropbox.com^
 ||consent.economist.com^
+||consentmanager.net^
 ||content-yahoo.uplynk.com^
 ||content.webcollage.net^
 ||contentsquare.net^
@@ -504,6 +514,7 @@
 ||d35k22e9287vnh.cloudfront.net^
 ||d35u1vg1q28b3w.cloudfront.net^
 ||d3a510xmpll7o6.cloudfront.net^
+||d3c8j8snkzfr1n.cloudfront.net^
 ||d3div1mtym39ic.cloudfront.net^
 ||d3h5bk8iotgjvw.cloudfront.net^
 ||d3icekm41k795y.cloudfront.net^
@@ -574,6 +585,7 @@
 ||drfdisvc.walmart.com^
 ||ds-aksb-a.akamaihd.net^
 ||dsms0mj1bbhn4.cloudfront.net^
+||dtmpub.com^
 ||du8783wkf05yr.cloudfront.net^
 ||duapps.com^
 ||dwgyu36up6iuz.cloudfront.net^
@@ -665,7 +677,8 @@
 ||flashtalking.com^
 ||flask*.nextdoor.com^
 ||flix360.com^
-||fls-na.amazon.com^
+||fls-fe.amazon.
+||fls-na.amazon.
 ||flurry.com^
 ||fm.cnbc.com^
 ||fn-pz.com^
@@ -779,11 +792,16 @@
 ||hotjar.com^
 ||hotjar.io^
 ||hrzn-nxt.com^
+||hs-banner.com^
 ||hs-scripts.com^
 ||hscollectedforms.net^
+||hscta.net^
+||hsleadflows.net^
 ||htlbid.com^
 ||httpschecker.net^
 ||hubapi.com^
+||hubspotfeedback.com^
+||hubvisor.io^
 ||hugedomains.com^
 ||humanpresence.app^
 ||i.paypal.com^
@@ -822,6 +840,7 @@
 ||ink1001.com^
 ||inmobi.com^
 ||insightexpressai.com^
+||insights.alibaba.com^
 ||instiengage.com^
 ||instinctiveads.com^
 ||integralads.com^
@@ -943,6 +962,7 @@
 ||lytics.io^
 ||m.stripe.com^
 ||m.yap.yahoo.com^
+||m365cdn.nel.measure.office.net^
 ||mads.amazon.com^
 ||mail-ads.google.com^
 ||mailchimp.com^
@@ -1023,6 +1043,7 @@
 ||mpstat.us^
 ||mqtt.*.ltsapis.goog^
 ||mr.homedepot.com^
+||mrf.io^$important
 ||msmedia.morningstar.com^
 ||mssdk-sg.tiktok.com^
 ||mssdk.tiktokw.us^
@@ -1045,6 +1066,7 @@
 ||nexusrules.officeapps.live.com^
 ||nimbleswan.io^
 ||ninthdecimal.com^
+||nitropay.com^
 ||nitroscripts.com^
 ||njtzzrvg0lwj3bsn.info^
 ||nmcdn.us^
@@ -1080,6 +1102,8 @@
 ||oneplus.com^
 ||oneplus.net^
 ||onesignal.com^
+||onetag-sys.com^
+||onetag.com^
 ||onetrust.com^
 ||online-metrix.net^
 ||openx.net^
@@ -1090,6 +1114,7 @@
 ||optimizely.com^
 ||optimizely.wsj.com^
 ||optimonk.com^
+||oribi.io^
 ||os.tc^
 ||os4work.com^
 ||osb.samsungqbe.com^
@@ -1101,7 +1126,6 @@
 ||owneriq.net^
 ||p-n.io^
 ||p.typekit.net^
-||p1.parsely.com^
 ||p7cloud.net^
 ||pafvertizing.crazygames.com^
 ||pagefair.com^
@@ -1112,6 +1136,7 @@
 ||panorama.wixapps.net^
 ||pardot.com^
 ||parkingcrew.net^
+||parsely.com^
 ||partnerads.ysm.yahoo.com^
 ||pbc.wsj.com^
 ||pbcs.nypost.com^
@@ -1126,6 +1151,8 @@
 ||personalization.bloomberg.com^
 ||phar.gu-web.net^
 ||pharmacy.amazon.com^
+||phncdn.com^
+||phncdn.com^
 ||phonograph2.voxmedia.com^
 ||piano.io^
 ||pindorama.amazon.com^
@@ -1209,6 +1236,7 @@
 ||purr.nytimes.com^
 ||push.kumulos.com^
 ||pushengage.com^
+||pusherapp.com^
 ||pushmaster-cdn.xyz^
 ||pxlctl.
 ||q.quora.com^
@@ -1220,6 +1248,7 @@
 ||quantcast.mgr.consensu.org^
 ||quantcount.com^
 ||quantserve.com^
+||quantummetric.com^
 ||queryly.com^
 ||r.bbci.co.uk^
 ||r.stripe.com^
@@ -1313,6 +1342,7 @@
 ||sdk.postscript.io^
 ||sdk.qikify.com^
 ||sdk.split.io^
+||seadform.net^
 ||seal.digicert.com^
 ||seal.verisign.com^
 ||search-api.devicebits.com^
@@ -1564,10 +1594,10 @@
 ||uid.mavencoalition.io^
 ||uidapi.com^
 ||uie.data.cbc.ca^
-||unagi-na.amazon.com^
-||unagi.amazon.com^
+||unagi*.amazon.
 ||unbounce.com^
 ||unityads.unity3d.com^
+||unrulymedia.com^
 ||ups.inq.com^
 ||upsellit.com^
 ||urbanairship.com^
@@ -1579,6 +1609,8 @@
 ||usawildseafood.com^
 ||use-application-dns.net^
 ||usera.imagecave.com^
+||usercentrics.eu^
+||usercentrics.eu^
 ||userlocation.googleapis.com^
 ||userreport.com^
 ||vaicore.
@@ -1627,6 +1659,7 @@
 ||webpubcontent.gray.tv^
 ||webpushs.com^
 ||webpushsr.com^
+||webvisor.org^
 ||widengle.com^
 ||widget.nfusionsolutions.com^
 ||widget.trustpilot.com^
@@ -1646,9 +1679,16 @@
 ||www.i.cdn.cnn.com^
 ||wyhifdpatl.com^
 ||xg4ken.com^
+||xhamster.com^
+||xhamsterlive.com^
+||xhamsterpremium.com^
+||xhcdn.com^
+||xiti.com^
 ||xp.apple.com^
 ||xp.atlassian.com^
 ||xspadvertising.com^
+||xvideos-cdn.com^
+||xvideos.com^
 ||yahoo.uservoice.com^
 ||yellowblue.io^
 ||yelp-us.com^
